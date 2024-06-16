@@ -1,11 +1,49 @@
 {
-  "favorite-products": [{ "productId": 0 }, { "productId": 1 }],
-  "cart": [
-    {
-      "productId": 0,
-      "quantity": 1000
-    }
-  ],
+  "all-events": { 
+    "status": 200, 
+    "message": "OK", 
+    "messageDetail": "All items retrieved successfully", 
+    "data": [ 
+      { 
+        "name": "Seminar Berbayar", 
+        "price": 30000, 
+        "start_date": "2022-08-01T00:00:00.000Z", 
+        "category": "development", 
+        "organizer": "budi setiawan", 
+        "main_image": "https://images.unsplash.com/photo2.png" 
+      }, 
+      { 
+        "name": "Seminar Gratis", 
+        "price": null, 
+        "start_date": "2022-08-01T00:00:00.000Z", 
+        "category": "art", 
+        "organizer": "budi setiawan juga", 
+        "main_image": "https://images.unsplash.com/photo1.png" 
+      }
+    ]
+  },
+  "event-detail": {
+    "status": 200,
+    "message": "OK",
+    "messageDetail": "Item retrieved successfully",
+    "data": 
+      {
+        "name": "Seminar Berbayar",
+        "detail": "ini adalah seminar berbayar yang sangat mahal namun tidak worth it",
+        "location": "Jakarta",
+        "seats": 100,
+        "price": 30000,
+        "start_date": "2022-08-01T00:00:00.000Z",
+        "end_date": "2022-08-02T00:00:00.000Z",
+        "organizer": "budi setiawan",
+        "category": "development",
+        "images": [
+          "https://images.unsplash.com/photo-1542838132-92c53300491e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+          "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+          "https://images.unsplash.com/photo-1542838132-92c53300491e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+        ]
+      }
+  },
   "products": [
     {
       "price": 0.32,
