@@ -10,7 +10,7 @@
         "start_date": "2022-08-01T00:00:00.000Z", 
         "category": "development", 
         "organizer": "budi setiawan", 
-        "main_image": "https://images.unsplash.com/photo2.png" 
+        "main_image": "https://picsum.photos/seed/picsum/300/200" 
       }, 
       { 
         "name": "Seminar Gratis", 
@@ -18,7 +18,7 @@
         "start_date": "2022-08-01T00:00:00.000Z", 
         "category": "art", 
         "organizer": "budi setiawan juga", 
-        "main_image": "https://images.unsplash.com/photo1.png" 
+        "main_image": "https://picsum.photos/seed/picsum/300/200" 
       }
     ]
   },
@@ -38,9 +38,9 @@
         "organizer": "budi setiawan",
         "category": "development",
         "images": [
-          "https://images.unsplash.com/photo-1542838132-92c53300491e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-          "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-          "https://images.unsplash.com/photo-1542838132-92c53300491e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+          "https://picsum.photos/seed/picsum/300/200" ,
+          "https://picsum.photos/seed/picsum/300/200" ,
+          "https://picsum.photos/seed/picsum/300/200" 
         ]
       }
   },
