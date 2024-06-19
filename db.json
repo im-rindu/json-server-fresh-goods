@@ -1,178 +1,708 @@
 {
-  "all-events": { 
-    "status": 200, 
-    "message": "OK", 
-    "messageDetail": "All items retrieved successfully", 
-    "data": [ 
-      { 
-        "name": "Seminar Berbayar", 
-        "price": 30000, 
-        "start_date": "2022-08-01T00:00:00.000Z", 
-        "category": "development", 
-        "organizer": "budi setiawan", 
-        "main_image": "https://picsum.photos/seed/picsum/300/200" 
-      }, 
-      { 
-        "name": "Seminar Gratis", 
-        "price": null, 
-        "start_date": "2022-08-01T00:00:00.000Z", 
-        "category": "art", 
-        "organizer": "budi setiawan juga", 
-        "main_image": "https://picsum.photos/seed/picsum/300/200" 
-      }, 
-      { 
-        "name": "Seminar Gratis tapi boong", 
-        "price": 50000, 
-        "start_date": "2022-08-01T00:00:00.000Z", 
-        "category": "game", 
-        "organizer": "budi setiawan juga", 
-        "main_image": "https://picsum.photos/seed/picsum/300/200" 
-      },{ 
-        "name": "Seminar Berbayar", 
-        "price": 30000, 
-        "start_date": "2022-08-01T00:00:00.000Z", 
-        "category": "development", 
-        "organizer": "budi setiawan", 
-        "main_image": "https://picsum.photos/seed/picsum/300/200" 
-      }, 
-      { 
-        "name": "Seminar Gratis", 
-        "price": null, 
-        "start_date": "2022-08-01T00:00:00.000Z", 
-        "category": "art", 
-        "organizer": "budi setiawan juga", 
-        "main_image": "https://picsum.photos/seed/picsum/300/200" 
-      }, 
-      { 
-        "name": "Seminar Gratis tapi boong", 
-        "price": 50000, 
-        "start_date": "2022-08-01T00:00:00.000Z", 
-        "category": "game", 
-        "organizer": "budi setiawan juga", 
-        "main_image": "https://picsum.photos/seed/picsum/300/200" 
-      },{ 
-        "name": "Seminar Berbayar", 
-        "price": 30000, 
-        "start_date": "2022-08-01T00:00:00.000Z", 
-        "category": "development", 
-        "organizer": "budi setiawan", 
-        "main_image": "https://picsum.photos/seed/picsum/300/200" 
-      }, 
-      { 
-        "name": "Seminar Gratis", 
-        "price": null, 
-        "start_date": "2022-08-01T00:00:00.000Z", 
-        "category": "art", 
-        "organizer": "budi setiawan juga", 
-        "main_image": "https://picsum.photos/seed/picsum/300/200" 
-      }, 
-      { 
-        "name": "Seminar Gratis tapi boong", 
-        "price": 50000, 
-        "start_date": "2022-08-01T00:00:00.000Z", 
-        "category": "game", 
-        "organizer": "budi setiawan juga", 
-        "main_image": "https://picsum.photos/seed/picsum/300/200" 
-      },{ 
-        "name": "Seminar Berbayar", 
-        "price": 30000, 
-        "start_date": "2022-08-01T00:00:00.000Z", 
-        "category": "development", 
-        "organizer": "budi setiawan", 
-        "main_image": "https://picsum.photos/seed/picsum/300/200" 
-      }, 
-      { 
-        "name": "Seminar Gratis", 
-        "price": null, 
-        "start_date": "2022-08-01T00:00:00.000Z", 
-        "category": "art", 
-        "organizer": "budi setiawan juga", 
-        "main_image": "https://picsum.photos/seed/picsum/300/200" 
-      }, 
-      { 
-        "name": "Seminar Gratis tapi boong", 
-        "price": 50000, 
-        "start_date": "2022-08-01T00:00:00.000Z", 
-        "category": "game", 
-        "organizer": "budi setiawan juga", 
-        "main_image": "https://picsum.photos/seed/picsum/300/200" 
-      }, { 
-        "name": "Seminar Berbayar", 
-        "price": 30000, 
-        "start_date": "2022-08-01T00:00:00.000Z", 
-        "category": "development", 
-        "organizer": "budi setiawan", 
-        "main_image": "https://picsum.photos/seed/picsum/300/200" 
-      }, 
-      { 
-        "name": "Seminar Gratis", 
-        "price": null, 
-        "start_date": "2022-08-01T00:00:00.000Z", 
-        "category": "art", 
-        "organizer": "budi setiawan juga", 
-        "main_image": "https://picsum.photos/seed/picsum/300/200" 
-      }, 
-      { 
-        "name": "Seminar Gratis tapi boong", 
-        "price": 50000, 
-        "start_date": "2022-08-01T00:00:00.000Z", 
-        "category": "game", 
-        "organizer": "budi setiawan juga", 
-        "main_image": "https://picsum.photos/seed/picsum/300/200" 
-      },{ 
-        "name": "Seminar Berbayar", 
-        "price": 30000, 
-        "start_date": "2022-08-01T00:00:00.000Z", 
-        "category": "development", 
-        "organizer": "budi setiawan", 
-        "main_image": "https://picsum.photos/seed/picsum/300/200" 
-      }, 
-      { 
-        "name": "Seminar Gratis", 
-        "price": null, 
-        "start_date": "2022-08-01T00:00:00.000Z", 
-        "category": "art", 
-        "organizer": "budi setiawan juga", 
-        "main_image": "https://picsum.photos/seed/picsum/300/200" 
-      }, 
-      { 
-        "name": "Seminar Gratis tapi boong", 
-        "price": 50000, 
-        "start_date": "2022-08-01T00:00:00.000Z", 
-        "category": "game", 
-        "organizer": "budi setiawan juga", 
-        "main_image": "https://picsum.photos/seed/picsum/300/200" 
-      },{ 
-        "name": "Seminar Berbayar", 
-        "price": 30000, 
-        "start_date": "2022-08-01T00:00:00.000Z", 
-        "category": "development", 
-        "organizer": "budi setiawan", 
-        "main_image": "https://picsum.photos/seed/picsum/300/200" 
-      }, 
-      { 
-        "name": "Seminar Gratis", 
-        "price": null, 
-        "start_date": "2022-08-01T00:00:00.000Z", 
-        "category": "art", 
-        "organizer": "budi setiawan juga", 
-        "main_image": "https://picsum.photos/seed/picsum/300/200" 
-      }, 
-      { 
-        "name": "Seminar Gratis tapi boong", 
-        "price": 50000, 
-        "start_date": "2022-08-01T00:00:00.000Z", 
-        "category": "game", 
-        "organizer": "budi setiawan juga", 
-        "main_image": "https://picsum.photos/seed/picsum/300/200" 
+  "get-events": {
+    "status": 200,
+    "message": "OK",
+    "messageDetail": "All items retrieved successfully",
+    "data": [
+      {
+        "code": "EV-001",
+        "name": "FPS Fundamental",
+        "price": 30000,
+        "start_date": "2024-06-25T00:00:00.000Z",
+        "category": "gaming",
+        "organizer": {
+          "code": "USR-001",
+          "name": "budi setiawan",
+          "image": "https://api.api-ninjas.com/v1/randomimage"
+        },
+        "main_image": "https://api.api-ninjas.com/v1/randomimage",
+        "location": "batam"
       },
-      { 
-        "name": "Seminar Gratis tapi boong", 
-        "price": 50000, 
-        "start_date": "2022-08-01T00:00:00.000Z", 
-        "category": "game", 
-        "organizer": "budi setiawan juga", 
-        "main_image": "https://picsum.photos/seed/picsum/300/200" 
+      {
+        "code": "EV-002",
+        "name": "Art Exhibition: Modern Art Showcase",
+        "price": 50000,
+        "start_date": "2024-07-03T00:00:00.000Z",
+        "category": "art",
+        "organizer": {
+          "code": "USR-002",
+          "name": "susi anggraini",
+          "image": "https://api.api-ninjas.com/v1/randomimage"
+        },
+        "main_image": "https://api.api-ninjas.com/v1/randomimage",
+        "location": "jakarta"
+      },
+      {
+        "code": "EV-003",
+        "name": "Music Festival: Summer Vibes",
+        "price": 150000,
+        "start_date": "2024-07-10T00:00:00.000Z",
+        "category": "music",
+        "organizer": {
+          "code": "USR-003",
+          "name": "david wijaya",
+          "image": "https://api.api-ninjas.com/v1/randomimage"
+        },
+        "main_image": "https://api.api-ninjas.com/v1/randomimage",
+        "location": "bali"
+      },
+      {
+        "code": "EV-004",
+        "name": "Cooking Workshop: Italian Cuisine Masterclass",
+        "price": 80000,
+        "start_date": "2024-07-15T00:00:00.000Z",
+        "category": "cooking",
+        "organizer": {
+          "code": "USR-004",
+          "name": "antonio santoso",
+          "image": "https://api.api-ninjas.com/v1/randomimage"
+        },
+        "main_image": "https://api.api-ninjas.com/v1/randomimage",
+        "location": "bandung"
+      },
+      {
+        "code": "EV-005",
+        "name": "Virtual Reality Workshop: Immersive Experiences",
+        "price": 120000,
+        "start_date": "2024-07-20T00:00:00.000Z",
+        "category": "technology",
+        "organizer": {
+          "code": "USR-001",
+          "name": "budi setiawan",
+          "image": "https://api.api-ninjas.com/v1/randomimage"
+        },
+        "main_image": "https://api.api-ninjas.com/v1/randomimage",
+        "location": "online"
+      },
+      {
+        "code": "EV-006",
+        "name": "Fashion Show: Spring Collection",
+        "price": 200000,
+        "start_date": "2024-07-25T00:00:00.000Z",
+        "category": "fashion",
+        "organizer": {
+          "code": "USR-005",
+          "name": "lisa wijaya",
+          "image": "https://api.api-ninjas.com/v1/randomimage"
+        },
+        "main_image": "https://api.api-ninjas.com/v1/randomimage",
+        "location": "bali"
+      },
+      {
+        "code": "EV-007",
+        "name": "Business Conference: Innovation in Business Strategies",
+        "price": 300000,
+        "start_date": "2024-07-30T00:00:00.000Z",
+        "category": "business",
+        "organizer": {
+          "code": "USR-006",
+          "name": "andre wijaya",
+          "image": "https://api.api-ninjas.com/v1/randomimage"
+        },
+        "main_image": "https://api.api-ninjas.com/v1/randomimage",
+        "location": "bandung"
+      },
+      {
+        "code": "EV-008",
+        "name": "Film Festival: International Cinema Celebration",
+        "price": 100000,
+        "start_date": "2024-08-05T00:00:00.000Z",
+        "category": "film",
+        "organizer": {
+          "code": "USR-007",
+          "name": "michael santoso",
+          "image": "https://api.api-ninjas.com/v1/randomimage"
+        },
+        "main_image": "https://api.api-ninjas.com/v1/randomimage",
+        "location": "jakarta"
+      },
+      {
+        "code": "EV-009",
+        "name": "Tech Startup Summit: Entrepreneurship in Action",
+        "price": 280000,
+        "start_date": "2024-08-10T00:00:00.000Z",
+        "category": "technology",
+        "organizer": {
+          "code": "USR-001",
+          "name": "budi setiawan",
+          "image": "https://api.api-ninjas.com/v1/randomimage"
+        },
+        "main_image": "https://api.api-ninjas.com/v1/randomimage",
+        "location": "bandung"
+      },
+      {
+        "code": "EV-010",
+        "name": "Art Workshop: Abstract Painting Techniques",
+        "price": 80000,
+        "start_date": "2024-08-15T00:00:00.000Z",
+        "category": "art",
+        "organizer": {
+          "code": "USR-008",
+          "name": "lisa wijaya",
+          "image": "https://api.api-ninjas.com/v1/randomimage"
+        },
+        "main_image": "https://api.api-ninjas.com/v1/randomimage",
+        "location": "jakarta"
+      },
+      {
+        "code": "EV-011",
+        "name": "Literature Seminar: Classic Novels Revisited",
+        "price": 180000,
+        "start_date": "2024-08-20T00:00:00.000Z",
+        "category": "literature",
+        "organizer": {
+          "code": "USR-009",
+          "name": "antonio santoso",
+          "image": "https://api.api-ninjas.com/v1/randomimage"
+        },
+        "main_image": "https://api.api-ninjas.com/v1/randomimage",
+        "location": "bandung"
+      },
+      {
+        "code": "EV-012",
+        "name": "Technology Summit: Future Innovations",
+        "price": 300000,
+        "start_date": "2024-06-28T00:00:00.000Z",
+        "category": "technology",
+        "organizer": {
+          "code": "USR-010",
+          "name": "david wijaya",
+          "image": "https://api.api-ninjas.com/v1/randomimage"
+        },
+        "main_image": "https://api.api-ninjas.com/v1/randomimage",
+        "location": "jakarta"
+      },
+      {
+        "code": "EV-013",
+        "name": "Virtual Reality Workshop: Immersive Experiences",
+        "price": 120000,
+        "start_date": "2024-07-02T00:00:00.000Z",
+        "category": "technology",
+        "organizer": {
+          "code": "USR-001",
+          "name": "budi setiawan",
+          "image": "https://api.api-ninjas.com/v1/randomimage"
+        },
+        "main_image": "https://api.api-ninjas.com/v1/randomimage",
+        "location": "jakarta"
+      },
+      {
+        "code": "EV-014",
+        "name": "Culinary Competition: MasterChef Challenge",
+        "price": 90000,
+        "start_date": "2024-07-05T00:00:00.000Z",
+        "category": "cooking",
+        "organizer": {
+          "code": "USR-011",
+          "name": "susi anggraini",
+          "image": "https://api.api-ninjas.com/v1/randomimage"
+        },
+        "main_image": "https://api.api-ninjas.com/v1/randomimage",
+        "location": "bali"
+      },
+      {
+        "code": "EV-015",
+        "name": "Music Concert: Jazz Night",
+        "price": 150000,
+        "start_date": "2024-07-08T00:00:00.000Z",
+        "category": "music",
+        "organizer": {
+          "code": "USR-012",
+          "name": "antonio santoso",
+          "image": "https://api.api-ninjas.com/v1/randomimage"
+        },
+        "main_image": "https://api.api-ninjas.com/v1/randomimage",
+        "location": "bandung"
+      },
+      {
+        "code": "EV-016",
+        "name": "Art Workshop: Watercolor Techniques",
+        "price": 80000,
+        "start_date": "2024-07-12T00:00:00.000Z",
+        "category": "art",
+        "organizer": {
+          "code": "USR-013",
+          "name": "michael santoso",
+          "image": "https://api.api-ninjas.com/v1/randomimage"
+        },
+        "main_image": "https://api.api-ninjas.com/v1/randomimage",
+        "location": "jakarta"
+      },
+      {
+        "code": "EV-017",
+        "name": "Tech Talk: AI and Machine Learning Applications",
+        "price": 200000,
+        "start_date": "2024-07-18T00:00:00.000Z",
+        "category": "technology",
+        "organizer": {
+          "code": "USR-014",
+          "name": "david wijaya",
+          "image": "https://api.api-ninjas.com/v1/randomimage"
+        },
+        "main_image": "https://api.api-ninjas.com/v1/randomimage",
+        "location": "bali"
+      },
+      {
+        "code": "EV-018",
+        "name": "Fashion Show: Summer Collection",
+        "price": 180000,
+        "start_date": "2024-07-22T00:00:00.000Z",
+        "category": "fashion",
+        "organizer": {
+          "code": "USR-015",
+          "name": "lisa wijaya",
+          "image": "https://api.api-ninjas.com/v1/randomimage"
+        },
+        "main_image": "https://api.api-ninjas.com/v1/randomimage",
+        "location": "online"
+      },
+      {
+        "code": "EV-019",
+        "name": "Business Seminar: Entrepreneurship Insights",
+        "price": 250000,
+        "start_date": "2024-07-27T00:00:00.000Z",
+        "category": "business",
+        "organizer": {
+          "code": "USR-006",
+          "name": "andre wijaya",
+          "image": "https://api.api-ninjas.com/v1/randomimage"
+        },
+        "main_image": "https://api.api-ninjas.com/v1/randomimage",
+        "location": "bandung"
+      },
+      {
+        "code": "EV-020",
+        "name": "Film Workshop: Screenwriting Masterclass",
+        "price": 120000,
+        "start_date": "2024-07-30T00:00:00.000Z",
+        "category": "film",
+        "organizer": {
+          "code": "USR-007",
+          "name": "michael santoso",
+          "image": "https://api.api-ninjas.com/v1/randomimage"
+        },
+        "main_image": "https://api.api-ninjas.com/v1/randomimage",
+        "location": "jakarta"
+      },
+      {
+        "code": "EV-021",
+        "name": "Technology Conference: Digital Transformation",
+        "price": 300000,
+        "start_date": "2024-08-02T00:00:00.000Z",
+        "category": "technology",
+        "organizer": {
+          "code": "USR-016",
+          "name": "susi anggraini",
+          "image": "https://api.api-ninjas.com/v1/randomimage"
+        },
+        "main_image": "https://api.api-ninjas.com/v1/randomimage",
+        "location": "online"
+      },
+      {
+        "code": "EV-022",
+        "name": "Cooking Workshop: Asian Cuisine Masterclass",
+        "price": 150000,
+        "start_date": "2024-08-07T00:00:00.000Z",
+        "category": "cooking",
+        "organizer": {
+          "code": "USR-004",
+          "name": "antonio santoso",
+          "image": "https://api.api-ninjas.com/v1/randomimage"
+        },
+        "main_image": "https://api.api-ninjas.com/v1/randomimage",
+        "location": "bali"
+      },
+      {
+        "code": "EV-023",
+        "name": "Music Workshop: Electronic Music Production",
+        "price": 80000,
+        "start_date": "2024-08-12T00:00:00.000Z",
+        "category": "music",
+        "organizer": {
+          "code": "USR-003",
+          "name": "david wijaya",
+          "image": "https://api.api-ninjas.com/v1/randomimage"
+        },
+        "main_image": "https://api.api-ninjas.com/v1/randomimage",
+        "location": "bandung"
+      },
+      {
+        "code": "EV-024",
+        "name": "Cooking Workshop: Asian Cuisine Masterclass",
+        "price": 150000,
+        "start_date": "2024-08-17T00:00:00.000Z",
+        "category": "cooking",
+        "organizer": {
+          "code": "USR-004",
+          "name": "antonio santoso",
+          "image": "https://api.api-ninjas.com/v1/randomimage"
+        },
+        "main_image": "https://api.api-ninjas.com/v1/randomimage",
+        "location": "jakarta"
+      },
+      {
+        "code": "EV-025",
+        "name": "Music Workshop: Electronic Music Production",
+        "price": 80000,
+        "start_date": "2024-08-22T00:00:00.000Z",
+        "category": "music",
+        "organizer": {
+          "code": "USR-003",
+          "name": "david wijaya",
+          "image": "https://api.api-ninjas.com/v1/randomimage"
+        },
+        "main_image": "https://api.api-ninjas.com/v1/randomimage",
+        "location": "batam"
+      },
+      {
+        "code": "EV-026",
+        "name": "Digital Marketing Conference: Trends and Strategies",
+        "price": 250000,
+        "start_date": "2024-08-27T00:00:00.000Z",
+        "category": "marketing",
+        "organizer": {
+          "code": "USR-017",
+          "name": "michael santoso",
+          "image": "https://api.api-ninjas.com/v1/randomimage"
+        },
+        "main_image": "https://api.api-ninjas.com/v1/randomimage",
+        "location": "jakarta"
+      },
+      {
+        "code": "EV-027",
+        "name": "Film Workshop: Screenwriting Masterclass",
+        "price": 120000,
+        "start_date": "2024-09-01T00:00:00.000Z",
+        "category": "film",
+        "organizer": {
+          "code": "USR-007",
+          "name": "michael santoso",
+          "image": "https://api.api-ninjas.com/v1/randomimage"
+        },
+        "main_image": "https://api.api-ninjas.com/v1/randomimage",
+        "location": "online"
+      },
+      {
+        "code": "EV-028",
+        "name": "Fashion Show: Winter Collection",
+        "price": 200000,
+        "start_date": "2024-09-05T00:00:00.000Z",
+        "category": "fashion",
+        "organizer": {
+          "code": "USR-005",
+          "name": "lisa wijaya",
+          "image": "https://api.api-ninjas.com/v1/randomimage"
+        },
+        "main_image": "https://api.api-ninjas.com/v1/randomimage",
+        "location": "bandung"
+      },
+      {
+        "code": "EV-029",
+        "name": "Literature Seminar: Classic Novels Revisited",
+        "price": 180000,
+        "start_date": "2024-09-10T00:00:00.000Z",
+        "category": "literature",
+        "organizer": {
+          "code": "USR-009",
+          "name": "antonio santoso",
+          "image": "https://api.api-ninjas.com/v1/randomimage"
+        },
+        "main_image": "https://api.api-ninjas.com/v1/randomimage",
+        "location": "jakarta"
+      },
+      {
+        "code": "EV-030",
+        "name": "Fitness Workshop: Yoga and Meditation",
+        "price": 150000,
+        "start_date": "2024-09-15T00:00:00.000Z",
+        "category": "fitness",
+        "organizer": {
+          "code": "USR-018",
+          "name": "susi anggraini",
+          "image": "https://api.api-ninjas.com/v1/randomimage"
+        },
+        "main_image": "https://api.api-ninjas.com/v1/randomimage",
+        "location": "jakarta"
+      },
+      {
+        "code": "EV-031",
+        "name": "Tech Summit: Innovations in Artificial Intelligence",
+        "price": 300000,
+        "start_date": "2024-09-20T00:00:00.000Z",
+        "category": "technology",
+        "organizer": {
+          "code": "USR-016",
+          "name": "susi anggraini",
+          "image": "https://api.api-ninjas.com/v1/randomimage"
+        },
+        "main_image": "https://api.api-ninjas.com/v1/randomimage",
+        "location": "bali"
+      },
+      {
+        "code": "EV-032",
+        "name": "Culinary Competition: Chef's Challenge",
+        "price": 90000,
+        "start_date": "2024-09-25T00:00:00.000Z",
+        "category": "cooking",
+        "organizer": {
+          "code": "USR-011",
+          "name": "susi anggraini",
+          "image": "https://api.api-ninjas.com/v1/randomimage"
+        },
+        "main_image": "https://api.api-ninjas.com/v1/randomimage",
+        "location": "bandung"
+      },
+      {
+        "code": "EV-033",
+        "name": "Music Festival: Rock Night",
+        "price": 150000,
+        "start_date": "2024-09-30T00:00:00.000Z",
+        "category": "music",
+        "organizer": {
+          "code": "USR-012",
+          "name": "antonio santoso",
+          "image": "https://api.api-ninjas.com/v1/randomimage"
+        },
+        "main_image": "https://api.api-ninjas.com/v1/randomimage",
+        "location": "jakarta"
+      },
+      {
+        "code": "EV-034",
+        "name": "Art Exhibition: Contemporary Art Showcase",
+        "price": 50000,
+        "start_date": "2024-10-05T00:00:00.000Z",
+        "category": "art",
+        "organizer": {
+          "code": "USR-002",
+          "name": "susi anggraini",
+          "image": "https://api.api-ninjas.com/v1/randomimage"
+        },
+        "main_image": "https://api.api-ninjas.com/v1/randomimage",
+        "location": "bali"
+      },
+      {
+        "code": "EV-035",
+        "name": "Business Conference: Global Business Strategies",
+        "price": 300000,
+        "start_date": "2024-10-10T00:00:00.000Z",
+        "category": "business",
+        "organizer": {
+          "code": "USR-006",
+          "name": "andre wijaya",
+          "image": "https://api.api-ninjas.com/v1/randomimage"
+        },
+        "main_image": "https://api.api-ninjas.com/v1/randomimage",
+        "location": "bandung"
+      },
+      {
+        "code": "EV-036",
+        "name": "Film Festival: International Cinema Celebration",
+        "price": 100000,
+        "start_date": "2024-10-15T00:00:00.000Z",
+        "category": "film",
+        "organizer": {
+          "code": "USR-007",
+          "name": "michael santoso",
+          "image": "https://api.api-ninjas.com/v1/randomimage"
+        },
+        "main_image": "https://api.api-ninjas.com/v1/randomimage",
+        "location": "jakarta"
+      },
+      {
+        "code": "EV-037",
+        "name": "Tech Startup Summit: Innovations in Technology",
+        "price": 280000,
+        "start_date": "2024-10-20T00:00:00.000Z",
+        "category": "technology",
+        "organizer": {
+          "code": "USR-016",
+          "name": "susi anggraini",
+          "image": "https://api.api-ninjas.com/v1/randomimage"
+        },
+        "main_image": "https://api.api-ninjas.com/v1/randomimage",
+        "location": "bali"
+      },
+      {
+        "code": "EV-038",
+        "name": "Fashion Show: Spring Collection",
+        "price": 180000,
+        "start_date": "2024-10-25T00:00:00.000Z",
+        "category": "fashion",
+        "organizer": {
+          "code": "USR-015",
+          "name": "lisa wijaya",
+          "image": "https://api.api-ninjas.com/v1/randomimage"
+        },
+        "main_image": "https://api.api-ninjas.com/v1/randomimage",
+        "location": "online"
+      },
+      {
+        "code": "EV-039",
+        "name": "Literature Seminar: Contemporary Writers' Insights",
+        "price": 180000,
+        "start_date": "2024-10-30T00:00:00.000Z",
+        "category": "literature",
+        "organizer": {
+          "code": "USR-009",
+          "name": "antonio santoso",
+          "image": "https://api.api-ninjas.com/v1/randomimage"
+        },
+        "main_image": "https://api.api-ninjas.com/v1/randomimage",
+        "location": "bandung"
+      },
+      {
+        "code": "EV-040",
+        "name": "Fitness Workshop: Healthy Living",
+        "price": 150000,
+        "start_date": "2024-11-05T00:00:00.000Z",
+        "category": "fitness",
+        "organizer": {
+          "code": "USR-018",
+          "name": "susi anggraini",
+          "image": "https://api.api-ninjas.com/v1/randomimage"
+        },
+        "main_image": "https://api.api-ninjas.com/v1/randomimage",
+        "location": "jakarta"
+      },
+      {
+        "code": "EV-041",
+        "name": "Tech Summit: Future Technologies",
+        "price": 300000,
+        "start_date": "2024-11-10T00:00:00.000Z",
+        "category": "technology",
+        "organizer": {
+          "code": "USR-016",
+          "name": "susi anggraini",
+          "image": "https://api.api-ninjas.com/v1/randomimage"
+        },
+        "main_image": "https://api.api-ninjas.com/v1/randomimage",
+        "location": "bali"
+      },
+      {
+        "code": "EV-042",
+        "name": "Culinary Competition: MasterChef Challenge",
+        "price": 90000,
+        "start_date": "2024-11-15T00:00:00.000Z",
+        "category": "cooking",
+        "organizer": {
+          "code": "USR-011",
+          "name": "susi anggraini",
+          "image": "https://api.api-ninjas.com/v1/randomimage"
+        },
+        "main_image": "https://api.api-ninjas.com/v1/randomimage",
+        "location": "online"
+      },
+      {
+        "code": "EV-043",
+        "name": "Music Concert: Classical Night",
+        "price": 150000,
+        "start_date": "2024-11-20T00:00:00.000Z",
+        "category": "music",
+        "organizer": {
+          "code": "USR-012",
+          "name": "antonio santoso",
+          "image": "https://api.api-ninjas.com/v1/randomimage"
+        },
+        "main_image": "https://api.api-ninjas.com/v1/randomimage",
+        "location": "bandung"
+      },
+      {
+        "code": "EV-044",
+        "name": "Art Workshop: Sculpting Techniques",
+        "price": 80000,
+        "start_date": "2024-11-25T00:00:00.000Z",
+        "category": "art",
+        "organizer": {
+          "code": "USR-013",
+          "name": "michael santoso",
+          "image": "https://api.api-ninjas.com/v1/randomimage"
+        },
+        "main_image": "https://api.api-ninjas.com/v1/randomimage",
+        "location": "bali"
+      },
+      {
+        "code": "EV-045",
+        "name": "Business Seminar: Strategic Leadership",
+        "price": 250000,
+        "start_date": "2024-11-30T00:00:00.000Z",
+        "category": "business",
+        "organizer": {
+          "code": "USR-006",
+          "name": "andre wijaya",
+          "image": "https://api.api-ninjas.com/v1/randomimage"
+        },
+        "main_image": "https://api.api-ninjas.com/v1/randomimage",
+        "location": "jakarta"
+      },
+      {
+        "code": "EV-046",
+        "name": "Film Workshop: Directing Masterclass",
+        "price": 120000,
+        "start_date": "2024-12-05T00:00:00.000Z",
+        "category": "film",
+        "organizer": {
+          "code": "USR-007",
+          "name": "michael santoso",
+          "image": "https://api.api-ninjas.com/v1/randomimage"
+        },
+        "main_image": "https://api.api-ninjas.com/v1/randomimage",
+        "location": "bandung"
+      },
+      {
+        "code": "EV-047",
+        "name": "Fashion Show: Summer Collection",
+        "price": 180000,
+        "start_date": "2024-12-10T00:00:00.000Z",
+        "category": "fashion",
+        "organizer": {
+          "code": "USR-015",
+          "name": "lisa wijaya",
+          "image": "https://api.api-ninjas.com/v1/randomimage"
+        },
+        "main_image": "https://api.api-ninjas.com/v1/randomimage",
+        "location": "online"
+      },
+      {
+        "code": "EV-048",
+        "name": "Literature Seminar: Modern Poetry",
+        "price": 150000,
+        "start_date": "2024-12-15T00:00:00.000Z",
+        "category": "literature",
+        "organizer": {
+          "code": "USR-009",
+          "name": "antonio santoso",
+          "image": "https://api.api-ninjas.com/v1/randomimage"
+        },
+        "main_image": "https://api.api-ninjas.com/v1/randomimage",
+        "location": "jakarta"
+      },
+      {
+        "code": "EV-049",
+        "name": "Fitness Workshop: Yoga and Meditation",
+        "price": 150000,
+        "start_date": "2024-12-20T00:00:00.000Z",
+        "category": "fitness",
+        "organizer": {
+          "code": "USR-018",
+          "name": "susi anggraini",
+          "image": "https://api.api-ninjas.com/v1/randomimage"
+        },
+        "main_image": "https://api.api-ninjas.com/v1/randomimage",
+        "location": "jakarta"
+      },
+      {
+        "code": "EV-050",
+        "name": "Tech Conference: AI and Robotics",
+        "price": 300000,
+        "start_date": "2025-01-02T00:00:00.000Z",
+        "category": "technology",
+        "organizer": {
+          "code": "USR-016",
+          "name": "susi anggraini",
+          "image": "https://api.api-ninjas.com/v1/randomimage"
+        },
+        "main_image": "https://api.api-ninjas.com/v1/randomimage",
+        "location": "bali"
       }
     ]
   },
@@ -180,602 +710,1199 @@
     "status": 200,
     "message": "OK",
     "messageDetail": "Item retrieved successfully",
-    "data": 
+    "data": [
       {
-        "name": "Seminar Berbayar",
-        "detail": "ini adalah seminar berbayar yang sangat mahal namun tidak worth it",
+        "code": "EV-001",
+        "name": "FPS Fundamental",
+        "detail": "Join us for a deep dive into the fundamentals of FPS gaming.",
         "location": "Jakarta",
         "seats": 100,
         "price": 30000,
         "start_date": "2022-08-01T00:00:00.000Z",
         "end_date": "2022-08-02T00:00:00.000Z",
-        "organizer": "budi setiawan",
-        "category": "development",
+        "organizer": {
+          "code": "USR-001",
+          "name": "budi setiawan",
+          "image": "https://api.api-ninjas.com/v1/randomimage"
+        },
+        "category": "gaming",
         "images": [
-          "https://picsum.photos/seed/picsum/300/200" ,
-          "https://picsum.photos/seed/picsum/300/200" ,
-          "https://picsum.photos/seed/picsum/300/200" 
+          "https://api.api-ninjas.com/v1/randomimage",
+          "https://api.api-ninjas.com/v1/randomimage",
+          "https://api.api-ninjas.com/v1/randomimage"
+        ]
+      },
+      {
+        "code": "EV-002",
+        "name": "Tech Talk: Latest in AI",
+        "detail": "Discover the latest advancements in Artificial Intelligence.",
+        "location": "Bandung",
+        "seats": 120,
+        "price": 50000,
+        "start_date": "2022-08-05T00:00:00.000Z",
+        "end_date": "2022-08-06T00:00:00.000Z",
+        "organizer": {
+          "code": "USR-002",
+          "name": "susi anggraini",
+          "image": "https://api.api-ninjas.com/v1/randomimage"
+        },
+        "category": "technology",
+        "images": [
+          "https://api.api-ninjas.com/v1/randomimage",
+          "https://api.api-ninjas.com/v1/randomimage",
+          "https://api.api-ninjas.com/v1/randomimage"
+        ]
+      },
+      {
+        "code": "EV-003",
+        "name": "Art Workshop: Painting Techniques",
+        "detail": "Learn advanced painting techniques from renowned artists.",
+        "location": "Bali",
+        "seats": 80,
+        "price": 70000,
+        "start_date": "2022-08-10T00:00:00.000Z",
+        "end_date": "2022-08-12T00:00:00.000Z",
+        "organizer": {
+          "code": "USR-003",
+          "name": "antonio santoso",
+          "image": "https://api.api-ninjas.com/v1/randomimage"
+        },
+        "category": "art",
+        "images": [
+          "https://api.api-ninjas.com/v1/randomimage",
+          "https://api.api-ninjas.com/v1/randomimage",
+          "https://api.api-ninjas.com/v1/randomimage"
+        ]
+      },
+      {
+        "code": "EV-004",
+        "name": "Music Festival: Jazz Night",
+        "detail": "Experience an enchanting night of jazz music under the stars.",
+        "location": "Jakarta",
+        "seats": 150,
+        "price": 100000,
+        "start_date": "2022-08-15T00:00:00.000Z",
+        "end_date": "2022-08-17T00:00:00.000Z",
+        "organizer": {
+          "code": "USR-004",
+          "name": "lisa wijaya",
+          "image": "https://api.api-ninjas.com/v1/randomimage"
+        },
+        "category": "music",
+        "images": [
+          "https://api.api-ninjas.com/v1/randomimage",
+          "https://api.api-ninjas.com/v1/randomimage",
+          "https://api.api-ninjas.com/v1/randomimage"
+        ]
+      },
+      {
+        "code": "EV-005",
+        "name": "Cooking Masterclass: International Cuisine",
+        "detail": "Master the art of cooking international dishes with expert chefs.",
+        "location": "Online",
+        "seats": 80,
+        "price": 60000,
+        "start_date": "2022-08-20T00:00:00.000Z",
+        "end_date": "2022-08-22T00:00:00.000Z",
+        "organizer": {
+          "code": "USR-005",
+          "name": "michael santoso",
+          "image": "https://api.api-ninjas.com/v1/randomimage"
+        },
+        "category": "cooking",
+        "images": [
+          "https://api.api-ninjas.com/v1/randomimage",
+          "https://api.api-ninjas.com/v1/randomimage",
+          "https://api.api-ninjas.com/v1/randomimage"
+        ]
+      },
+      {
+        "code": "EV-006",
+        "name": "Business Seminar: Entrepreneurship 101",
+        "detail": "Learn the essentials of entrepreneurship from successful business leaders.",
+        "location": "Bandung",
+        "seats": 100,
+        "price": 80000,
+        "start_date": "2022-08-25T00:00:00.000Z",
+        "end_date": "2022-08-27T00:00:00.000Z",
+        "organizer": {
+          "code": "USR-006",
+          "name": "andre wijaya",
+          "image": "https://api.api-ninjas.com/v1/randomimage"
+        },
+        "category": "business",
+        "images": [
+          "https://api.api-ninjas.com/v1/randomimage",
+          "https://api.api-ninjas.com/v1/randomimage",
+          "https://api.api-ninjas.com/v1/randomimage"
+        ]
+      },
+      {
+        "code": "EV-007",
+        "name": "Film Festival: Indie Cinema Showcase",
+        "detail": "Discover independent films and celebrate the art of cinema.",
+        "location": "Jakarta",
+        "seats": 120,
+        "price": 90000,
+        "start_date": "2022-08-30T00:00:00.000Z",
+        "end_date": "2022-09-01T00:00:00.000Z",
+        "organizer": {
+          "code": "USR-007",
+          "name": "michael santoso",
+          "image": "https://api.api-ninjas.com/v1/randomimage"
+        },
+        "category": "film",
+        "images": [
+          "https://api.api-ninjas.com/v1/randomimage",
+          "https://api.api-ninjas.com/v1/randomimage",
+          "https://api.api-ninjas.com/v1/randomimage"
+        ]
+      },
+      {
+        "code": "EV-008",
+        "name": "Fashion Show: Winter Collection",
+        "detail": "Experience the latest trends in winter fashion from top designers.",
+        "location": "Bali",
+        "seats": 150,
+        "price": 120000,
+        "start_date": "2022-09-05T00:00:00.000Z",
+        "end_date": "2022-09-07T00:00:00.000Z",
+        "organizer": {
+          "code": "USR-008",
+          "name": "lisa wijaya",
+          "image": "https://api.api-ninjas.com/v1/randomimage"
+        },
+        "category": "fashion",
+        "images": [
+          "https://api.api-ninjas.com/v1/randomimage",
+          "https://api.api-ninjas.com/v1/randomimage",
+          "https://api.api-ninjas.com/v1/randomimage"
+        ]
+      },
+      {
+        "code": "EV-009",
+        "name": "Literature Seminar: Modern Writers' Insights",
+        "detail": "Gain insights into the works of modern writers and literary trends.",
+        "location": "Jakarta",
+        "seats": 100,
+        "price": 70000,
+        "start_date": "2022-09-10T00:00:00.000Z",
+        "end_date": "2022-09-12T00:00:00.000Z",
+        "organizer": {
+          "code": "USR-009",
+          "name": "antonio santoso",
+          "image": "https://api.api-ninjas.com/v1/randomimage"
+        },
+        "category": "literature",
+        "images": [
+          "https://api.api-ninjas.com/v1/randomimage",
+          "https://api.api-ninjas.com/v1/randomimage",
+          "https://api.api-ninjas.com/v1/randomimage"
+        ]
+      },
+      {
+        "code": "EV-010",
+        "name": "Fitness Workshop: Advanced Training Techniques",
+        "detail": "Learn advanced fitness techniques and training methodologies.",
+        "location": "Bandung",
+        "seats": 80,
+        "price": 60000,
+        "start_date": "2022-09-15T00:00:00.000Z",
+        "end_date": "2022-09-17T00:00:00.000Z",
+        "organizer": {
+          "code": "USR-010",
+          "name": "susi anggraini",
+          "image": "https://api.api-ninjas.com/v1/randomimage"
+        },
+        "category": "fitness",
+        "images": [
+          "https://api.api-ninjas.com/v1/randomimage",
+          "https://api.api-ninjas.com/v1/randomimage",
+          "https://api.api-ninjas.com/v1/randomimage"
+        ]
+      },
+      {
+        "code": "EV-011",
+        "name": "Tech Summit: Future of Technology",
+        "detail": "Explore the future of technology with industry experts.",
+        "location": "Jakarta",
+        "seats": 120,
+        "price": 80000,
+        "start_date": "2022-09-20T00:00:00.000Z",
+        "end_date": "2022-09-22T00:00:00.000Z",
+        "organizer": {
+          "code": "USR-011",
+          "name": "michael santoso",
+          "image": "https://api.api-ninjas.com/v1/randomimage"
+        },
+        "category": "technology",
+        "images": [
+          "https://api.api-ninjas.com/v1/randomimage",
+          "https://api.api-ninjas.com/v1/randomimage",
+          "https://api.api-ninjas.com/v1/randomimage"
+        ]
+      },
+      {
+        "code": "EV-012",
+        "name": "Cooking Workshop: Asian Cuisine",
+        "detail": "Master the art of cooking Asian cuisine with renowned chefs.",
+        "location": "Bali",
+        "seats": 80,
+        "price": 70000,
+        "start_date": "2022-09-25T00:00:00.000Z",
+        "end_date": "2022-09-27T00:00:00.000Z",
+        "organizer": {
+          "code": "USR-012",
+          "name": "antonio santoso",
+          "image": "https://api.api-ninjas.com/v1/randomimage"
+        },
+        "category": "cooking",
+        "images": [
+          "https://api.api-ninjas.com/v1/randomimage",
+          "https://api.api-ninjas.com/v1/randomimage",
+          "https://api.api-ninjas.com/v1/randomimage"
+        ]
+      },
+      {
+        "code": "EV-013",
+        "name": "Business Conference: Global Economy",
+        "detail": "Discuss the global economic landscape and future trends.",
+        "location": "Jakarta",
+        "seats": 150,
+        "price": 120000,
+        "start_date": "2022-10-01T00:00:00.000Z",
+        "end_date": "2022-10-03T00:00:00.000Z",
+        "organizer": {
+          "code": "USR-013",
+          "name": "lisa wijaya",
+          "image": "https://api.api-ninjas.com/v1/randomimage"
+        },
+        "category": "business",
+        "images": [
+          "https://api.api-ninjas.com/v1/randomimage",
+          "https://api.api-ninjas.com/v1/randomimage",
+          "https://api.api-ninjas.com/v1/randomimage"
+        ]
+      },
+      {
+        "code": "EV-014",
+        "name": "Film Workshop: Screenwriting Masterclass",
+        "detail": "Learn the art and craft of screenwriting from industry professionals.",
+        "location": "Bandung",
+        "seats": 100,
+        "price": 90000,
+        "start_date": "2022-10-05T00:00:00.000Z",
+        "end_date": "2022-10-07T00:00:00.000Z",
+        "organizer": {
+          "code": "USR-014",
+          "name": "michael santoso",
+          "image": "https://api.api-ninjas.com/v1/randomimage"
+        },
+        "category": "film",
+        "images": [
+          "https://api.api-ninjas.com/v1/randomimage",
+          "https://api.api-ninjas.com/v1/randomimage",
+          "https://api.api-ninjas.com/v1/randomimage"
+        ]
+      },
+      {
+        "code": "EV-015",
+        "name": "Fashion Show: Spring Collection",
+        "detail": "Experience the latest trends in spring fashion from top designers.",
+        "location": "Bali",
+        "seats": 120,
+        "price": 100000,
+        "start_date": "2022-10-10T00:00:00.000Z",
+        "end_date": "2022-10-12T00:00:00.000Z",
+        "organizer": {
+          "code": "USR-015",
+          "name": "lisa wijaya",
+          "image": "https://api.api-ninjas.com/v1/randomimage"
+        },
+        "category": "fashion",
+        "images": [
+          "https://api.api-ninjas.com/v1/randomimage",
+          "https://api.api-ninjas.com/v1/randomimage",
+          "https://api.api-ninjas.com/v1/randomimage"
+        ]
+      },
+      {
+        "code": "EV-016",
+        "name": "Music Concert: Classical Night",
+        "detail": "Enjoy an evening of classical music performed by renowned musicians.",
+        "location": "Jakarta",
+        "seats": 150,
+        "price": 120000,
+        "start_date": "2022-10-15T00:00:00.000Z",
+        "end_date": "2022-10-17T00:00:00.000Z",
+        "organizer": {
+          "code": "USR-016",
+          "name": "susi anggraini",
+          "image": "https://api.api-ninjas.com/v1/randomimage"
+        },
+        "category": "music",
+        "images": [
+          "https://api.api-ninjas.com/v1/randomimage",
+          "https://api.api-ninjas.com/v1/randomimage",
+          "https://api.api-ninjas.com/v1/randomimage"
+        ]
+      },
+      {
+        "code": "EV-017",
+        "name": "Art Exhibition: Contemporary Art",
+        "detail": "Explore contemporary art from emerging and established artists.",
+        "location": "Bandung",
+        "seats": 100,
+        "price": 80000,
+        "start_date": "2022-10-20T00:00:00.000Z",
+        "end_date": "2022-10-22T00:00:00.000Z",
+        "organizer": {
+          "code": "USR-017",
+          "name": "antonio santoso",
+          "image": "https://api.api-ninjas.com/v1/randomimage"
+        },
+        "category": "art",
+        "images": [
+          "https://api.api-ninjas.com/v1/randomimage",
+          "https://api.api-ninjas.com/v1/randomimage",
+          "https://api.api-ninjas.com/v1/randomimage"
+        ]
+      },
+      {
+        "code": "EV-018",
+        "name": "Literature Seminar: Contemporary Writers' Insights",
+        "detail": "Gain insights into the works of contemporary writers and literary trends.",
+        "location": "Jakarta",
+        "seats": 120,
+        "price": 90000,
+        "start_date": "2022-10-25T00:00:00.000Z",
+        "end_date": "2022-10-27T00:00:00.000Z",
+        "organizer": {
+          "code": "USR-018",
+          "name": "susi anggraini",
+          "image": "https://api.api-ninjas.com/v1/randomimage"
+        },
+        "category": "literature",
+        "images": [
+          "https://api.api-ninjas.com/v1/randomimage",
+          "https://api.api-ninjas.com/v1/randomimage",
+          "https://api.api-ninjas.com/v1/randomimage"
+        ]
+      },
+      {
+        "code": "EV-019",
+        "name": "Fitness Workshop: Healthy Living",
+        "detail": "Learn about healthy living and fitness tips from health experts.",
+        "location": "Bandung",
+        "seats": 80,
+        "price": 70000,
+        "start_date": "2022-10-30T00:00:00.000Z",
+        "end_date": "2022-11-01T00:00:00.000Z",
+        "organizer": {
+          "code": "USR-019",
+          "name": "michael santoso",
+          "image": "https://api.api-ninjas.com/v1/randomimage"
+        },
+        "category": "fitness",
+        "images": [
+          "https://api.api-ninjas.com/v1/randomimage",
+          "https://api.api-ninjas.com/v1/randomimage",
+          "https://api.api-ninjas.com/v1/randomimage"
+        ]
+      },
+      {
+        "code": "EV-020",
+        "name": "Tech Workshop: Cybersecurity Essentials",
+        "detail": "Learn essential cybersecurity techniques and best practices.",
+        "location": "Online",
+        "seats": 100,
+        "price": 80000,
+        "start_date": "2022-11-05T00:00:00.000Z",
+        "end_date": "2022-11-07T00:00:00.000Z",
+        "organizer": {
+          "code": "USR-020",
+          "name": "andre wijaya",
+          "image": "https://api.api-ninjas.com/v1/randomimage"
+        },
+        "category": "technology",
+        "images": [
+          "https://api.api-ninjas.com/v1/randomimage",
+          "https://api.api-ninjas.com/v1/randomimage",
+          "https://api.api-ninjas.com/v1/randomimage"
+        ]
+      },
+      {
+        "code": "EV-021",
+        "name": "Art Workshop: Sculpting Techniques",
+        "detail": "Explore advanced sculpting techniques with expert sculptors.",
+        "location": "Bandung",
+        "seats": 80,
+        "price": 70000,
+        "start_date": "2022-11-10T00:00:00.000Z",
+        "end_date": "2022-11-12T00:00:00.000Z",
+        "organizer": {
+          "code": "USR-021",
+          "name": "antonio santoso",
+          "image": "https://api.api-ninjas.com/v1/randomimage"
+        },
+        "category": "art",
+        "images": [
+          "https://api.api-ninjas.com/v1/randomimage",
+          "https://api.api-ninjas.com/v1/randomimage",
+          "https://api.api-ninjas.com/v1/randomimage"
+        ]
+      },
+      {
+        "code": "EV-022",
+        "name": "Music Festival: Pop Extravaganza",
+        "detail": "Enjoy a spectacular night of pop music hits from top artists.",
+        "location": "Jakarta",
+        "seats": 150,
+        "price": 120000,
+        "start_date": "2022-11-15T00:00:00.000Z",
+        "end_date": "2022-11-17T00:00:00.000Z",
+        "organizer": {
+          "code": "USR-002",
+          "name": "susi anggraini",
+          "image": "https://api.api-ninjas.com/v1/randomimage"
+        },
+        "category": "music",
+        "images": [
+          "https://api.api-ninjas.com/v1/randomimage",
+          "https://api.api-ninjas.com/v1/randomimage",
+          "https://api.api-ninjas.com/v1/randomimage"
+        ]
+      },
+      {
+        "code": "EV-023",
+        "name": "Cooking Masterclass: Italian Cuisine",
+        "detail": "Learn the secrets of authentic Italian cooking from expert chefs.",
+        "location": "Bali",
+        "seats": 100,
+        "price": 80000,
+        "start_date": "2022-11-20T00:00:00.000Z",
+        "end_date": "2022-11-22T00:00:00.000Z",
+        "organizer": {
+          "code": "USR-005",
+          "name": "michael santoso",
+          "image": "https://api.api-ninjas.com/v1/randomimage"
+        },
+        "category": "cooking",
+        "images": [
+          "https://api.api-ninjas.com/v1/randomimage",
+          "https://api.api-ninjas.com/v1/randomimage",
+          "https://api.api-ninjas.com/v1/randomimage"
+        ]
+      },
+      {
+        "code": "EV-024",
+        "name": "Business Seminar: Leadership Strategies",
+        "detail": "Discover effective leadership strategies for business success.",
+        "location": "Jakarta",
+        "seats": 120,
+        "price": 90000,
+        "start_date": "2022-11-25T00:00:00.000Z",
+        "end_date": "2022-11-27T00:00:00.000Z",
+        "organizer": {
+          "code": "USR-006",
+          "name": "andre wijaya",
+          "image": "https://api.api-ninjas.com/v1/randomimage"
+        },
+        "category": "business",
+        "images": [
+          "https://api.api-ninjas.com/v1/randomimage",
+          "https://api.api-ninjas.com/v1/randomimage",
+          "https://api.api-ninjas.com/v1/randomimage"
+        ]
+      },
+      {
+        "code": "EV-025",
+        "name": "Film Festival: World Cinema Showcase",
+        "detail": "Explore world cinema with a curated selection of international films.",
+        "location": "Online",
+        "seats": 100,
+        "price": 80000,
+        "start_date": "2022-11-30T00:00:00.000Z",
+        "end_date": "2022-12-02T00:00:00.000Z",
+        "organizer": {
+          "code": "USR-007",
+          "name": "michael santoso",
+          "image": "https://api.api-ninjas.com/v1/randomimage"
+        },
+        "category": "film",
+        "images": [
+          "https://api.api-ninjas.com/v1/randomimage",
+          "https://api.api-ninjas.com/v1/randomimage",
+          "https://api.api-ninjas.com/v1/randomimage"
+        ]
+      },
+      {
+        "code": "EV-026",
+        "name": "Digital Marketing Conference: Trends and Strategies",
+        "detail": "Explore the latest trends and strategies in digital marketing.",
+        "location": "Bandung",
+        "seats": 150,
+        "price": 250000,
+        "start_date": "2022-11-30T00:00:00.000Z",
+        "end_date": "2022-12-02T00:00:00.000Z",
+        "organizer": {
+          "code": "USR-016",
+          "name": "susi anggraini",
+          "image": "https://api.api-ninjas.com/v1/randomimage"
+        },
+        "category": "marketing",
+        "images": [
+          "https://api.api-ninjas.com/v1/randomimage",
+          "https://api.api-ninjas.com/v1/randomimage",
+          "https://api.api-ninjas.com/v1/randomimage"
+        ]
+      },
+      {
+        "code": "EV-027",
+        "name": "Art Workshop: Abstract Painting Techniques",
+        "detail": "Learn advanced techniques in abstract painting from experienced artists.",
+        "location": "Jakarta",
+        "seats": 80,
+        "price": 70000,
+        "start_date": "2022-12-05T00:00:00.000Z",
+        "end_date": "2022-12-07T00:00:00.000Z",
+        "organizer": {
+          "code": "USR-021",
+          "name": "antonio santoso",
+          "image": "https://api.api-ninjas.com/v1/randomimage"
+        },
+        "category": "art",
+        "images": [
+          "https://api.api-ninjas.com/v1/randomimage",
+          "https://api.api-ninjas.com/v1/randomimage",
+          "https://api.api-ninjas.com/v1/randomimage"
+        ]
+      },
+      {
+        "code": "EV-028",
+        "name": "Music Concert: Rock Legends Live",
+        "detail": "Experience a night of live performances by rock music legends.",
+        "location": "Bandung",
+        "seats": 150,
+        "price": 120000,
+        "start_date": "2022-12-10T00:00:00.000Z",
+        "end_date": "2022-12-12T00:00:00.000Z",
+        "organizer": {
+          "code": "USR-002",
+          "name": "susi anggraini",
+          "image": "https://api.api-ninjas.com/v1/randomimage"
+        },
+        "category": "music",
+        "images": [
+          "https://api.api-ninjas.com/v1/randomimage",
+          "https://api.api-ninjas.com/v1/randomimage",
+          "https://api.api-ninjas.com/v1/randomimage"
+        ]
+      },
+      {
+        "code": "EV-029",
+        "name": "Cooking Workshop: French Cuisine",
+        "detail": "Master the art of French cuisine with expert chefs.",
+        "location": "Bali",
+        "seats": 100,
+        "price": 80000,
+        "start_date": "2022-12-15T00:00:00.000Z",
+        "end_date": "2022-12-17T00:00:00.000Z",
+        "organizer": {
+          "code": "USR-005",
+          "name": "michael santoso",
+          "image": "https://api.api-ninjas.com/v1/randomimage"
+        },
+        "category": "cooking",
+        "images": [
+          "https://api.api-ninjas.com/v1/randomimage",
+          "https://api.api-ninjas.com/v1/randomimage",
+          "https://api.api-ninjas.com/v1/randomimage"
+        ]
+      },
+      {
+        "code": "EV-030",
+        "name": "Business Seminar: Innovation in Business",
+        "detail": "Explore innovative strategies and ideas for business growth.",
+        "location": "Jakarta",
+        "seats": 120,
+        "price": 90000,
+        "start_date": "2022-12-20T00:00:00.000Z",
+        "end_date": "2022-12-22T00:00:00.000Z",
+        "organizer": {
+          "code": "USR-006",
+          "name": "andre wijaya",
+          "image": "https://api.api-ninjas.com/v1/randomimage"
+        },
+        "category": "business",
+        "images": [
+          "https://api.api-ninjas.com/v1/randomimage",
+          "https://api.api-ninjas.com/v1/randomimage",
+          "https://api.api-ninjas.com/v1/randomimage"
+        ]
+      },
+      {
+        "code": "EV-031",
+        "name": "Film Workshop: Directing Masterclass",
+        "detail": "Gain insights into directing techniques from experienced filmmakers.",
+        "location": "Online",
+        "seats": 100,
+        "price": 80000,
+        "start_date": "2022-12-25T00:00:00.000Z",
+        "end_date": "2022-12-27T00:00:00.000Z",
+        "organizer": {
+          "code": "USR-007",
+          "name": "michael santoso",
+          "image": "https://api.api-ninjas.com/v1/randomimage"
+        },
+        "category": "film",
+        "images": [
+          "https://api.api-ninjas.com/v1/randomimage",
+          "https://api.api-ninjas.com/v1/randomimage",
+          "https://api.api-ninjas.com/v1/randomimage"
+        ]
+      },
+      {
+        "code": "EV-032",
+        "name": "Digital Marketing Workshop: Social Media Strategies",
+        "detail": "Learn effective social media strategies for digital marketing success.",
+        "location": "Bandung",
+        "seats": 80,
+        "price": 70000,
+        "start_date": "2023-01-05T00:00:00.000Z",
+        "end_date": "2023-01-07T00:00:00.000Z",
+        "organizer": {
+          "code": "USR-008",
+          "name": "susi anggraini",
+          "image": "https://api.api-ninjas.com/v1/randomimage"
+        },
+        "category": "marketing",
+        "images": [
+          "https://api.api-ninjas.com/v1/randomimage",
+          "https://api.api-ninjas.com/v1/randomimage",
+          "https://api.api-ninjas.com/v1/randomimage"
+        ]
+      },
+      {
+        "code": "EV-033",
+        "name": "Art Exhibition: Modern Art Showcase",
+        "detail": "Experience a showcase of modern art from emerging artists.",
+        "location": "Jakarta",
+        "seats": 100,
+        "price": 80000,
+        "start_date": "2023-01-10T00:00:00.000Z",
+        "end_date": "2023-01-12T00:00:00.000Z",
+        "organizer": {
+          "code": "USR-017",
+          "name": "antonio santoso",
+          "image": "https://api.api-ninjas.com/v1/randomimage"
+        },
+        "category": "art",
+        "images": [
+          "https://api.api-ninjas.com/v1/randomimage",
+          "https://api.api-ninjas.com/v1/randomimage",
+          "https://api.api-ninjas.com/v1/randomimage"
+        ]
+      },
+      {
+        "code": "EV-034",
+        "name": "Literature Seminar: Poets and Writers Forum",
+        "detail": "Join discussions with poets and writers on contemporary literature.",
+        "location": "Bandung",
+        "seats": 120,
+        "price": 90000,
+        "start_date": "2023-01-15T00:00:00.000Z",
+        "end_date": "2023-01-17T00:00:00.000Z",
+        "organizer": {
+          "code": "USR-018",
+          "name": "susi anggraini",
+          "image": "https://api.api-ninjas.com/v1/randomimage"
+        },
+        "category": "literature",
+        "images": [
+          "https://api.api-ninjas.com/v1/randomimage",
+          "https://api.api-ninjas.com/v1/randomimage",
+          "https://api.api-ninjas.com/v1/randomimage"
+        ]
+      },
+      {
+        "code": "EV-035",
+        "name": "Fitness Workshop: Yoga and Mindfulness",
+        "detail": "Learn yoga and mindfulness techniques for a healthier lifestyle.",
+        "location": "Jakarta",
+        "seats": 80,
+        "price": 70000,
+        "start_date": "2023-01-20T00:00:00.000Z",
+        "end_date": "2023-01-22T00:00:00.000Z",
+        "organizer": {
+          "code": "USR-019",
+          "name": "michael santoso",
+          "image": "https://api.api-ninjas.com/v1/randomimage"
+        },
+        "category": "fitness",
+        "images": [
+          "https://api.api-ninjas.com/v1/randomimage",
+          "https://api.api-ninjas.com/v1/randomimage",
+          "https://api.api-ninjas.com/v1/randomimage"
+        ]
+      },
+      {
+        "code": "EV-036",
+        "name": "Tech Summit: AI and Machine Learning",
+        "detail": "Explore the latest advancements in AI and machine learning technologies.",
+        "location": "Online",
+        "seats": 100,
+        "price": 80000,
+        "start_date": "2023-01-25T00:00:00.000Z",
+        "end_date": "2023-01-27T00:00:00.000Z",
+        "organizer": {
+          "code": "USR-020",
+          "name": "andre wijaya",
+          "image": "https://api.api-ninjas.com/v1/randomimage"
+        },
+        "category": "technology",
+        "images": [
+          "https://api.api-ninjas.com/v1/randomimage",
+          "https://api.api-ninjas.com/v1/randomimage",
+          "https://api.api-ninjas.com/v1/randomimage"
+        ]
+      },
+      {
+        "code": "EV-037",
+        "name": "Art Workshop: Photography Techniques",
+        "detail": "Learn advanced photography techniques and skills.",
+        "location": "Bandung",
+        "seats": 80,
+        "price": 70000,
+        "start_date": "2023-02-05T00:00:00.000Z",
+        "end_date": "2023-02-07T00:00:00.000Z",
+        "organizer": {
+          "code": "USR-021",
+          "name": "antonio santoso",
+          "image": "https://api.api-ninjas.com/v1/randomimage"
+        },
+        "category": "art",
+        "images": [
+          "https://api.api-ninjas.com/v1/randomimage",
+          "https://api.api-ninjas.com/v1/randomimage",
+          "https://api.api-ninjas.com/v1/randomimage"
+        ]
+      },
+      {
+        "code": "EV-038",
+        "name": "Music Concert: Jazz Night",
+        "detail": "Enjoy an evening of jazz music performed by talented musicians.",
+        "location": "Jakarta",
+        "seats": 150,
+        "price": 120000,
+        "start_date": "2023-02-10T00:00:00.000Z",
+        "end_date": "2023-02-12T00:00:00.000Z",
+        "organizer": {
+          "code": "USR-002",
+          "name": "susi anggraini",
+          "image": "https://api.api-ninjas.com/v1/randomimage"
+        },
+        "category": "music",
+        "images": [
+          "https://api.api-ninjas.com/v1/randomimage",
+          "https://api.api-ninjas.com/v1/randomimage",
+          "https://api.api-ninjas.com/v1/randomimage"
+        ]
+      },
+      {
+        "code": "EV-039",
+        "name": "Cooking Workshop: Thai Cuisine",
+        "detail": "Explore the flavors of Thai cuisine with expert chefs.",
+        "location": "Bali",
+        "seats": 100,
+        "price": 80000,
+        "start_date": "2023-02-15T00:00:00.000Z",
+        "end_date": "2023-02-17T00:00:00.000Z",
+        "organizer": {
+          "code": "USR-005",
+          "name": "michael santoso",
+          "image": "https://api.api-ninjas.com/v1/randomimage"
+        },
+        "category": "cooking",
+        "images": [
+          "https://api.api-ninjas.com/v1/randomimage",
+          "https://api.api-ninjas.com/v1/randomimage",
+          "https://api.api-ninjas.com/v1/randomimage"
+        ]
+      },
+      {
+        "code": "EV-040",
+        "name": "Business Seminar: Financial Strategies",
+        "detail": "Learn effective financial strategies for business growth and stability.",
+        "location": "Jakarta",
+        "seats": 120,
+        "price": 90000,
+        "start_date": "2023-02-20T00:00:00.000Z",
+        "end_date": "2023-02-22T00:00:00.000Z",
+        "organizer": {
+          "code": "USR-006",
+          "name": "andre wijaya",
+          "image": "https://api.api-ninjas.com/v1/randomimage"
+        },
+        "category": "business",
+        "images": [
+          "https://api.api-ninjas.com/v1/randomimage",
+          "https://api.api-ninjas.com/v1/randomimage",
+          "https://api.api-ninjas.com/v1/randomimage"
+        ]
+      },
+      {
+        "code": "EV-041",
+        "name": "Film Festival: Classic Cinema Rediscovered",
+        "detail": "Rediscover classic cinema with a curated selection of timeless films.",
+        "location": "Online",
+        "seats": 100,
+        "price": 80000,
+        "start_date": "2023-02-25T00:00:00.000Z",
+        "end_date": "2023-02-27T00:00:00.000Z",
+        "organizer": {
+          "code": "USR-007",
+          "name": "michael santoso",
+          "image": "https://api.api-ninjas.com/v1/randomimage"
+        },
+        "category": "film",
+        "images": [
+          "https://api.api-ninjas.com/v1/randomimage",
+          "https://api.api-ninjas.com/v1/randomimage",
+          "https://api.api-ninjas.com/v1/randomimage"
+        ]
+      },
+      {
+        "code": "EV-042",
+        "name": "Digital Marketing Workshop: Content Creation Strategies",
+        "detail": "Master effective content creation strategies for digital marketing campaigns.",
+        "location": "Bandung",
+        "seats": 80,
+        "price": 70000,
+        "start_date": "2023-03-05T00:00:00.000Z",
+        "end_date": "2023-03-07T00:00:00.000Z",
+        "organizer": {
+          "code": "USR-008",
+          "name": "susi anggraini",
+          "image": "https://api.api-ninjas.com/v1/randomimage"
+        },
+        "category": "marketing",
+        "images": [
+          "https://api.api-ninjas.com/v1/randomimage",
+          "https://api.api-ninjas.com/v1/randomimage",
+          "https://api.api-ninjas.com/v1/randomimage"
+        ]
+      },
+      {
+        "code": "EV-043",
+        "name": "Art Exhibition: Contemporary Art Showcase",
+        "detail": "Experience a showcase of contemporary art from emerging and established artists.",
+        "location": "Jakarta",
+        "seats": 100,
+        "price": 80000,
+        "start_date": "2023-03-10T00:00:00.000Z",
+        "end_date": "2023-03-12T00:00:00.000Z",
+        "organizer": {
+          "code": "USR-017",
+          "name": "antonio santoso",
+          "image": "https://api.api-ninjas.com/v1/randomimage"
+        },
+        "category": "art",
+        "images": [
+          "https://api.api-ninjas.com/v1/randomimage",
+          "https://api.api-ninjas.com/v1/randomimage",
+          "https://api.api-ninjas.com/v1/randomimage"
+        ]
+      },
+      {
+        "code": "EV-044",
+        "name": "Literature Seminar: Fiction and Poetry Symposium",
+        "detail": "Participate in discussions and presentations on fiction and poetry.",
+        "location": "Bandung",
+        "seats": 120,
+        "price": 90000,
+        "start_date": "2023-03-15T00:00:00.000Z",
+        "end_date": "2023-03-17T00:00:00.000Z",
+        "organizer": {
+          "code": "USR-018",
+          "name": "susi anggraini",
+          "image": "https://api.api-ninjas.com/v1/randomimage"
+        },
+        "category": "literature",
+        "images": [
+          "https://api.api-ninjas.com/v1/randomimage",
+          "https://api.api-ninjas.com/v1/randomimage",
+          "https://api.api-ninjas.com/v1/randomimage"
+        ]
+      },
+      {
+        "code": "EV-045",
+        "name": "Fitness Workshop: Cardio and Strength Training",
+        "detail": "Learn effective cardio and strength training techniques.",
+        "location": "Jakarta",
+        "seats": 80,
+        "price": 70000,
+        "start_date": "2023-03-20T00:00:00.000Z",
+        "end_date": "2023-03-22T00:00:00.000Z",
+        "organizer": {
+          "code": "USR-019",
+          "name": "michael santoso",
+          "image": "https://api.api-ninjas.com/v1/randomimage"
+        },
+        "category": "fitness",
+        "images": [
+          "https://api.api-ninjas.com/v1/randomimage",
+          "https://api.api-ninjas.com/v1/randomimage",
+          "https://api.api-ninjas.com/v1/randomimage"
+        ]
+      },
+      {
+        "code": "EV-046",
+        "name": "Tech Summit: Blockchain and Cryptocurrency",
+        "detail": "Explore the latest developments in blockchain and cryptocurrency.",
+        "location": "Online",
+        "seats": 100,
+        "price": 80000,
+        "start_date": "2023-03-25T00:00:00.000Z",
+        "end_date": "2023-03-27T00:00:00.000Z",
+        "organizer": {
+          "code": "USR-020",
+          "name": "andre wijaya",
+          "image": "https://api.api-ninjas.com/v1/randomimage"
+        },
+        "category": "technology",
+        "images": [
+          "https://api.api-ninjas.com/v1/randomimage",
+          "https://api.api-ninjas.com/v1/randomimage",
+          "https://api.api-ninjas.com/v1/randomimage"
+        ]
+      },
+      {
+        "code": "EV-047",
+        "name": "Art Workshop: Oil Painting Techniques",
+        "detail": "Learn advanced oil painting techniques and methods.",
+        "location": "Bandung",
+        "seats": 80,
+        "price": 70000,
+        "start_date": "2023-04-05T00:00:00.000Z",
+        "end_date": "2023-04-07T00:00:00.000Z",
+        "organizer": {
+          "code": "USR-021",
+          "name": "antonio santoso",
+          "image": "https://api.api-ninjas.com/v1/randomimage"
+        },
+        "category": "art",
+        "images": [
+          "https://api.api-ninjas.com/v1/randomimage",
+          "https://api.api-ninjas.com/v1/randomimage",
+          "https://api.api-ninjas.com/v1/randomimage"
+        ]
+      },
+      {
+        "code": "EV-048",
+        "name": "Music Concert: Classical Symphony",
+        "detail": "Enjoy a classical music concert featuring symphonic masterpieces.",
+        "location": "Jakarta",
+        "seats": 150,
+        "price": 120000,
+        "start_date": "2023-04-10T00:00:00.000Z",
+        "end_date": "2023-04-12T00:00:00.000Z",
+        "organizer": {
+          "code": "USR-002",
+          "name": "susi anggraini",
+          "image": "https://api.api-ninjas.com/v1/randomimage"
+        },
+        "category": "music",
+        "images": [
+          "https://api.api-ninjas.com/v1/randomimage",
+          "https://api.api-ninjas.com/v1/randomimage",
+          "https://api.api-ninjas.com/v1/randomimage"
+        ]
+      },
+      {
+        "code": "EV-049",
+        "name": "Cooking Workshop: Japanese Cuisine",
+        "detail": "Discover the art of Japanese cuisine with skilled chefs.",
+        "location": "Bali",
+        "seats": 100,
+        "price": 80000,
+        "start_date": "2023-04-15T00:00:00.000Z",
+        "end_date": "2023-04-17T00:00:00.000Z",
+        "organizer": {
+          "code": "USR-005",
+          "name": "michael santoso",
+          "image": "https://api.api-ninjas.com/v1/randomimage"
+        },
+        "category": "cooking",
+        "images": [
+          "https://api.api-ninjas.com/v1/randomimage",
+          "https://api.api-ninjas.com/v1/randomimage",
+          "https://api.api-ninjas.com/v1/randomimage"
+        ]
+      },
+      {
+        "code": "EV-050",
+        "name": "Business Seminar: Leadership Strategies",
+        "detail": "Learn effective leadership strategies for professional growth and development.",
+        "location": "Jakarta",
+        "seats": 120,
+        "price": 90000,
+        "start_date": "2023-04-20T00:00:00.000Z",
+        "end_date": "2023-04-22T00:00:00.000Z",
+        "organizer": {
+          "code": "USR-006",
+          "name": "andre wijaya",
+          "image": "https://api.api-ninjas.com/v1/randomimage"
+        },
+        "category": "business",
+        "images": [
+          "https://api.api-ninjas.com/v1/randomimage",
+          "https://api.api-ninjas.com/v1/randomimage",
+          "https://api.api-ninjas.com/v1/randomimage"
         ]
       }
+    ]
   },
-  "products": [
+  "categories": [
     {
-      "price": 0.32,
-      "weight": 1000,
-      "name": "Beetles",
-      "category": "Exotic",
-      "imageUrl": "/products/beetles.png",
-      "metadata": {
-        "unit": "g",
-        "weight": 100,
-        "calorie": 190,
-        "proteins": 24,
-        "fats": 9,
-        "increment": 100,
-        "carbs": 2
-      },
-      "id": 0
+      "id": 1,
+      "code": "CAT-001",
+      "name": "Art",
+      "parent": null,
+      "image": "https://picsum.photos/seed/picsum/200"
     },
     {
-      "price": 0.33,
-      "weight": 1300,
-      "name": "Cucumber",
-      "category": "Fresh Veggie",
-      "imageUrl": "/products/cucumber.png",
-      "metadata": {
-        "unit": "g",
-        "weight": 100,
-        "calorie": 16,
-        "proteins": 0.7,
-        "fats": 0.1,
-        "increment": 100,
-        "carbs": 3.6
-      },
-      "id": 1
+      "id": 2,
+      "code": "CAT-002",
+      "name": "Literature",
+      "parent": null,
+      "image": "https://picsum.photos/seed/picsum/200"
     },
     {
-      "price": 0.27,
-      "weight": 1200,
-      "name": "White Onion",
-      "category": "Fresh Veggie",
-      "imageUrl": "/products/white_onion.png",
-      "metadata": {
-        "unit": "g",
-        "weight": 100,
-        "calorie": 40,
-        "proteins": 1.1,
-        "fats": 0.1,
-        "increment": 100,
-        "carbs": 9.3
-      },
-      "id": 2
+      "id": 3,
+      "code": "CAT-003",
+      "name": "Fitness",
+      "parent": null,
+      "image": "https://picsum.photos/seed/picsum/200"
     },
     {
-      "price": 0.4,
-      "weight": 1500,
-      "name": "Lemon",
-      "category": "Fresh Veggie",
-      "imageUrl": "/products/lemon.png",
-      "metadata": {
-        "unit": "g",
-        "weight": 100,
-        "calorie": 29,
-        "proteins": 1.1,
-        "fats": 0.3,
-        "increment": 100,
-        "carbs": 9.3
-      },
-      "id": 3
+      "id": 4,
+      "code": "CAT-004",
+      "name": "Technology",
+      "parent": null,
+      "image": "https://picsum.photos/seed/picsum/200"
     },
     {
-      "price": 0.28,
-      "weight": 2000,
-      "name": "Potato",
-      "category": "Roots",
-      "imageUrl": "/products/potato.png",
-      "metadata": {
-        "unit": "g",
-        "weight": 100,
-        "calorie": 77,
-        "proteins": 2,
-        "fats": 0.1,
-        "increment": 100,
-        "carbs": 17
-      },
-      "id": 4
+      "id": 5,
+      "code": "CAT-005",
+      "name": "Music",
+      "parent": null,
+      "image": "https://picsum.photos/seed/picsum/200"
     },
     {
-      "price": 0.32,
-      "weight": 1000,
-      "name": "Fresh Garlic",
-      "category": "Spicy",
-      "imageUrl": "/products/garlic.png",
-      "metadata": {
-        "unit": "g",
-        "weight": 100,
-        "calorie": 143,
-        "proteins": 6.5,
-        "fats": 0.5,
-        "increment": 100,
-        "carbs": 29.9
-      },
-      "id": 5
+      "id": 6,
+      "code": "CAT-006",
+      "name": "Cooking",
+      "parent": null,
+      "image": "https://picsum.photos/seed/picsum/200"
     },
     {
-      "price": 0.45,
-      "weight": 500,
-      "name": "Red Chili Pepper",
-      "category": "Spicy",
-      "imageUrl": "/products/red_chili_pepper.png",
-      "metadata": {
-        "unit": "g",
-        "weight": 100,
-        "calorie": 40,
-        "proteins": 2,
-        "fats": 0.4,
-        "increment": 100,
-        "carbs": 9
-      },
-      "id": 6
+      "id": 7,
+      "code": "CAT-007",
+      "name": "Business",
+      "parent": null,
+      "image": "https://picsum.photos/seed/picsum/200"
     },
     {
-      "price": 0.5,
-      "weight": 750,
-      "name": "Ranch Dressing",
-      "category": "Dressings",
-      "imageUrl": "/products/ranch_dressing.png",
-      "metadata": {
-        "unit": "g",
-        "weight": 100,
-        "calorie": 145,
-        "proteins": 1,
-        "fats": 15,
-        "increment": 100,
-        "carbs": 2
-      },
-      "id": 7
+      "id": 8,
+      "code": "CAT-008",
+      "name": "Film",
+      "parent": null,
+      "image": "https://picsum.photos/seed/picsum/200"
     },
     {
-      "price": 0.6,
-      "weight": 1000,
-      "name": "Honey",
-      "category": "Sweet",
-      "imageUrl": "/products/honey.png",
-      "metadata": {
-        "unit": "g",
-        "weight": 100,
-        "calorie": 304,
-        "proteins": 0.3,
-        "fats": 0,
-        "increment": 100,
-        "carbs": 82.4
-      },
-      "id": 8
+      "id": 9,
+      "code": "CAT-009",
+      "name": "Design",
+      "parent": 1,
+      "image": "https://picsum.photos/seed/picsum/200"
     },
     {
-      "price": 0.25,
-      "weight": 2000,
-      "name": "Carrot",
-      "category": "Roots",
-      "imageUrl": "/products/carrot.png",
-      "metadata": {
-        "unit": "g",
-        "weight": 100,
-        "calorie": 41,
-        "proteins": 0.9,
-        "fats": 0.2,
-        "increment": 100,
-        "carbs": 9.6
-      },
-      "id": 9
+      "id": 10,
+      "code": "CAT-010",
+      "name": "Business",
+      "parent": null,
+      "image": "https://picsum.photos/seed/picsum/200"
     },
     {
-      "price": 0.38,
-      "weight": 1500,
-      "name": "Beetroot",
-      "category": "Roots",
-      "imageUrl": "/products/beetroot.png",
-      "metadata": {
-        "unit": "g",
-        "weight": 100,
-        "calorie": 43,
-        "proteins": 1.6,
-        "fats": 0.2,
-        "increment": 100,
-        "carbs": 10
-      },
-      "id": 10
+      "id": 11,
+      "code": "CAT-011",
+      "name": "Cooking",
+      "parent": null,
+      "image": "https://picsum.photos/seed/picsum/200"
     },
     {
-      "price": 0.7,
-      "weight": 1200,
-      "name": "Maple Syrup",
-      "category": "Sweet",
-      "imageUrl": "/products/maple_syrup.png",
-      "metadata": {
-        "unit": "g",
-        "weight": 100,
-        "calorie": 260,
-        "proteins": 0,
-        "fats": 0,
-        "increment": 100,
-        "carbs": 67
-      },
-      "id": 11
+      "id": 12,
+      "code": "CAT-012",
+      "name": "Dance",
+      "parent": 2,
+      "image": "https://picsum.photos/seed/picsum/200"
     },
     {
-      "price": 0.85,
-      "weight": 1000,
-      "name": "Olive Oil Dressing",
-      "category": "Dressings",
-      "imageUrl": "/products/olive_oil_dressing.png",
-      "metadata": {
-        "unit": "g",
-        "weight": 100,
-        "calorie": 884,
-        "proteins": 0,
-        "fats": 100,
-        "increment": 100,
-        "carbs": 0
-      },
-      "id": 12
+      "id": 13,
+      "code": "CAT-013",
+      "name": "Fashion",
+      "parent": null,
+      "image": "https://picsum.photos/seed/picsum/200"
     },
     {
-      "price": 0.28,
-      "weight": 1000,
-      "name": "Ginger",
-      "category": "Spicy",
-      "imageUrl": "/products/ginger.png",
-      "metadata": {
-        "unit": "g",
-        "weight": 100,
-        "calorie": 80,
-        "proteins": 1.8,
-        "fats": 0.8,
-        "increment": 100,
-        "carbs": 18
-      },
-      "id": 13
+      "id": 14,
+      "code": "CAT-014",
+      "name": "Literature",
+      "parent": null,
+      "image": "https://picsum.photos/seed/picsum/200"
     },
     {
-      "price": 0.4,
-      "weight": 500,
-      "name": "Balsamic Vinegar",
-      "category": "Dressings",
-      "imageUrl": "/products/balsamic_vinegar.png",
-      "metadata": {
-        "unit": "g",
-        "weight": 100,
-        "calorie": 88,
-        "proteins": 0.5,
-        "fats": 0,
-        "increment": 100,
-        "carbs": 17
-      },
-      "id": 14
+      "id": 15,
+      "code": "CAT-015",
+      "name": "Fitness",
+      "parent": null,
+      "image": "https://picsum.photos/seed/picsum/200"
     },
     {
-      "price": 0.55,
-      "weight": 1500,
-      "name": "Sweet Corn",
-      "category": "Sweet",
-      "imageUrl": "/products/sweet_corn.png",
-      "metadata": {
-        "unit": "g",
-        "weight": 100,
-        "calorie": 86,
-        "proteins": 3.2,
-        "fats": 1.2,
-        "increment": 100,
-        "carbs": 19
-      },
-      "id": 15
+      "id": 16,
+      "code": "CAT-016",
+      "name": "Health",
+      "parent": null,
+      "image": "https://picsum.photos/seed/picsum/200"
     },
     {
-      "price": 0.48,
-      "weight": 1000,
-      "name": "Radish",
-      "category": "Roots",
-      "imageUrl": "/products/radish.png",
-      "metadata": {
-        "unit": "g",
-        "weight": 100,
-        "calorie": 16,
-        "proteins": 0.7,
-        "fats": 0.1,
-        "increment": 100,
-        "carbs": 3.4
-      },
-      "id": 16
+      "id": 17,
+      "code": "CAT-017",
+      "name": "Science",
+      "parent": null,
+      "image": "https://picsum.photos/seed/picsum/200"
     },
     {
-      "price": 0.65,
-      "weight": 800,
-      "name": "BBQ Sauce",
-      "category": "Dressings",
-      "imageUrl": "/products/bbq_sauce.png",
-      "metadata": {
-        "unit": "g",
-        "weight": 100,
-        "calorie": 165,
-        "proteins": 1,
-        "fats": 0.4,
-        "increment": 100,
-        "carbs": 40
-      },
-      "id": 17
+      "id": 18,
+      "code": "CAT-018",
+      "name": "Travel",
+      "parent": null,
+      "image": "https://picsum.photos/seed/picsum/200"
     },
     {
-      "price": 0.35,
-      "weight": 700,
-      "name": "Sweet Potato",
-      "category": "Roots",
-      "imageUrl": "/products/sweet_potato.png",
-      "metadata": {
-        "unit": "g",
-        "weight": 100,
-        "calorie": 86,
-        "proteins": 1.6,
-        "fats": 0.1,
-        "increment": 100,
-        "carbs": 20.1
-      },
-      "id": 18
+      "id": 19,
+      "code": "CAT-019",
+      "name": "Photography",
+      "parent": 1,
+      "image": "https://picsum.photos/seed/picsum/200"
     },
     {
-      "price": 0.22,
-      "weight": 600,
-      "name": "Green Chili",
-      "category": "Spicy",
-      "imageUrl": "/products/green_chili.png",
-      "metadata": {
-        "unit": "g",
-        "weight": 100,
-        "calorie": 40,
-        "proteins": 1.9,
-        "fats": 0.2,
-        "increment": 100,
-        "carbs": 8.8
-      },
-      "id": 19
-    },
-    {
-      "price": 0.75,
-      "weight": 750,
-      "name": "Agave Syrup",
-      "category": "Sweet",
-      "imageUrl": "/products/agave_syrup.png",
-      "metadata": {
-        "unit": "g",
-        "weight": 100,
-        "calorie": 310,
-        "proteins": 0,
-        "fats": 0,
-        "increment": 100,
-        "carbs": 76
-      },
-      "id": 20
-    },
-    {
-      "price": 0.42,
-      "weight": 850,
-      "name": "Hot Sauce",
-      "category": "Spicy",
-      "imageUrl": "/products/hot_sauce.png",
-      "metadata": {
-        "unit": "g",
-        "weight": 100,
-        "calorie": 12,
-        "proteins": 0.5,
-        "fats": 0.1,
-        "increment": 100,
-        "carbs": 2.4
-      },
-      "id": 21
-    },
-    {
-      "price": 0.58,
-      "weight": 950,
-      "name": "Tahini",
-      "category": "Dressings",
-      "imageUrl": "/products/tahini.png",
-      "metadata": {
-        "unit": "g",
-        "weight": 100,
-        "calorie": 595,
-        "proteins": 17,
-        "fats": 53,
-        "increment": 100,
-        "carbs": 21
-      },
-      "id": 22
-    },
-    {
-      "price": 0.3,
-      "weight": 1000,
-      "name": "Yam",
-      "category": "Roots",
-      "imageUrl": "/products/yam.png",
-      "metadata": {
-        "unit": "g",
-        "weight": 100,
-        "calorie": 118,
-        "proteins": 1.5,
-        "fats": 0.1,
-        "increment": 100,
-        "carbs": 27.9
-      },
-      "id": 23
-    },
-    {
-      "price": 0.26,
-      "weight": 1200,
-      "name": "Tomato",
-      "category": "Fresh Veggie",
-      "imageUrl": "/products/tomato.png",
-      "metadata": {
-        "unit": "g",
-        "weight": 100,
-        "calorie": 18,
-        "proteins": 0.9,
-        "fats": 0.2,
-        "increment": 100,
-        "carbs": 3.9
-      },
-      "id": 24
-    },
-    {
-      "price": 0.33,
-      "weight": 1300,
-      "name": "Cucumber",
-      "category": "Fresh Veggie",
-      "imageUrl": "/products/cucumber.png",
-      "metadata": {
-        "unit": "g",
-        "weight": 100,
-        "calorie": 16,
-        "proteins": 0.7,
-        "fats": 0.1,
-        "increment": 100,
-        "carbs": 3.6
-      },
-      "id": 25
-    },
-    {
-      "price": 0.29,
-      "weight": 1500,
-      "name": "Lettuce",
-      "category": "Fresh Veggie",
-      "imageUrl": "/products/lettuce.png",
-      "metadata": {
-        "unit": "g",
-        "weight": 100,
-        "calorie": 15,
-        "proteins": 1.4,
-        "fats": 0.2,
-        "increment": 100,
-        "carbs": 2.9
-      },
-      "id": 26
-    },
-    {
-      "price": 0.41,
-      "weight": 1000,
-      "name": "Bell Pepper",
-      "category": "Fresh Veggie",
-      "imageUrl": "/products/bell_pepper.png",
-      "metadata": {
-        "unit": "g",
-        "weight": 100,
-        "calorie": 31,
-        "proteins": 1,
-        "fats": 0.3,
-        "increment": 100,
-        "carbs": 6
-      },
-      "id": 27
-    },
-    {
-      "price": 0.37,
-      "weight": 800,
-      "name": "Zucchini",
-      "category": "Fresh Veggie",
-      "imageUrl": "/products/zucchini.png",
-      "metadata": {
-        "unit": "g",
-        "weight": 100,
-        "calorie": 17,
-        "proteins": 1.2,
-        "fats": 0.3,
-        "increment": 100,
-        "carbs": 3.1
-      },
-      "id": 28
-    },
-    {
-      "price": 0.34,
-      "weight": 1100,
-      "name": "Spinach",
-      "category": "Fresh Veggie",
-      "imageUrl": "/products/spinach.png",
-      "metadata": {
-        "unit": "g",
-        "weight": 100,
-        "calorie": 23,
-        "proteins": 2.9,
-        "fats": 0.4,
-        "increment": 100,
-        "carbs": 3.6
-      },
-      "id": 29
-    },
-    {
-      "price": 0.3,
-      "weight": 900,
-      "name": "Broccoli",
-      "category": "Fresh Veggie",
-      "imageUrl": "/products/broccoli.png",
-      "metadata": {
-        "unit": "g",
-        "weight": 100,
-        "calorie": 34,
-        "proteins": 2.8,
-        "fats": 0.4,
-        "increment": 100,
-        "carbs": 6.6
-      },
-      "id": 30
-    },
-    {
-      "price": 0.4,
-      "weight": 700,
-      "name": "Kale",
-      "category": "Fresh Veggie",
-      "imageUrl": "/products/kale.png",
-      "metadata": {
-        "unit": "g",
-        "weight": 100,
-        "calorie": 49,
-        "proteins": 4.3,
-        "fats": 0.9,
-        "increment": 100,
-        "carbs": 8.8
-      },
-      "id": 31
-    },
-    {
-      "price": 0.55,
-      "weight": 800,
-      "name": "Asparagus",
-      "category": "Fresh Veggie",
-      "imageUrl": "/products/asparagus.png",
-      "metadata": {
-        "unit": "g",
-        "weight": 100,
-        "calorie": 20,
-        "proteins": 2.2,
-        "fats": 0.1,
-        "increment": 100,
-        "carbs": 3.9
-      },
-      "id": 32
-    },
-    {
-      "price": 0.36,
-      "weight": 1400,
-      "name": "Green Beans",
-      "category": "Fresh Veggie",
-      "imageUrl": "/products/green_beans.png",
-      "metadata": {
-        "unit": "g",
-        "weight": 100,
-        "calorie": 31,
-        "proteins": 1.8,
-        "fats": 0.1,
-        "increment": 100,
-        "carbs": 7.1
-      },
-      "id": 33
+      "id": 20,
+      "code": "CAT-020",
+      "name": "Crafts",
+      "parent": 1,
+      "image": "https://picsum.photos/seed/picsum/200"
     }
   ]
 }
