@@ -1764,14 +1764,7 @@
     {
       "id": 2,
       "code": "CAT-002",
-      "name": "Literature",
-      "parent": null,
-      "image": "https://picsum.photos/seed/picsum/200"
-    },
-    {
-      "id": 3,
-      "code": "CAT-003",
-      "name": "Fitness",
+      "name": "Sculpting",
       "parent": null,
       "image": "https://picsum.photos/seed/picsum/200"
     },
@@ -1792,14 +1785,14 @@
     {
       "id": 6,
       "code": "CAT-006",
-      "name": "Cooking",
+      "name": "Bakery",
       "parent": null,
       "image": "https://picsum.photos/seed/picsum/200"
     },
     {
       "id": 7,
       "code": "CAT-007",
-      "name": "Business",
+      "name": "Wealth",
       "parent": null,
       "image": "https://picsum.photos/seed/picsum/200"
     },
@@ -1895,4 +1888,5 @@
       "image": "https://picsum.photos/seed/picsum/200"
     }
   ]
+
 }
