@@ -1,9 +1,5 @@
 {
-  "get-events": {
-    "status": 200,
-    "message": "OK",
-    "messageDetail": "All items retrieved successfully",
-    "data": [
+  "get-events": [
       {
         "id": "1",
         "name": "FPS Fundamental",
@@ -704,13 +700,8 @@
         "main_image": "https://api.api-ninjas.com/v1/randomimage",
         "location": "bali"
       }
-    ]
-  },
-  "event-detail": {
-    "status": 200,
-    "message": "OK",
-    "messageDetail": "Item retrieved successfully",
-    "data": [
+    ],
+  "event-detail": [
       {
         "id": "1",
         "name": "FPS Fundamental",
@@ -1761,8 +1752,7 @@
           "https://api.api-ninjas.com/v1/randomimage"
         ]
       }
-    ]
-  },
+    ],
   "categories": [
     {
       "id": 1,
