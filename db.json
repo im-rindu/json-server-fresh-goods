@@ -3,7 +3,7 @@
       {
         "id": "1",
         "name": "FPS Fundamental",
-        "price": 30000,
+        "price": 0,
         "start_date": "2024-06-25T00:00:00.000Z",
         "category": "gaming",
         "organizer": {
@@ -17,7 +17,7 @@
       {
         "id": "2",
         "name": "Art Exhibition: Modern Art Showcase",
-        "price": 0,
+        "price": 50000,
         "start_date": "2024-07-03T00:00:00.000Z",
         "category": "art",
         "organizer": {
@@ -59,7 +59,7 @@
       {
         "id": "5",
         "name": "Virtual Reality Workshop: Immersive Experiences",
-        "price": 120000,
+        "price": 0,
         "start_date": "2024-07-20T00:00:00.000Z",
         "category": "technology",
         "organizer": {
@@ -114,24 +114,22 @@
       },
       {
         "id": "9",
-        "name": "Literature Seminar: Modern Writers' Insights",
-        "location": "Jakarta",
-        "seats": 100,
-        "price": 0,
-        "start_date": "2022-09-10T00:00:00.000Z",
-        "end_date": "2022-09-12T00:00:00.000Z",
+        "name": "Tech Startup Summit: Entrepreneurship in Action",
+        "price": 280000,
+        "start_date": "2024-08-10T00:00:00.000Z",
+        "category": "technology",
         "organizer": {
-          "code": "USR-009",
-          "name": "antonio santoso",
+          "code": "USR-001",
+          "name": "budi setiawan",
           "image": "https://api.api-ninjas.com/v1/randomimage"
         },
-        "category": "literature",
         "main_image": "https://api.api-ninjas.com/v1/randomimage",
+        "location": "bandung"
       },
       {
         "id": "10",
         "name": "Art Workshop: Abstract Painting Techniques",
-        "price": 80000,
+        "price": 0,
         "start_date": "2024-08-15T00:00:00.000Z",
         "category": "art",
         "organizer": {
@@ -173,7 +171,7 @@
       {
         "id": "13",
         "name": "Virtual Reality Workshop: Immersive Experiences",
-        "price": 0,
+        "price": 120000,
         "start_date": "2024-07-02T00:00:00.000Z",
         "category": "technology",
         "organizer": {
@@ -731,7 +729,7 @@
         "detail": "Discover the latest advancements in Artificial Intelligence.",
         "location": "Bandung",
         "seats": 120,
-        "price": 0,
+        "price": 50000,
         "start_date": "2022-08-05T00:00:00.000Z",
         "end_date": "2022-08-06T00:00:00.000Z",
         "organizer": {
@@ -878,7 +876,7 @@
         "detail": "Gain insights into the works of modern writers and literary trends.",
         "location": "Jakarta",
         "seats": 100,
-        "price": 0,
+        "price": 70000,
         "start_date": "2022-09-10T00:00:00.000Z",
         "end_date": "2022-09-12T00:00:00.000Z",
         "organizer": {
@@ -962,7 +960,7 @@
         "detail": "Discuss the global economic landscape and future trends.",
         "location": "Jakarta",
         "seats": 150,
-        "price": 0,
+        "price": 120000,
         "start_date": "2022-10-01T00:00:00.000Z",
         "end_date": "2022-10-03T00:00:00.000Z",
         "organizer": {
