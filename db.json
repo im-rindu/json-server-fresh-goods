@@ -1,38 +1,9 @@
 {
-  "users": [
-    {
-      "id": "1",
-      "username": "john_doe",
-      "password": "admin",
-      "email": "emily.johnson@x.dummyjson.com",
-      "role": "user",
-      "name": "John Doe",
-      "image": "https://i.pravatar.cc/300",
-    },
-    {
-      "id": "2",
-      "username": "jane_doe",
-      "password": "pass1",
-      "email": "alpha.7886@gmail.com",
-      "role": "admin",
-      "name": "Jane Doe",
-      "image": "https://i.pravatar.cc/300",
-    },
-    {
-      "id": "3",
-      "username": "Bob_doe",
-      "password": "admin",
-      "email": "bob.doe@admin.gg",
-      "role": "organizer",
-      "name": "Bob Doe",
-      "image": "https://i.pravatar.cc/300",
-    }
-  ],
   "get-events": [
       {
         "id": "1",
         "name": "FPS Fundamental",
-        "price": 0,
+        "price": 30000,
         "start_date": "2024-06-25T00:00:00.000Z",
         "category": "gaming",
         "organizer": {
@@ -88,7 +59,7 @@
       {
         "id": "5",
         "name": "Virtual Reality Workshop: Immersive Experiences",
-        "price": 0,
+        "price": 120000,
         "start_date": "2024-07-20T00:00:00.000Z",
         "category": "technology",
         "organizer": {
@@ -158,7 +129,7 @@
       {
         "id": "10",
         "name": "Art Workshop: Abstract Painting Techniques",
-        "price": 0,
+        "price": 80000,
         "start_date": "2024-08-15T00:00:00.000Z",
         "category": "art",
         "organizer": {
@@ -1793,7 +1764,14 @@
     {
       "id": 2,
       "code": "CAT-002",
-      "name": "Sculpting",
+      "name": "Literature",
+      "parent": null,
+      "image": "https://picsum.photos/seed/picsum/200"
+    },
+    {
+      "id": 3,
+      "code": "CAT-003",
+      "name": "Fitness",
       "parent": null,
       "image": "https://picsum.photos/seed/picsum/200"
     },
@@ -1814,14 +1792,14 @@
     {
       "id": 6,
       "code": "CAT-006",
-      "name": "Bakery",
+      "name": "Cooking",
       "parent": null,
       "image": "https://picsum.photos/seed/picsum/200"
     },
     {
       "id": 7,
       "code": "CAT-007",
-      "name": "Wealth",
+      "name": "Business",
       "parent": null,
       "image": "https://picsum.photos/seed/picsum/200"
     },
@@ -1917,5 +1895,4 @@
       "image": "https://picsum.photos/seed/picsum/200"
     }
   ]
-
 }
