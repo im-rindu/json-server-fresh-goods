@@ -1,706 +1,706 @@
 {
   "get-events": [
-      {
+    {
         "id": "1",
         "name": "FPS Fundamental",
         "price": 30000,
         "start_date": "2024-06-25T00:00:00.000Z",
         "category": "gaming",
         "organizer": {
-          "code": "USR-001",
-          "name": "budi setiawan",
-          "image": "https://api.api-ninjas.com/v1/randomimage"
+            "id": "1",
+            "name": "budi setiawan",
+            "image": "https://picsum.photos/300"
         },
-        "main_image": "https://api.api-ninjas.com/v1/randomimage",
+        "main_image": "https://picsum.photos/300/200",
         "location": "batam"
-      },
-      {
-        "id": "2",
+    },
+    {
+        "id": "1",
         "name": "Art Exhibition: Modern Art Showcase",
         "price": 50000,
         "start_date": "2024-07-03T00:00:00.000Z",
         "category": "art",
         "organizer": {
-          "code": "USR-002",
-          "name": "susi anggraini",
-          "image": "https://api.api-ninjas.com/v1/randomimage"
+            "id": "2,
+            "name": "susi anggraini",
+            "image": "https://picsum.photos/300"
         },
-        "main_image": "https://api.api-ninjas.com/v1/randomimage",
+        "main_image": "https://picsum.photos/300/200",
         "location": "jakarta"
-      },
-      {
+    },
+    {
         "id": "3",
         "name": "Music Festival: Summer Vibes",
         "price": 150000,
         "start_date": "2024-07-10T00:00:00.000Z",
         "category": "music",
         "organizer": {
-          "code": "USR-003",
-          "name": "david wijaya",
-          "image": "https://api.api-ninjas.com/v1/randomimage"
+            "id": "3",
+            "name": "david wijaya",
+            "image": "https://picsum.photos/300"
         },
-        "main_image": "https://api.api-ninjas.com/v1/randomimage",
+        "main_image": "https://picsum.photos/300/200",
         "location": "bali"
-      },
-      {
-        "id": "4",
+    },
+    {
+        "id": "2",
         "name": "Cooking Workshop: Italian Cuisine Masterclass",
         "price": 80000,
         "start_date": "2024-07-15T00:00:00.000Z",
         "category": "cooking",
         "organizer": {
-          "code": "USR-004",
-          "name": "antonio santoso",
-          "image": "https://api.api-ninjas.com/v1/randomimage"
+            "id": "2",
+            "name": "antonio santoso",
+            "image": "https://picsum.photos/300"
         },
-        "main_image": "https://api.api-ninjas.com/v1/randomimage",
+        "main_image": "https://picsum.photos/300/200",
         "location": "bandung"
-      },
-      {
+    },
+    {
         "id": "5",
         "name": "Virtual Reality Workshop: Immersive Experiences",
         "price": 120000,
         "start_date": "2024-07-20T00:00:00.000Z",
         "category": "technology",
         "organizer": {
-          "code": "USR-001",
-          "name": "budi setiawan",
-          "image": "https://api.api-ninjas.com/v1/randomimage"
+            "id": "1",
+            "name": "budi setiawan",
+            "image": "https://picsum.photos/300"
         },
-        "main_image": "https://api.api-ninjas.com/v1/randomimage",
+        "main_image": "https://picsum.photos/300/200",
         "location": "online"
-      },
-      {
+    },
+    {
         "id": "6",
         "name": "Fashion Show: Spring Collection",
         "price": 200000,
         "start_date": "2024-07-25T00:00:00.000Z",
         "category": "fashion",
         "organizer": {
-          "code": "USR-005",
-          "name": "lisa wijaya",
-          "image": "https://api.api-ninjas.com/v1/randomimage"
+            "id": "5",
+            "name": "lisa wijaya",
+            "image": "https://picsum.photos/300"
         },
-        "main_image": "https://api.api-ninjas.com/v1/randomimage",
+        "main_image": "https://picsum.photos/300/200",
         "location": "bali"
-      },
-      {
+    },
+    {
         "id": "7",
         "name": "Business Conference: Innovation in Business Strategies",
         "price": 300000,
         "start_date": "2024-07-30T00:00:00.000Z",
         "category": "business",
         "organizer": {
-          "code": "USR-006",
-          "name": "andre wijaya",
-          "image": "https://api.api-ninjas.com/v1/randomimage"
+            "id": "6",
+            "name": "andre wijaya",
+            "image": "https://picsum.photos/300"
         },
-        "main_image": "https://api.api-ninjas.com/v1/randomimage",
+        "main_image": "https://picsum.photos/300/200",
         "location": "bandung"
-      },
-      {
+    },
+    {
         "id": "8",
         "name": "Film Festival: International Cinema Celebration",
         "price": 100000,
         "start_date": "2024-08-05T00:00:00.000Z",
         "category": "film",
         "organizer": {
-          "code": "USR-007",
-          "name": "michael santoso",
-          "image": "https://api.api-ninjas.com/v1/randomimage"
+            "id": "7",
+            "name": "michael santoso",
+            "image": "https://picsum.photos/300"
         },
-        "main_image": "https://api.api-ninjas.com/v1/randomimage",
+        "main_image": "https://picsum.photos/300/200",
         "location": "jakarta"
-      },
-      {
+    },
+    {
         "id": "9",
         "name": "Tech Startup Summit: Entrepreneurship in Action",
         "price": 280000,
         "start_date": "2024-08-10T00:00:00.000Z",
         "category": "technology",
         "organizer": {
-          "code": "USR-001",
-          "name": "budi setiawan",
-          "image": "https://api.api-ninjas.com/v1/randomimage"
+            "id": "1",
+            "name": "budi setiawan",
+            "image": "https://picsum.photos/300"
         },
-        "main_image": "https://api.api-ninjas.com/v1/randomimage",
+        "main_image": "https://picsum.photos/300/200",
         "location": "bandung"
-      },
-      {
+    },
+    {
         "id": "10",
         "name": "Art Workshop: Abstract Painting Techniques",
         "price": 80000,
         "start_date": "2024-08-15T00:00:00.000Z",
         "category": "art",
         "organizer": {
-          "code": "USR-008",
-          "name": "lisa wijaya",
-          "image": "https://api.api-ninjas.com/v1/randomimage"
+            "id": "8",
+            "name": "lisa wijaya",
+            "image": "https://picsum.photos/300"
         },
-        "main_image": "https://api.api-ninjas.com/v1/randomimage",
+        "main_image": "https://picsum.photos/300/200",
         "location": "jakarta"
-      },
-      {
+    },
+    {
         "id": "11",
         "name": "Literature Seminar: Classic Novels Revisited",
         "price": 180000,
         "start_date": "2024-08-20T00:00:00.000Z",
         "category": "literature",
         "organizer": {
-          "code": "USR-009",
-          "name": "antonio santoso",
-          "image": "https://api.api-ninjas.com/v1/randomimage"
+            "id": "9",
+            "name": "antonio santoso",
+            "image": "https://picsum.photos/300"
         },
-        "main_image": "https://api.api-ninjas.com/v1/randomimage",
+        "main_image": "https://picsum.photos/300/200",
         "location": "bandung"
-      },
-      {
+    },
+    {
         "id": "12",
         "name": "Technology Summit: Future Innovations",
         "price": 300000,
         "start_date": "2024-06-28T00:00:00.000Z",
         "category": "technology",
         "organizer": {
-          "code": "USR-010",
-          "name": "david wijaya",
-          "image": "https://api.api-ninjas.com/v1/randomimage"
+            "id": "10",
+            "name": "david wijaya",
+            "image": "https://picsum.photos/300"
         },
-        "main_image": "https://api.api-ninjas.com/v1/randomimage",
+        "main_image": "https://picsum.photos/300/200",
         "location": "jakarta"
-      },
-      {
+    },
+    {
         "id": "13",
         "name": "Virtual Reality Workshop: Immersive Experiences",
         "price": 120000,
         "start_date": "2024-07-02T00:00:00.000Z",
         "category": "technology",
         "organizer": {
-          "code": "USR-001",
-          "name": "budi setiawan",
-          "image": "https://api.api-ninjas.com/v1/randomimage"
+            "id": "1",
+            "name": "budi setiawan",
+            "image": "https://picsum.photos/300"
         },
-        "main_image": "https://api.api-ninjas.com/v1/randomimage",
+        "main_image": "https://picsum.photos/300/200",
         "location": "jakarta"
-      },
-      {
+    },
+    {
         "id": "14",
         "name": "Culinary Competition: MasterChef Challenge",
         "price": 90000,
         "start_date": "2024-07-05T00:00:00.000Z",
         "category": "cooking",
         "organizer": {
-          "code": "USR-011",
-          "name": "susi anggraini",
-          "image": "https://api.api-ninjas.com/v1/randomimage"
+            "id": "1",
+            "name": "susi anggraini",
+            "image": "https://picsum.photos/300"
         },
-        "main_image": "https://api.api-ninjas.com/v1/randomimage",
+        "main_image": "https://picsum.photos/300/200",
         "location": "bali"
-      },
-      {
+    },
+    {
         "id": "15",
         "name": "Music Concert: Jazz Night",
         "price": 150000,
         "start_date": "2024-07-08T00:00:00.000Z",
         "category": "music",
         "organizer": {
-          "code": "USR-012",
-          "name": "antonio santoso",
-          "image": "https://api.api-ninjas.com/v1/randomimage"
+            "id": "12",
+            "name": "antonio santoso",
+            "image": "https://picsum.photos/300"
         },
-        "main_image": "https://api.api-ninjas.com/v1/randomimage",
+        "main_image": "https://picsum.photos/300/200",
         "location": "bandung"
-      },
-      {
+    },
+    {
         "id": "16",
         "name": "Art Workshop: Watercolor Techniques",
         "price": 80000,
         "start_date": "2024-07-12T00:00:00.000Z",
         "category": "art",
         "organizer": {
-          "code": "USR-013",
-          "name": "michael santoso",
-          "image": "https://api.api-ninjas.com/v1/randomimage"
+            "id": "13",
+            "name": "michael santoso",
+            "image": "https://picsum.photos/300"
         },
-        "main_image": "https://api.api-ninjas.com/v1/randomimage",
+        "main_image": "https://picsum.photos/300/200",
         "location": "jakarta"
-      },
-      {
+    },
+    {
         "id": "17",
         "name": "Tech Talk: AI and Machine Learning Applications",
         "price": 200000,
         "start_date": "2024-07-18T00:00:00.000Z",
         "category": "technology",
         "organizer": {
-          "code": "USR-014",
-          "name": "david wijaya",
-          "image": "https://api.api-ninjas.com/v1/randomimage"
+            "id": "14",
+            "name": "david wijaya",
+            "image": "https://picsum.photos/300"
         },
-        "main_image": "https://api.api-ninjas.com/v1/randomimage",
+        "main_image": "https://picsum.photos/300/200",
         "location": "bali"
-      },
-      {
+    },
+    {
         "id": "18",
         "name": "Fashion Show: Summer Collection",
         "price": 180000,
         "start_date": "2024-07-22T00:00:00.000Z",
         "category": "fashion",
         "organizer": {
-          "code": "USR-015",
-          "name": "lisa wijaya",
-          "image": "https://api.api-ninjas.com/v1/randomimage"
+            "id": "15",
+            "name": "lisa wijaya",
+            "image": "https://picsum.photos/300"
         },
-        "main_image": "https://api.api-ninjas.com/v1/randomimage",
+        "main_image": "https://picsum.photos/300/200",
         "location": "online"
-      },
-      {
+    },
+    {
         "id": "19",
         "name": "Business Seminar: Entrepreneurship Insights",
         "price": 250000,
         "start_date": "2024-07-27T00:00:00.000Z",
         "category": "business",
         "organizer": {
-          "code": "USR-006",
-          "name": "andre wijaya",
-          "image": "https://api.api-ninjas.com/v1/randomimage"
+            "id": "6",
+            "name": "andre wijaya",
+            "image": "https://picsum.photos/300"
         },
-        "main_image": "https://api.api-ninjas.com/v1/randomimage",
+        "main_image": "https://picsum.photos/300/200",
         "location": "bandung"
-      },
-      {
+    },
+    {
         "id": "20",
         "name": "Film Workshop: Screenwriting Masterclass",
         "price": 120000,
         "start_date": "2024-07-30T00:00:00.000Z",
         "category": "film",
         "organizer": {
-          "code": "USR-007",
-          "name": "michael santoso",
-          "image": "https://api.api-ninjas.com/v1/randomimage"
+            "id": "7",
+            "name": "michael santoso",
+            "image": "https://picsum.photos/300"
         },
-        "main_image": "https://api.api-ninjas.com/v1/randomimage",
+        "main_image": "https://picsum.photos/300/200",
         "location": "jakarta"
-      },
-      {
+    },
+    {
         "id": "21",
         "name": "Technology Conference: Digital Transformation",
         "price": 300000,
         "start_date": "2024-08-02T00:00:00.000Z",
         "category": "technology",
         "organizer": {
-          "code": "USR-016",
-          "name": "susi anggraini",
-          "image": "https://api.api-ninjas.com/v1/randomimage"
+            "id": "1",
+            "name": "susi anggraini",
+            "image": "https://picsum.photos/300"
         },
-        "main_image": "https://api.api-ninjas.com/v1/randomimage",
+        "main_image": "https://picsum.photos/300/200",
         "location": "online"
-      },
-      {
+    },
+    {
         "id": "22",
         "name": "Cooking Workshop: Asian Cuisine Masterclass",
         "price": 150000,
         "start_date": "2024-08-07T00:00:00.000Z",
         "category": "cooking",
         "organizer": {
-          "code": "USR-004",
-          "name": "antonio santoso",
-          "image": "https://api.api-ninjas.com/v1/randomimage"
+            "id": "2",
+            "name": "antonio santoso",
+            "image": "https://picsum.photos/300"
         },
-        "main_image": "https://api.api-ninjas.com/v1/randomimage",
+        "main_image": "https://picsum.photos/300/200",
         "location": "bali"
-      },
-      {
+    },
+    {
         "id": "23",
         "name": "Music Workshop: Electronic Music Production",
         "price": 80000,
         "start_date": "2024-08-12T00:00:00.000Z",
         "category": "music",
         "organizer": {
-          "code": "USR-003",
-          "name": "david wijaya",
-          "image": "https://api.api-ninjas.com/v1/randomimage"
+            "id": "3",
+            "name": "david wijaya",
+            "image": "https://picsum.photos/300"
         },
-        "main_image": "https://api.api-ninjas.com/v1/randomimage",
+        "main_image": "https://picsum.photos/300/200",
         "location": "bandung"
-      },
-      {
+    },
+    {
         "id": "24",
         "name": "Cooking Workshop: Asian Cuisine Masterclass",
         "price": 150000,
         "start_date": "2024-08-17T00:00:00.000Z",
         "category": "cooking",
         "organizer": {
-          "code": "USR-004",
-          "name": "antonio santoso",
-          "image": "https://api.api-ninjas.com/v1/randomimage"
+            "id": "2",
+            "name": "antonio santoso",
+            "image": "https://picsum.photos/300"
         },
-        "main_image": "https://api.api-ninjas.com/v1/randomimage",
+        "main_image": "https://picsum.photos/300/200",
         "location": "jakarta"
-      },
-      {
+    },
+    {
         "id": "25",
         "name": "Music Workshop: Electronic Music Production",
         "price": 80000,
         "start_date": "2024-08-22T00:00:00.000Z",
         "category": "music",
         "organizer": {
-          "code": "USR-003",
-          "name": "david wijaya",
-          "image": "https://api.api-ninjas.com/v1/randomimage"
+            "id": "3",
+            "name": "david wijaya",
+            "image": "https://picsum.photos/300"
         },
-        "main_image": "https://api.api-ninjas.com/v1/randomimage",
+        "main_image": "https://picsum.photos/300/200",
         "location": "batam"
-      },
-      {
+    },
+    {
         "id": "26",
         "name": "Digital Marketing Conference: Trends and Strategies",
         "price": 250000,
         "start_date": "2024-08-27T00:00:00.000Z",
         "category": "marketing",
         "organizer": {
-          "code": "USR-017",
-          "name": "michael santoso",
-          "image": "https://api.api-ninjas.com/v1/randomimage"
+            "id": "17",
+            "name": "michael santoso",
+            "image": "https://picsum.photos/300"
         },
-        "main_image": "https://api.api-ninjas.com/v1/randomimage",
+        "main_image": "https://picsum.photos/300/200",
         "location": "jakarta"
-      },
-      {
+    },
+    {
         "id": "27",
         "name": "Film Workshop: Screenwriting Masterclass",
         "price": 120000,
         "start_date": "2024-09-01T00:00:00.000Z",
         "category": "film",
         "organizer": {
-          "code": "USR-007",
-          "name": "michael santoso",
-          "image": "https://api.api-ninjas.com/v1/randomimage"
+            "id": "7",
+            "name": "michael santoso",
+            "image": "https://picsum.photos/300"
         },
-        "main_image": "https://api.api-ninjas.com/v1/randomimage",
+        "main_image": "https://picsum.photos/300/200",
         "location": "online"
-      },
-      {
+    },
+    {
         "id": "28",
         "name": "Fashion Show: Winter Collection",
         "price": 200000,
         "start_date": "2024-09-05T00:00:00.000Z",
         "category": "fashion",
         "organizer": {
-          "code": "USR-005",
-          "name": "lisa wijaya",
-          "image": "https://api.api-ninjas.com/v1/randomimage"
+            "id": "5",
+            "name": "lisa wijaya",
+            "image": "https://picsum.photos/300"
         },
-        "main_image": "https://api.api-ninjas.com/v1/randomimage",
+        "main_image": "https://picsum.photos/300/200",
         "location": "bandung"
-      },
-      {
+    },
+    {
         "id": "29",
         "name": "Literature Seminar: Classic Novels Revisited",
         "price": 180000,
         "start_date": "2024-09-10T00:00:00.000Z",
         "category": "literature",
         "organizer": {
-          "code": "USR-009",
-          "name": "antonio santoso",
-          "image": "https://api.api-ninjas.com/v1/randomimage"
+            "id": "9",
+            "name": "antonio santoso",
+            "image": "https://picsum.photos/300"
         },
-        "main_image": "https://api.api-ninjas.com/v1/randomimage",
+        "main_image": "https://picsum.photos/300/200",
         "location": "jakarta"
-      },
-      {
+    },
+    {
         "id": "30",
         "name": "Fitness Workshop: Yoga and Meditation",
         "price": 150000,
         "start_date": "2024-09-15T00:00:00.000Z",
         "category": "fitness",
         "organizer": {
-          "code": "USR-018",
-          "name": "susi anggraini",
-          "image": "https://api.api-ninjas.com/v1/randomimage"
+            "id": "1",
+            "name": "susi anggraini",
+            "image": "https://picsum.photos/300"
         },
-        "main_image": "https://api.api-ninjas.com/v1/randomimage",
+        "main_image": "https://picsum.photos/300/200",
         "location": "jakarta"
-      },
-      {
+    },
+    {
         "id": "31",
         "name": "Tech Summit: Innovations in Artificial Intelligence",
         "price": 300000,
         "start_date": "2024-09-20T00:00:00.000Z",
         "category": "technology",
         "organizer": {
-          "code": "USR-016",
-          "name": "susi anggraini",
-          "image": "https://api.api-ninjas.com/v1/randomimage"
+            "id": "1",
+            "name": "susi anggraini",
+            "image": "https://picsum.photos/300"
         },
-        "main_image": "https://api.api-ninjas.com/v1/randomimage",
+        "main_image": "https://picsum.photos/300/200",
         "location": "bali"
-      },
-      {
+    },
+    {
         "id": "32",
         "name": "Culinary Competition: Chef's Challenge",
         "price": 90000,
         "start_date": "2024-09-25T00:00:00.000Z",
         "category": "cooking",
         "organizer": {
-          "code": "USR-011",
-          "name": "susi anggraini",
-          "image": "https://api.api-ninjas.com/v1/randomimage"
+            "id": "1",
+            "name": "susi anggraini",
+            "image": "https://picsum.photos/300"
         },
-        "main_image": "https://api.api-ninjas.com/v1/randomimage",
+        "main_image": "https://picsum.photos/300/200",
         "location": "bandung"
-      },
-      {
+    },
+    {
         "id": "33",
         "name": "Music Festival: Rock Night",
         "price": 150000,
         "start_date": "2024-09-30T00:00:00.000Z",
         "category": "music",
         "organizer": {
-          "code": "USR-012",
-          "name": "antonio santoso",
-          "image": "https://api.api-ninjas.com/v1/randomimage"
+            "id": "12",
+            "name": "antonio santoso",
+            "image": "https://picsum.photos/300"
         },
-        "main_image": "https://api.api-ninjas.com/v1/randomimage",
+        "main_image": "https://picsum.photos/300/200",
         "location": "jakarta"
-      },
-      {
+    },
+    {
         "id": "34",
         "name": "Art Exhibition: Contemporary Art Showcase",
         "price": 50000,
         "start_date": "2024-10-05T00:00:00.000Z",
         "category": "art",
         "organizer": {
-          "code": "USR-002",
-          "name": "susi anggraini",
-          "image": "https://api.api-ninjas.com/v1/randomimage"
+            "id": "2,
+            "name": "susi anggraini",
+            "image": "https://picsum.photos/300"
         },
-        "main_image": "https://api.api-ninjas.com/v1/randomimage",
+        "main_image": "https://picsum.photos/300/200",
         "location": "bali"
-      },
-      {
+    },
+    {
         "id": "35",
         "name": "Business Conference: Global Business Strategies",
         "price": 300000,
         "start_date": "2024-10-10T00:00:00.000Z",
         "category": "business",
         "organizer": {
-          "code": "USR-006",
-          "name": "andre wijaya",
-          "image": "https://api.api-ninjas.com/v1/randomimage"
+            "id": "6",
+            "name": "andre wijaya",
+            "image": "https://picsum.photos/300"
         },
-        "main_image": "https://api.api-ninjas.com/v1/randomimage",
+        "main_image": "https://picsum.photos/300/200",
         "location": "bandung"
-      },
-      {
+    },
+    {
         "id": "36",
         "name": "Film Festival: International Cinema Celebration",
         "price": 100000,
         "start_date": "2024-10-15T00:00:00.000Z",
         "category": "film",
         "organizer": {
-          "code": "USR-007",
-          "name": "michael santoso",
-          "image": "https://api.api-ninjas.com/v1/randomimage"
+            "id": "7",
+            "name": "michael santoso",
+            "image": "https://picsum.photos/300"
         },
-        "main_image": "https://api.api-ninjas.com/v1/randomimage",
+        "main_image": "https://picsum.photos/300/200",
         "location": "jakarta"
-      },
-      {
+    },
+    {
         "id": "37",
         "name": "Tech Startup Summit: Innovations in Technology",
         "price": 280000,
         "start_date": "2024-10-20T00:00:00.000Z",
         "category": "technology",
         "organizer": {
-          "code": "USR-016",
-          "name": "susi anggraini",
-          "image": "https://api.api-ninjas.com/v1/randomimage"
+            "id": "1",
+            "name": "susi anggraini",
+            "image": "https://picsum.photos/300"
         },
-        "main_image": "https://api.api-ninjas.com/v1/randomimage",
+        "main_image": "https://picsum.photos/300/200",
         "location": "bali"
-      },
-      {
+    },
+    {
         "id": "38",
         "name": "Fashion Show: Spring Collection",
         "price": 180000,
         "start_date": "2024-10-25T00:00:00.000Z",
         "category": "fashion",
         "organizer": {
-          "code": "USR-015",
-          "name": "lisa wijaya",
-          "image": "https://api.api-ninjas.com/v1/randomimage"
+            "id": "15",
+            "name": "lisa wijaya",
+            "image": "https://picsum.photos/300"
         },
-        "main_image": "https://api.api-ninjas.com/v1/randomimage",
+        "main_image": "https://picsum.photos/300/200",
         "location": "online"
-      },
-      {
+    },
+    {
         "id": "39",
         "name": "Literature Seminar: Contemporary Writers' Insights",
         "price": 180000,
         "start_date": "2024-10-30T00:00:00.000Z",
         "category": "literature",
         "organizer": {
-          "code": "USR-009",
-          "name": "antonio santoso",
-          "image": "https://api.api-ninjas.com/v1/randomimage"
+            "id": "9",
+            "name": "antonio santoso",
+            "image": "https://picsum.photos/300"
         },
-        "main_image": "https://api.api-ninjas.com/v1/randomimage",
+        "main_image": "https://picsum.photos/300/200",
         "location": "bandung"
-      },
-      {
+    },
+    {
         "id": "40",
         "name": "Fitness Workshop: Healthy Living",
         "price": 150000,
         "start_date": "2024-11-05T00:00:00.000Z",
         "category": "fitness",
         "organizer": {
-          "code": "USR-018",
-          "name": "susi anggraini",
-          "image": "https://api.api-ninjas.com/v1/randomimage"
+            "id": "1",
+            "name": "susi anggraini",
+            "image": "https://picsum.photos/300"
         },
-        "main_image": "https://api.api-ninjas.com/v1/randomimage",
+        "main_image": "https://picsum.photos/300/200",
         "location": "jakarta"
-      },
-      {
+    },
+    {
         "id": "41",
         "name": "Tech Summit: Future Technologies",
         "price": 300000,
         "start_date": "2024-11-10T00:00:00.000Z",
         "category": "technology",
         "organizer": {
-          "code": "USR-016",
-          "name": "susi anggraini",
-          "image": "https://api.api-ninjas.com/v1/randomimage"
+            "id": "1",
+            "name": "susi anggraini",
+            "image": "https://picsum.photos/300"
         },
-        "main_image": "https://api.api-ninjas.com/v1/randomimage",
+        "main_image": "https://picsum.photos/300/200",
         "location": "bali"
-      },
-      {
+    },
+    {
         "id": "42",
         "name": "Culinary Competition: MasterChef Challenge",
         "price": 90000,
         "start_date": "2024-11-15T00:00:00.000Z",
         "category": "cooking",
         "organizer": {
-          "code": "USR-011",
-          "name": "susi anggraini",
-          "image": "https://api.api-ninjas.com/v1/randomimage"
+            "id": "1",
+            "name": "susi anggraini",
+            "image": "https://picsum.photos/300"
         },
-        "main_image": "https://api.api-ninjas.com/v1/randomimage",
+        "main_image": "https://picsum.photos/300/200",
         "location": "online"
-      },
-      {
+    },
+    {
         "id": "43",
         "name": "Music Concert: Classical Night",
         "price": 150000,
         "start_date": "2024-11-20T00:00:00.000Z",
         "category": "music",
         "organizer": {
-          "code": "USR-012",
-          "name": "antonio santoso",
-          "image": "https://api.api-ninjas.com/v1/randomimage"
+            "id": "12",
+            "name": "antonio santoso",
+            "image": "https://picsum.photos/300"
         },
-        "main_image": "https://api.api-ninjas.com/v1/randomimage",
+        "main_image": "https://picsum.photos/300/200",
         "location": "bandung"
-      },
-      {
+    },
+    {
         "id": "44",
         "name": "Art Workshop: Sculpting Techniques",
         "price": 80000,
         "start_date": "2024-11-25T00:00:00.000Z",
         "category": "art",
         "organizer": {
-          "code": "USR-013",
-          "name": "michael santoso",
-          "image": "https://api.api-ninjas.com/v1/randomimage"
+            "id": "13",
+            "name": "michael santoso",
+            "image": "https://picsum.photos/300"
         },
-        "main_image": "https://api.api-ninjas.com/v1/randomimage",
+        "main_image": "https://picsum.photos/300/200",
         "location": "bali"
-      },
-      {
+    },
+    {
         "id": "45",
         "name": "Business Seminar: Strategic Leadership",
         "price": 250000,
         "start_date": "2024-11-30T00:00:00.000Z",
         "category": "business",
         "organizer": {
-          "code": "USR-006",
-          "name": "andre wijaya",
-          "image": "https://api.api-ninjas.com/v1/randomimage"
+            "id": "6",
+            "name": "andre wijaya",
+            "image": "https://picsum.photos/300"
         },
-        "main_image": "https://api.api-ninjas.com/v1/randomimage",
+        "main_image": "https://picsum.photos/300/200",
         "location": "jakarta"
-      },
-      {
+    },
+    {
         "id": "46",
         "name": "Film Workshop: Directing Masterclass",
         "price": 120000,
         "start_date": "2024-12-05T00:00:00.000Z",
         "category": "film",
         "organizer": {
-          "code": "USR-007",
-          "name": "michael santoso",
-          "image": "https://api.api-ninjas.com/v1/randomimage"
+            "id": "7",
+            "name": "michael santoso",
+            "image": "https://picsum.photos/300"
         },
-        "main_image": "https://api.api-ninjas.com/v1/randomimage",
+        "main_image": "https://picsum.photos/300/200",
         "location": "bandung"
-      },
-      {
+    },
+    {
         "id": "47",
         "name": "Fashion Show: Summer Collection",
         "price": 180000,
         "start_date": "2024-12-10T00:00:00.000Z",
         "category": "fashion",
         "organizer": {
-          "code": "USR-015",
-          "name": "lisa wijaya",
-          "image": "https://api.api-ninjas.com/v1/randomimage"
+            "id": "15",
+            "name": "lisa wijaya",
+            "image": "https://picsum.photos/300"
         },
-        "main_image": "https://api.api-ninjas.com/v1/randomimage",
+        "main_image": "https://picsum.photos/300/200",
         "location": "online"
-      },
-      {
+    },
+    {
         "id": "48",
         "name": "Literature Seminar: Modern Poetry",
         "price": 150000,
         "start_date": "2024-12-15T00:00:00.000Z",
         "category": "literature",
         "organizer": {
-          "code": "USR-009",
-          "name": "antonio santoso",
-          "image": "https://api.api-ninjas.com/v1/randomimage"
+            "id": "9",
+            "name": "antonio santoso",
+            "image": "https://picsum.photos/300"
         },
-        "main_image": "https://api.api-ninjas.com/v1/randomimage",
+        "main_image": "https://picsum.photos/300/200",
         "location": "jakarta"
-      },
-      {
+    },
+    {
         "id": "49",
         "name": "Fitness Workshop: Yoga and Meditation",
         "price": 150000,
         "start_date": "2024-12-20T00:00:00.000Z",
         "category": "fitness",
         "organizer": {
-          "code": "USR-018",
-          "name": "susi anggraini",
-          "image": "https://api.api-ninjas.com/v1/randomimage"
+            "id": "1",
+            "name": "susi anggraini",
+            "image": "https://picsum.photos/300"
         },
-        "main_image": "https://api.api-ninjas.com/v1/randomimage",
+        "main_image": "https://picsum.photos/300/200",
         "location": "jakarta"
-      },
-      {
+    },
+    {
         "id": "50",
         "name": "Tech Conference: AI and Robotics",
         "price": 300000,
         "start_date": "2025-01-02T00:00:00.000Z",
         "category": "technology",
         "organizer": {
-          "code": "USR-016",
-          "name": "susi anggraini",
-          "image": "https://api.api-ninjas.com/v1/randomimage"
+            "id": "1",
+            "name": "susi anggraini",
+            "image": "https://picsum.photos/300"
         },
-        "main_image": "https://api.api-ninjas.com/v1/randomimage",
+        "main_image": "https://picsum.photos/300/200",
         "location": "bali"
       }
-    ],
+  ],
   "event-detail": [
       {
         "id": "1",
