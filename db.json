@@ -1,8 +1,8 @@
 {
   "promos": [
     {
-        "promo_name": "Early Bird Discount",
-        "promo_type": "Percentage",
+        "name": "Early Bird Discount",
+        "type": "Percentage",
         "amount": 15,
         "event_name": "FPS Fundamental",
         "event_id": 1,
@@ -12,8 +12,8 @@
         "user_id": 1
     },
     {
-        "promo_name": "VR Enthusiast Special",
-        "promo_type": "Fixed Amount",
+        "name": "VR Enthusiast Special",
+        "type": "Fixed Amount",
         "amount": 20,
         "event_name": "Virtual Reality Workshop: Immersive Experiences",
         "event_id": 5,
@@ -23,8 +23,8 @@
         "user_id": 1
     },
     {
-        "promo_name": "Startup Super Saver",
-        "promo_type": "Percentage",
+        "name": "Startup Super Saver",
+        "type": "Percentage",
         "amount": 10,
         "event_name": "Tech Startup Summit: Entrepreneurship in Action",
         "event_id": 9,
@@ -34,8 +34,8 @@
         "user_id": 1
     },
     {
-        "promo_name": "FPS Group Discount",
-        "promo_type": "Fixed Amount",
+        "name": "FPS Group Discount",
+        "type": "Fixed Amount",
         "amount": 50,
         "event_name": "FPS Fundamental",
         "event_id": 1,
@@ -45,8 +45,8 @@
         "user_id": 1
     },
     {
-        "promo_name": "VR Early Access",
-        "promo_type": "Percentage",
+        "name": "VR Early Access",
+        "type": "Percentage",
         "amount": 25,
         "event_name": "Virtual Reality Workshop: Immersive Experiences",
         "event_id": 5,
@@ -56,8 +56,8 @@
         "user_id": 1
     },
     {
-        "promo_name": "Summit VIP Discount",
-        "promo_type": "Fixed Amount",
+        "name": "Summit VIP Discount",
+        "type": "Fixed Amount",
         "amount": 100,
         "event_name": "Tech Startup Summit: Entrepreneurship in Action",
         "event_id": 9,
@@ -67,8 +67,8 @@
         "user_id": 1
     },
     {
-        "promo_name": "FPS Student Discount",
-        "promo_type": "Percentage",
+        "name": "FPS Student Discount",
+        "type": "Percentage",
         "amount": 20,
         "event_name": "FPS Fundamental",
         "event_id": 1,
@@ -78,8 +78,8 @@
         "user_id": 1
     },
     {
-        "promo_name": "VR Flash Sale",
-        "promo_type": "Fixed Amount",
+        "name": "VR Flash Sale",
+        "type": "Fixed Amount",
         "amount": 30,
         "event_name": "Virtual Reality Workshop: Immersive Experiences",
         "event_id": 5,
@@ -89,8 +89,8 @@
         "user_id": 1
     },
     {
-        "promo_name": "Summit Startup Pack",
-        "promo_type": "Percentage",
+        "name": "Summit Startup Pack",
+        "type": "Percentage",
         "amount": 15,
         "event_name": "Tech Startup Summit: Entrepreneurship in Action",
         "event_id": 9,
@@ -100,8 +100,8 @@
         "user_id": 1
     },
     {
-        "promo_name": "FPS Night Owl",
-        "promo_type": "Fixed Amount",
+        "name": "FPS Night Owl",
+        "type": "Fixed Amount",
         "amount": 25,
         "event_name": "FPS Fundamental",
         "event_id": 1,
@@ -111,8 +111,8 @@
         "user_id": 1
     },
     {
-        "promo_name": "VR Workshop Week",
-        "promo_type": "Percentage",
+        "name": "VR Workshop Week",
+        "type": "Percentage",
         "amount": 10,
         "event_name": "Virtual Reality Workshop: Immersive Experiences",
         "event_id": 5,
@@ -122,8 +122,8 @@
         "user_id": 1
     },
     {
-        "promo_name": "Summit Innovation Discount",
-        "promo_type": "Fixed Amount",
+        "name": "Summit Innovation Discount",
+        "type": "Fixed Amount",
         "amount": 50,
         "event_name": "Tech Startup Summit: Entrepreneurship in Action",
         "event_id": 9,
@@ -133,8 +133,8 @@
         "user_id": 1
     },
     {
-        "promo_name": "FPS Early Access",
-        "promo_type": "Percentage",
+        "name": "FPS Early Access",
+        "type": "Percentage",
         "amount": 30,
         "event_name": "FPS Fundamental",
         "event_id": 1,
