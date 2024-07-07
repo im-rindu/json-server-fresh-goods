@@ -1,5 +1,5 @@
 {
-  "promos": [
+  "promotions": [
     {
         "name": "Early Bird Discount",
         "type": "Percentage",
@@ -144,7 +144,7 @@
         "user_id": 1
     }
 ],
-  "get-events": [
+  "events": [
     {
         "id": "1",
         "name": "FPS Fundamental",
