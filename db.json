@@ -2069,20 +2069,6 @@
       "image": "https://picsum.photos/seed/picsum/200"
     },
     {
-      "id": 10,
-      "code": "CAT-010",
-      "name": "Business",
-      "parent": null,
-      "image": "https://picsum.photos/seed/picsum/200"
-    },
-    {
-      "id": 11,
-      "code": "CAT-011",
-      "name": "Cooking",
-      "parent": null,
-      "image": "https://picsum.photos/seed/picsum/200"
-    },
-    {
       "id": 12,
       "code": "CAT-012",
       "name": "Dance",
@@ -2093,20 +2079,6 @@
       "id": 13,
       "code": "CAT-013",
       "name": "Fashion",
-      "parent": null,
-      "image": "https://picsum.photos/seed/picsum/200"
-    },
-    {
-      "id": 14,
-      "code": "CAT-014",
-      "name": "Literature",
-      "parent": null,
-      "image": "https://picsum.photos/seed/picsum/200"
-    },
-    {
-      "id": 15,
-      "code": "CAT-015",
-      "name": "Fitness",
       "parent": null,
       "image": "https://picsum.photos/seed/picsum/200"
     },
