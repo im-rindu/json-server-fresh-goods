@@ -1,4 +1,126 @@
 {
+  "history_points": [
+    {
+        "description": "Referee User",
+        "point": 10000,
+        "date": "2024-07-01T10:00:00Z",
+        "user_id": 1
+    },
+    {
+        "description": "Cashback",
+        "point": 15000,
+        "date": "2024-07-02T11:00:00Z",
+        "user_id": 1
+    },
+    {
+        "description": "Spend",
+        "point": -18000,
+        "date": "2024-07-03T12:00:00Z",
+        "user_id": 1
+    },
+    {
+        "description": "Referee User",
+        "point": 10000,
+        "date": "2024-07-04T13:00:00Z",
+        "user_id": 1
+    },
+    {
+        "description": "Cashback",
+        "point": 5000,
+        "date": "2024-07-05T14:00:00Z",
+        "user_id": 2
+    },
+    {
+        "description": "Spend",
+        "point": -23000,
+        "date": "2024-07-06T15:00:00Z",
+        "user_id": 1
+    },
+    {
+        "description": "Cashback",
+        "point": 12000,
+        "date": "2024-07-07T16:00:00Z",
+        "user_id": 1
+    },
+    {
+        "description": "Referee User",
+        "point": 10000,
+        "date": "2024-07-08T17:00:00Z",
+        "user_id": 2
+    },
+    {
+        "description": "Spend",
+        "point": -15000,
+        "date": "2024-07-09T18:00:00Z",
+        "user_id": 1
+    },
+    {
+        "description": "Cashback",
+        "point": 17000,
+        "date": "2024-07-10T19:00:00Z",
+        "user_id": 1
+    },
+    {
+        "description": "Referee User",
+        "point": 10000,
+        "date": "2024-07-11T20:00:00Z",
+        "user_id": 1
+    },
+    {
+        "description": "Spend",
+        "point": -1000,
+        "date": "2024-07-12T21:00:00Z",
+        "user_id": 2
+    },
+    {
+        "description": "Cashback",
+        "point": 20000,
+        "date": "2024-07-13T22:00:00Z",
+        "user_id": 1
+    },
+    {
+        "description": "Referee User",
+        "point": 10000,
+        "date": "2024-07-14T23:00:00Z",
+        "user_id": 1
+    },
+    {
+        "description": "Spend",
+        "point": -25000,
+        "date": "2024-07-15T10:00:00Z",
+        "user_id": 1
+    },
+    {
+        "description": "Cashback",
+        "point": 3000,
+        "date": "2024-07-16T11:00:00Z",
+        "user_id": 2
+    },
+    {
+        "description": "Referee User",
+        "point": 10000,
+        "date": "2024-07-17T12:00:00Z",
+        "user_id": 1
+    },
+    {
+        "description": "Spend",
+        "point": -12000,
+        "date": "2024-07-18T13:00:00Z",
+        "user_id": 1
+    },
+    {
+        "description": "Cashback",
+        "point": 14000,
+        "date": "2024-07-19T14:00:00Z",
+        "user_id": 1
+    },
+    {
+        "description": "Spend",
+        "point": -17000,
+        "date": "2024-07-20T15:00:00Z",
+        "user_id": 2
+    }
+],
   "users": [
     {
         "id": 1,
