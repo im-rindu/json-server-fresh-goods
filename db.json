@@ -465,7 +465,7 @@
         "user_id": 1
     }
 ],
-  "events": [
+  "events-old": [
     {
         "id": "1",
         "name": "FPS Fundamental",
@@ -1167,7 +1167,7 @@
         "location": "bali"
       }
   ],
-  "event-detail": [
+  "events": [
       {
         "id": "1",
         "name": "FPS Fundamental",
