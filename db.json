@@ -465,1872 +465,1454 @@
         "user_id": 1
     }
 ],
-  "events-old": [
-    {
-        "id": "1",
-        "name": "FPS Fundamental",
-        "price": 30000,
-        "start_date": "2024-06-25T00:00:00.000Z",
-        "category": "gaming",
-        "organizer": {
-            "id": "1",
-            "name": "budi setiawan",
-            "image": "https://picsum.photos/300"
-        },
-        "main_image": "https://picsum.photos/300/200",
-        "location": "batam"
-    },
-    {
-        "id": "1",
-        "name": "Art Exhibition: Modern Art Showcase",
-        "price": 50000,
-        "start_date": "2024-07-03T00:00:00.000Z",
-        "category": "art",
-        "organizer": {
-            "id": "2",
-            "name": "susi anggraini",
-            "image": "https://picsum.photos/300"
-        },
-        "main_image": "https://picsum.photos/300/200",
-        "location": "jakarta"
-    },
-    {
-        "id": "3",
-        "name": "Music Festival: Summer Vibes",
-        "price": 150000,
-        "start_date": "2024-07-10T00:00:00.000Z",
-        "category": "music",
-        "organizer": {
-            "id": "3",
-            "name": "david wijaya",
-            "image": "https://picsum.photos/300"
-        },
-        "main_image": "https://picsum.photos/300/200",
-        "location": "bali"
-    },
-    {
-        "id": "2",
-        "name": "Cooking Workshop: Italian Cuisine Masterclass",
-        "price": 80000,
-        "start_date": "2024-07-15T00:00:00.000Z",
-        "category": "cooking",
-        "organizer": {
-            "id": "2",
-            "name": "antonio santoso",
-            "image": "https://picsum.photos/300"
-        },
-        "main_image": "https://picsum.photos/300/200",
-        "location": "bandung"
-    },
-    {
-        "id": "5",
-        "name": "Virtual Reality Workshop: Immersive Experiences",
-        "price": 120000,
-        "start_date": "2024-07-20T00:00:00.000Z",
-        "category": "technology",
-        "organizer": {
-            "id": "1",
-            "name": "budi setiawan",
-            "image": "https://picsum.photos/300"
-        },
-        "main_image": "https://picsum.photos/300/200",
-        "location": "online"
-    },
-    {
-        "id": "6",
-        "name": "Fashion Show: Spring Collection",
-        "price": 200000,
-        "start_date": "2024-07-25T00:00:00.000Z",
-        "category": "fashion",
-        "organizer": {
-            "id": "5",
-            "name": "lisa wijaya",
-            "image": "https://picsum.photos/300"
-        },
-        "main_image": "https://picsum.photos/300/200",
-        "location": "bali"
-    },
-    {
-        "id": "7",
-        "name": "Business Conference: Innovation in Business Strategies",
-        "price": 300000,
-        "start_date": "2024-07-30T00:00:00.000Z",
-        "category": "business",
-        "organizer": {
-            "id": "6",
-            "name": "andre wijaya",
-            "image": "https://picsum.photos/300"
-        },
-        "main_image": "https://picsum.photos/300/200",
-        "location": "bandung"
-    },
-    {
-        "id": "8",
-        "name": "Film Festival: International Cinema Celebration",
-        "price": 100000,
-        "start_date": "2024-08-05T00:00:00.000Z",
-        "category": "film",
-        "organizer": {
-            "id": "7",
-            "name": "michael santoso",
-            "image": "https://picsum.photos/300"
-        },
-        "main_image": "https://picsum.photos/300/200",
-        "location": "jakarta"
-    },
-    {
-        "id": "9",
-        "name": "Tech Startup Summit: Entrepreneurship in Action",
-        "price": 280000,
-        "start_date": "2024-08-10T00:00:00.000Z",
-        "category": "technology",
-        "organizer": {
-            "id": "1",
-            "name": "budi setiawan",
-            "image": "https://picsum.photos/300"
-        },
-        "main_image": "https://picsum.photos/300/200",
-        "location": "bandung"
-    },
-    {
-        "id": "10",
-        "name": "Art Workshop: Abstract Painting Techniques",
-        "price": 80000,
-        "start_date": "2024-08-15T00:00:00.000Z",
-        "category": "art",
-        "organizer": {
-            "id": "8",
-            "name": "lisa wijaya",
-            "image": "https://picsum.photos/300"
-        },
-        "main_image": "https://picsum.photos/300/200",
-        "location": "jakarta"
-    },
-    {
-        "id": "11",
-        "name": "Literature Seminar: Classic Novels Revisited",
-        "price": 180000,
-        "start_date": "2024-08-20T00:00:00.000Z",
-        "category": "literature",
-        "organizer": {
-            "id": "9",
-            "name": "antonio santoso",
-            "image": "https://picsum.photos/300"
-        },
-        "main_image": "https://picsum.photos/300/200",
-        "location": "bandung"
-    },
-    {
-        "id": "12",
-        "name": "Technology Summit: Future Innovations",
-        "price": 300000,
-        "start_date": "2024-06-28T00:00:00.000Z",
-        "category": "technology",
-        "organizer": {
-            "id": "10",
-            "name": "david wijaya",
-            "image": "https://picsum.photos/300"
-        },
-        "main_image": "https://picsum.photos/300/200",
-        "location": "jakarta"
-    },
-    {
-        "id": "13",
-        "name": "Virtual Reality Workshop: Immersive Experiences",
-        "price": 120000,
-        "start_date": "2024-07-02T00:00:00.000Z",
-        "category": "technology",
-        "organizer": {
-            "id": "1",
-            "name": "budi setiawan",
-            "image": "https://picsum.photos/300"
-        },
-        "main_image": "https://picsum.photos/300/200",
-        "location": "jakarta"
-    },
-    {
-        "id": "14",
-        "name": "Culinary Competition: MasterChef Challenge",
-        "price": 90000,
-        "start_date": "2024-07-05T00:00:00.000Z",
-        "category": "cooking",
-        "organizer": {
-            "id": "1",
-            "name": "susi anggraini",
-            "image": "https://picsum.photos/300"
-        },
-        "main_image": "https://picsum.photos/300/200",
-        "location": "bali"
-    },
-    {
-        "id": "15",
-        "name": "Music Concert: Jazz Night",
-        "price": 150000,
-        "start_date": "2024-07-08T00:00:00.000Z",
-        "category": "music",
-        "organizer": {
-            "id": "12",
-            "name": "antonio santoso",
-            "image": "https://picsum.photos/300"
-        },
-        "main_image": "https://picsum.photos/300/200",
-        "location": "bandung"
-    },
-    {
-        "id": "16",
-        "name": "Art Workshop: Watercolor Techniques",
-        "price": 80000,
-        "start_date": "2024-07-12T00:00:00.000Z",
-        "category": "art",
-        "organizer": {
-            "id": "13",
-            "name": "michael santoso",
-            "image": "https://picsum.photos/300"
-        },
-        "main_image": "https://picsum.photos/300/200",
-        "location": "jakarta"
-    },
-    {
-        "id": "17",
-        "name": "Tech Talk: AI and Machine Learning Applications",
-        "price": 200000,
-        "start_date": "2024-07-18T00:00:00.000Z",
-        "category": "technology",
-        "organizer": {
-            "id": "14",
-            "name": "david wijaya",
-            "image": "https://picsum.photos/300"
-        },
-        "main_image": "https://picsum.photos/300/200",
-        "location": "bali"
-    },
-    {
-        "id": "18",
-        "name": "Fashion Show: Summer Collection",
-        "price": 180000,
-        "start_date": "2024-07-22T00:00:00.000Z",
-        "category": "fashion",
-        "organizer": {
-            "id": "15",
-            "name": "lisa wijaya",
-            "image": "https://picsum.photos/300"
-        },
-        "main_image": "https://picsum.photos/300/200",
-        "location": "online"
-    },
-    {
-        "id": "19",
-        "name": "Business Seminar: Entrepreneurship Insights",
-        "price": 250000,
-        "start_date": "2024-07-27T00:00:00.000Z",
-        "category": "business",
-        "organizer": {
-            "id": "6",
-            "name": "andre wijaya",
-            "image": "https://picsum.photos/300"
-        },
-        "main_image": "https://picsum.photos/300/200",
-        "location": "bandung"
-    },
-    {
-        "id": "20",
-        "name": "Film Workshop: Screenwriting Masterclass",
-        "price": 120000,
-        "start_date": "2024-07-30T00:00:00.000Z",
-        "category": "film",
-        "organizer": {
-            "id": "7",
-            "name": "michael santoso",
-            "image": "https://picsum.photos/300"
-        },
-        "main_image": "https://picsum.photos/300/200",
-        "location": "jakarta"
-    },
-    {
-        "id": "21",
-        "name": "Technology Conference: Digital Transformation",
-        "price": 300000,
-        "start_date": "2024-08-02T00:00:00.000Z",
-        "category": "technology",
-        "organizer": {
-            "id": "1",
-            "name": "susi anggraini",
-            "image": "https://picsum.photos/300"
-        },
-        "main_image": "https://picsum.photos/300/200",
-        "location": "online"
-    },
-    {
-        "id": "22",
-        "name": "Cooking Workshop: Asian Cuisine Masterclass",
-        "price": 150000,
-        "start_date": "2024-08-07T00:00:00.000Z",
-        "category": "cooking",
-        "organizer": {
-            "id": "2",
-            "name": "antonio santoso",
-            "image": "https://picsum.photos/300"
-        },
-        "main_image": "https://picsum.photos/300/200",
-        "location": "bali"
-    },
-    {
-        "id": "23",
-        "name": "Music Workshop: Electronic Music Production",
-        "price": 80000,
-        "start_date": "2024-08-12T00:00:00.000Z",
-        "category": "music",
-        "organizer": {
-            "id": "3",
-            "name": "david wijaya",
-            "image": "https://picsum.photos/300"
-        },
-        "main_image": "https://picsum.photos/300/200",
-        "location": "bandung"
-    },
-    {
-        "id": "24",
-        "name": "Cooking Workshop: Asian Cuisine Masterclass",
-        "price": 150000,
-        "start_date": "2024-08-17T00:00:00.000Z",
-        "category": "cooking",
-        "organizer": {
-            "id": "2",
-            "name": "antonio santoso",
-            "image": "https://picsum.photos/300"
-        },
-        "main_image": "https://picsum.photos/300/200",
-        "location": "jakarta"
-    },
-    {
-        "id": "25",
-        "name": "Music Workshop: Electronic Music Production",
-        "price": 80000,
-        "start_date": "2024-08-22T00:00:00.000Z",
-        "category": "music",
-        "organizer": {
-            "id": "3",
-            "name": "david wijaya",
-            "image": "https://picsum.photos/300"
-        },
-        "main_image": "https://picsum.photos/300/200",
-        "location": "batam"
-    },
-    {
-        "id": "26",
-        "name": "Digital Marketing Conference: Trends and Strategies",
-        "price": 250000,
-        "start_date": "2024-08-27T00:00:00.000Z",
-        "category": "marketing",
-        "organizer": {
-            "id": "17",
-            "name": "michael santoso",
-            "image": "https://picsum.photos/300"
-        },
-        "main_image": "https://picsum.photos/300/200",
-        "location": "jakarta"
-    },
-    {
-        "id": "27",
-        "name": "Film Workshop: Screenwriting Masterclass",
-        "price": 120000,
-        "start_date": "2024-09-01T00:00:00.000Z",
-        "category": "film",
-        "organizer": {
-            "id": "7",
-            "name": "michael santoso",
-            "image": "https://picsum.photos/300"
-        },
-        "main_image": "https://picsum.photos/300/200",
-        "location": "online"
-    },
-    {
-        "id": "28",
-        "name": "Fashion Show: Winter Collection",
-        "price": 200000,
-        "start_date": "2024-09-05T00:00:00.000Z",
-        "category": "fashion",
-        "organizer": {
-            "id": "5",
-            "name": "lisa wijaya",
-            "image": "https://picsum.photos/300"
-        },
-        "main_image": "https://picsum.photos/300/200",
-        "location": "bandung"
-    },
-    {
-        "id": "29",
-        "name": "Literature Seminar: Classic Novels Revisited",
-        "price": 180000,
-        "start_date": "2024-09-10T00:00:00.000Z",
-        "category": "literature",
-        "organizer": {
-            "id": "9",
-            "name": "antonio santoso",
-            "image": "https://picsum.photos/300"
-        },
-        "main_image": "https://picsum.photos/300/200",
-        "location": "jakarta"
-    },
-    {
-        "id": "30",
-        "name": "Fitness Workshop: Yoga and Meditation",
-        "price": 150000,
-        "start_date": "2024-09-15T00:00:00.000Z",
-        "category": "fitness",
-        "organizer": {
-            "id": "1",
-            "name": "susi anggraini",
-            "image": "https://picsum.photos/300"
-        },
-        "main_image": "https://picsum.photos/300/200",
-        "location": "jakarta"
-    },
-    {
-        "id": "31",
-        "name": "Tech Summit: Innovations in Artificial Intelligence",
-        "price": 300000,
-        "start_date": "2024-09-20T00:00:00.000Z",
-        "category": "technology",
-        "organizer": {
-            "id": "1",
-            "name": "susi anggraini",
-            "image": "https://picsum.photos/300"
-        },
-        "main_image": "https://picsum.photos/300/200",
-        "location": "bali"
-    },
-    {
-        "id": "32",
-        "name": "Culinary Competition: Chef's Challenge",
-        "price": 90000,
-        "start_date": "2024-09-25T00:00:00.000Z",
-        "category": "cooking",
-        "organizer": {
-            "id": "1",
-            "name": "susi anggraini",
-            "image": "https://picsum.photos/300"
-        },
-        "main_image": "https://picsum.photos/300/200",
-        "location": "bandung"
-    },
-    {
-        "id": "33",
-        "name": "Music Festival: Rock Night",
-        "price": 150000,
-        "start_date": "2024-09-30T00:00:00.000Z",
-        "category": "music",
-        "organizer": {
-            "id": "12",
-            "name": "antonio santoso",
-            "image": "https://picsum.photos/300"
-        },
-        "main_image": "https://picsum.photos/300/200",
-        "location": "jakarta"
-    },
-    {
-        "id": "34",
-        "name": "Art Exhibition: Contemporary Art Showcase",
-        "price": 50000,
-        "start_date": "2024-10-05T00:00:00.000Z",
-        "category": "art",
-        "organizer": {
-            "id": "2",
-            "name": "susi anggraini",
-            "image": "https://picsum.photos/300"
-        },
-        "main_image": "https://picsum.photos/300/200",
-        "location": "bali"
-    },
-    {
-        "id": "35",
-        "name": "Business Conference: Global Business Strategies",
-        "price": 300000,
-        "start_date": "2024-10-10T00:00:00.000Z",
-        "category": "business",
-        "organizer": {
-            "id": "6",
-            "name": "andre wijaya",
-            "image": "https://picsum.photos/300"
-        },
-        "main_image": "https://picsum.photos/300/200",
-        "location": "bandung"
-    },
-    {
-        "id": "36",
-        "name": "Film Festival: International Cinema Celebration",
-        "price": 100000,
-        "start_date": "2024-10-15T00:00:00.000Z",
-        "category": "film",
-        "organizer": {
-            "id": "7",
-            "name": "michael santoso",
-            "image": "https://picsum.photos/300"
-        },
-        "main_image": "https://picsum.photos/300/200",
-        "location": "jakarta"
-    },
-    {
-        "id": "37",
-        "name": "Tech Startup Summit: Innovations in Technology",
-        "price": 280000,
-        "start_date": "2024-10-20T00:00:00.000Z",
-        "category": "technology",
-        "organizer": {
-            "id": "1",
-            "name": "susi anggraini",
-            "image": "https://picsum.photos/300"
-        },
-        "main_image": "https://picsum.photos/300/200",
-        "location": "bali"
-    },
-    {
-        "id": "38",
-        "name": "Fashion Show: Spring Collection",
-        "price": 180000,
-        "start_date": "2024-10-25T00:00:00.000Z",
-        "category": "fashion",
-        "organizer": {
-            "id": "15",
-            "name": "lisa wijaya",
-            "image": "https://picsum.photos/300"
-        },
-        "main_image": "https://picsum.photos/300/200",
-        "location": "online"
-    },
-    {
-        "id": "39",
-        "name": "Literature Seminar: Contemporary Writers' Insights",
-        "price": 180000,
-        "start_date": "2024-10-30T00:00:00.000Z",
-        "category": "literature",
-        "organizer": {
-            "id": "9",
-            "name": "antonio santoso",
-            "image": "https://picsum.photos/300"
-        },
-        "main_image": "https://picsum.photos/300/200",
-        "location": "bandung"
-    },
-    {
-        "id": "40",
-        "name": "Fitness Workshop: Healthy Living",
-        "price": 150000,
-        "start_date": "2024-11-05T00:00:00.000Z",
-        "category": "fitness",
-        "organizer": {
-            "id": "1",
-            "name": "susi anggraini",
-            "image": "https://picsum.photos/300"
-        },
-        "main_image": "https://picsum.photos/300/200",
-        "location": "jakarta"
-    },
-    {
-        "id": "41",
-        "name": "Tech Summit: Future Technologies",
-        "price": 300000,
-        "start_date": "2024-11-10T00:00:00.000Z",
-        "category": "technology",
-        "organizer": {
-            "id": "1",
-            "name": "susi anggraini",
-            "image": "https://picsum.photos/300"
-        },
-        "main_image": "https://picsum.photos/300/200",
-        "location": "bali"
-    },
-    {
-        "id": "42",
-        "name": "Culinary Competition: MasterChef Challenge",
-        "price": 90000,
-        "start_date": "2024-11-15T00:00:00.000Z",
-        "category": "cooking",
-        "organizer": {
-            "id": "1",
-            "name": "susi anggraini",
-            "image": "https://picsum.photos/300"
-        },
-        "main_image": "https://picsum.photos/300/200",
-        "location": "online"
-    },
-    {
-        "id": "43",
-        "name": "Music Concert: Classical Night",
-        "price": 150000,
-        "start_date": "2024-11-20T00:00:00.000Z",
-        "category": "music",
-        "organizer": {
-            "id": "12",
-            "name": "antonio santoso",
-            "image": "https://picsum.photos/300"
-        },
-        "main_image": "https://picsum.photos/300/200",
-        "location": "bandung"
-    },
-    {
-        "id": "44",
-        "name": "Art Workshop: Sculpting Techniques",
-        "price": 80000,
-        "start_date": "2024-11-25T00:00:00.000Z",
-        "category": "art",
-        "organizer": {
-            "id": "13",
-            "name": "michael santoso",
-            "image": "https://picsum.photos/300"
-        },
-        "main_image": "https://picsum.photos/300/200",
-        "location": "bali"
-    },
-    {
-        "id": "45",
-        "name": "Business Seminar: Strategic Leadership",
-        "price": 250000,
-        "start_date": "2024-11-30T00:00:00.000Z",
-        "category": "business",
-        "organizer": {
-            "id": "6",
-            "name": "andre wijaya",
-            "image": "https://picsum.photos/300"
-        },
-        "main_image": "https://picsum.photos/300/200",
-        "location": "jakarta"
-    },
-    {
-        "id": "46",
-        "name": "Film Workshop: Directing Masterclass",
-        "price": 120000,
-        "start_date": "2024-12-05T00:00:00.000Z",
-        "category": "film",
-        "organizer": {
-            "id": "7",
-            "name": "michael santoso",
-            "image": "https://picsum.photos/300"
-        },
-        "main_image": "https://picsum.photos/300/200",
-        "location": "bandung"
-    },
-    {
-        "id": "47",
-        "name": "Fashion Show: Summer Collection",
-        "price": 180000,
-        "start_date": "2024-12-10T00:00:00.000Z",
-        "category": "fashion",
-        "organizer": {
-            "id": "15",
-            "name": "lisa wijaya",
-            "image": "https://picsum.photos/300"
-        },
-        "main_image": "https://picsum.photos/300/200",
-        "location": "online"
-    },
-    {
-        "id": "48",
-        "name": "Literature Seminar: Modern Poetry",
-        "price": 150000,
-        "start_date": "2024-12-15T00:00:00.000Z",
-        "category": "literature",
-        "organizer": {
-            "id": "9",
-            "name": "antonio santoso",
-            "image": "https://picsum.photos/300"
-        },
-        "main_image": "https://picsum.photos/300/200",
-        "location": "jakarta"
-    },
-    {
-        "id": "49",
-        "name": "Fitness Workshop: Yoga and Meditation",
-        "price": 150000,
-        "start_date": "2024-12-20T00:00:00.000Z",
-        "category": "fitness",
-        "organizer": {
-            "id": "1",
-            "name": "susi anggraini",
-            "image": "https://picsum.photos/300"
-        },
-        "main_image": "https://picsum.photos/300/200",
-        "location": "jakarta"
-    },
-    {
-        "id": "50",
-        "name": "Tech Conference: AI and Robotics",
-        "price": 300000,
-        "start_date": "2025-01-02T00:00:00.000Z",
-        "category": "technology",
-        "organizer": {
-            "id": "1",
-            "name": "susi anggraini",
-            "image": "https://picsum.photos/300"
-        },
-        "main_image": "https://picsum.photos/300/200",
-        "location": "bali"
-      }
-  ],
+  
   "events": [
-      {
+    {
         "id": "1",
         "name": "FPS Fundamental",
-        "detail": "Join us for a deep dive into the fundamentals of FPS gaming.",
+        "detail": "Join us for a deep dive into the fundamentals of FPS gaming. This event will cover everything from the basics of first-person shooter mechanics to advanced strategies for competitive play. Whether you're a beginner looking to improve your skills or an experienced player aiming to take your game to the next level, this workshop is for you. Our expert instructors will guide you through a series of interactive sessions, providing hands-on experience with the latest FPS games and technologies. You'll also have the opportunity to network with other gaming enthusiasts and compete in friendly tournaments. Don't miss out on this chance to enhance your FPS gaming abilities and connect with like-minded individuals.",
         "location": "Jakarta",
-        "seats": 100,
-        "price": 30000,
-        "start_date": "2022-08-01T00:00:00.000Z",
-        "end_date": "2022-08-02T00:00:00.000Z",
+        "ticket_type": [
+            {
+                "id": 1,
+                "name": "Standard",
+                "price": 30000,
+                "seats": 50
+            },
+            {
+                "id": 2,
+                "name": "VIP",
+                "price": 50000,
+                "seats": 50
+            }
+        ],
+        "start_date": "2024-07-21T00:00:00.000Z",
+        "end_date": "2024-07-22T00:00:00.000Z",
         "organizer": {
-          "code": "USR-001",
-          "name": "budi setiawan",
-          "image": "https://api.api-ninjas.com/v1/randomimage"
+            "id": "1",
+            "name": "Emilys Johnson",
+            "image": "https://picsum.photos/1200/800"
         },
-        "category": "gaming",
-        "images": [
-          "https://api.api-ninjas.com/v1/randomimage",
-          "https://api.api-ninjas.com/v1/randomimage",
-          "https://api.api-ninjas.com/v1/randomimage"
-        ]
-      },
-      {
+        "category": "Gaming",
+        "main_image": "https://picsum.photos/1200/800"
+    },
+    {
         "id": "2",
-        "name": "Tech Talk: Latest in AI",
-        "detail": "Discover the latest advancements in Artificial Intelligence.",
+        "name": "Virtual Reality Workshop: Immersive Experiences",
+        "detail": "Experience the latest in VR technology at our immersive workshop. This event will feature hands-on demonstrations and interactive sessions with cutting-edge virtual reality equipment. You'll have the opportunity to explore a variety of VR applications, from gaming and entertainment to education and training. Our expert instructors will provide guidance on how to create and implement VR experiences, with a focus on both the technical and creative aspects. Whether you're a developer, designer, or simply a VR enthusiast, this workshop will offer valuable insights and practical skills. Join us to discover the future of virtual reality and learn how to harness its potential for your own projects.",
         "location": "Bandung",
-        "seats": 120,
-        "price": 50000,
-        "start_date": "2022-08-05T00:00:00.000Z",
-        "end_date": "2022-08-06T00:00:00.000Z",
+        "ticket_type": [
+            {
+                "id": 1,
+                "name": "General Admission",
+                "price": 30000,
+                "seats": 25
+            },
+            {
+                "id": 2,
+                "name": "VIP",
+                "price": 50000,
+                "seats": 25
+            }
+        ],
+        "start_date": "2024-07-25T00:00:00.000Z",
+        "end_date": "2024-07-26T00:00:00.000Z",
         "organizer": {
-          "code": "USR-002",
-          "name": "susi anggraini",
-          "image": "https://api.api-ninjas.com/v1/randomimage"
+            "id": "1",
+            "name": "Emilys Johnson",
+            "image": "https://picsum.photos/1200/800"
         },
-        "category": "technology",
-        "images": [
-          "https://api.api-ninjas.com/v1/randomimage",
-          "https://api.api-ninjas.com/v1/randomimage",
-          "https://api.api-ninjas.com/v1/randomimage"
-        ]
-      },
-      {
+        "category": "Technology",
+        "main_image": "https://picsum.photos/1200/800"
+    },
+    {
         "id": "3",
-        "name": "Art Workshop: Painting Techniques",
-        "detail": "Learn advanced painting techniques from renowned artists.",
-        "location": "Bali",
-        "seats": 80,
-        "price": 70000,
-        "start_date": "2022-08-10T00:00:00.000Z",
-        "end_date": "2022-08-12T00:00:00.000Z",
+        "name": "Tech Startup Summit: Entrepreneurship in Action",
+        "detail": "Learn from the best in the industry about starting your own tech company. This summit brings together successful entrepreneurs, investors, and industry experts to share their insights and experiences. Over the course of two days, you'll attend keynote speeches, panel discussions, and interactive workshops covering a wide range of topics, including business planning, fundraising, product development, and marketing. You'll also have the chance to pitch your startup idea to potential investors and receive feedback from experienced mentors. Whether you're in the early stages of your startup journey or looking to scale your business, this summit will provide the knowledge and connections you need to succeed.",
+        "location": "Online",
+        "ticket_type": [
+            {
+                "id": 1,
+                "name": "Early Bird",
+                "price": 50000,
+                "seats": 50
+            },
+            {
+                "id": 2,
+                "name": "Standard",
+                "price": 75000,
+                "seats": 75
+            },
+            {
+                "id": 3,
+                "name": "VIP",
+                "price": 100000,
+                "seats": 25
+            }
+        ],
+        "start_date": "2024-07-28T00:00:00.000Z",
+        "end_date": "2024-07-29T00:00:00.000Z",
         "organizer": {
-          "code": "USR-003",
-          "name": "antonio santoso",
-          "image": "https://api.api-ninjas.com/v1/randomimage"
+            "id": "1",
+            "name": "Emilys Johnson",
+            "image": "https://picsum.photos/1200/800"
         },
-        "category": "art",
-        "images": [
-          "https://api.api-ninjas.com/v1/randomimage",
-          "https://api.api-ninjas.com/v1/randomimage",
-          "https://api.api-ninjas.com/v1/randomimage"
-        ]
-      },
-      {
+        "category": "Business",
+        "main_image": "https://picsum.photos/1200/800"
+    },
+    {
         "id": "4",
-        "name": "Music Festival: Jazz Night",
-        "detail": "Experience an enchanting night of jazz music under the stars.",
-        "location": "Jakarta",
-        "seats": 150,
-        "price": 100000,
-        "start_date": "2022-08-15T00:00:00.000Z",
-        "end_date": "2022-08-17T00:00:00.000Z",
+        "name": "Yoga and Wellness Retreat",
+        "detail": "Relax and rejuvenate at our yoga and wellness retreat. Set in the beautiful surroundings of Bali, this retreat offers a perfect escape from the hustle and bustle of everyday life. Participants will engage in daily yoga sessions, meditation practices, and wellness workshops designed to promote physical, mental, and emotional well-being. Our experienced instructors will guide you through various yoga styles and techniques, ensuring a holistic and personalized experience. In addition to the structured activities, you'll have plenty of free time to explore the natural beauty of Bali, enjoy healthy meals, and connect with fellow retreat-goers. Whether you're a seasoned yogi or a beginner, this retreat will leave you feeling refreshed and inspired.",
+        "location": "Bali",
+        "ticket_type": [
+            {
+                "id": 1,
+                "name": "Standard",
+                "price": 150000,
+                "seats": 50
+            },
+            {
+                "id": 2,
+                "name": "VIP",
+                "price": 200000,
+                "seats": 50
+            }
+        ],
+        "start_date": "2024-08-01T00:00:00.000Z",
+        "end_date": "2024-08-05T00:00:00.000Z",
         "organizer": {
-          "code": "USR-004",
-          "name": "lisa wijaya",
-          "image": "https://api.api-ninjas.com/v1/randomimage"
+            "id": "2",
+            "name": "Bob Smith",
+            "image": "https://picsum.photos/1200/800"
         },
-        "category": "music",
-        "images": [
-          "https://api.api-ninjas.com/v1/randomimage",
-          "https://api.api-ninjas.com/v1/randomimage",
-          "https://api.api-ninjas.com/v1/randomimage"
-        ]
-      },
-      {
+        "category": "Health & Wellness",
+        "main_image": "https://picsum.photos/1200/800"
+    },
+    {
         "id": "5",
-        "name": "Cooking Masterclass: International Cuisine",
-        "detail": "Master the art of cooking international dishes with expert chefs.",
-        "location": "Online",
-        "seats": 80,
-        "price": 60000,
-        "start_date": "2022-08-20T00:00:00.000Z",
-        "end_date": "2022-08-22T00:00:00.000Z",
+        "name": "Startup Bootcamp",
+        "detail": "Join our bootcamp to get your startup off the ground. This intensive program is designed for aspiring entrepreneurs who are serious about launching their own businesses. Over the course of three days, you'll participate in hands-on workshops, interactive sessions, and networking events. You'll learn how to develop a solid business plan, attract investors, build a strong team, and create a marketing strategy. Our experienced mentors will provide personalized feedback and guidance to help you refine your ideas and overcome challenges. Whether you're just starting out or looking to take your startup to the next level, this bootcamp will equip you with the tools and knowledge you need to succeed.",
+        "location": "Jakarta",
+        "ticket_type": [
+            {
+                "id": 1,
+                "name": "General Admission",
+                "price": 0,
+                "seats": 100
+            }
+        ],
+        "start_date": "2024-09-10T00:00:00.000Z",
+        "end_date": "2024-09-12T00:00:00.000Z",
         "organizer": {
-          "code": "USR-005",
-          "name": "michael santoso",
-          "image": "https://api.api-ninjas.com/v1/randomimage"
+            "id": "2",
+            "name": "Bob Smith",
+            "image": "https://picsum.photos/1200/800"
         },
-        "category": "cooking",
-        "images": [
-          "https://api.api-ninjas.com/v1/randomimage",
-          "https://api.api-ninjas.com/v1/randomimage",
-          "https://api.api-ninjas.com/v1/randomimage"
-        ]
-      },
-      {
+        "category": "Business",
+        "main_image": "https://picsum.photos/1200/800"
+    },
+    {
         "id": "6",
-        "name": "Business Seminar: Entrepreneurship 101",
-        "detail": "Learn the essentials of entrepreneurship from successful business leaders.",
-        "location": "Bandung",
-        "seats": 100,
-        "price": 80000,
-        "start_date": "2022-08-25T00:00:00.000Z",
-        "end_date": "2022-08-27T00:00:00.000Z",
+        "name": "Art Exhibition",
+        "detail": "Explore the latest works from local and international artists at our art exhibition. This event features a diverse range of artworks, including paintings, sculptures, installations, and digital art. You'll have the opportunity to meet the artists, learn about their creative processes, and purchase original pieces. In addition to the exhibition, there will be artist talks, panel discussions, and live demonstrations. Whether you're an art collector, enthusiast, or simply looking for inspiration, this event offers something for everyone. Join us for a celebration of creativity and artistic expression.",
+        "location": "Jakarta",
+        "ticket_type": [
+            {
+                "id": 1,
+                "name": "General Admission",
+                "price": 0,
+                "seats": 100
+            }
+        ],
+        "start_date": "2024-10-15T00:00:00.000Z",
+        "end_date": "2024-10-20T00:00:00.000Z",
         "organizer": {
-          "code": "USR-006",
-          "name": "andre wijaya",
-          "image": "https://api.api-ninjas.com/v1/randomimage"
+            "id": "3",
+            "name": "Carol White",
+            "image": "https://picsum.photos/1200/800"
         },
-        "category": "business",
-        "images": [
-          "https://api.api-ninjas.com/v1/randomimage",
-          "https://api.api-ninjas.com/v1/randomimage",
-          "https://api.api-ninjas.com/v1/randomimage"
-        ]
-      },
-      {
+        "category": "Art & Culture",
+        "main_image": "https://picsum.photos/1200/800"
+    },
+    {
         "id": "7",
-        "name": "Film Festival: Indie Cinema Showcase",
-        "detail": "Discover independent films and celebrate the art of cinema.",
-        "location": "Jakarta",
-        "seats": 120,
-        "price": 90000,
-        "start_date": "2022-08-30T00:00:00.000Z",
-        "end_date": "2022-09-01T00:00:00.000Z",
+        "name": "Music Festival",
+        "detail": "Join us for a weekend of music, food, and fun at our annual music festival. This event features a diverse lineup of artists and bands, spanning various genres and styles. In addition to the live performances, there will be food trucks, craft vendors, and interactive activities for all ages. Whether you're a music lover, foodie, or looking for a fun day out with friends and family, this festival has something for everyone. Enjoy great music, delicious food, and a vibrant atmosphere in the beautiful setting of Bali. Don't miss out on this unforgettable experience.",
+        "location": "Bali",
+        "ticket_type": [
+            {
+                "id": 1,
+                "name": "General Admission",
+                "price": 200000,
+                "seats": 400
+            },
+            {
+                "id": 2,
+                "name": "VIP",
+                "price": 300000,
+                "seats": 100
+            }
+        ],
+        "start_date": "2024-11-05T00:00:00.000Z",
+        "end_date": "2024-11-07T00:00:00.000Z",
         "organizer": {
-          "code": "USR-007",
-          "name": "michael santoso",
-          "image": "https://api.api-ninjas.com/v1/randomimage"
+            "id": "2",
+            "name": "Bob Smith",
+            "image": "https://picsum.photos/1200/800"
         },
-        "category": "film",
-        "images": [
-          "https://api.api-ninjas.com/v1/randomimage",
-          "https://api.api-ninjas.com/v1/randomimage",
-          "https://api.api-ninjas.com/v1/randomimage"
-        ]
-      },
-      {
+        "category": "Entertainment",
+        "main_image": "https://picsum.photos/1200/800"
+    },
+    {
         "id": "8",
-        "name": "Fashion Show: Winter Collection",
-        "detail": "Experience the latest trends in winter fashion from top designers.",
-        "location": "Bali",
-        "seats": 150,
-        "price": 120000,
-        "start_date": "2022-09-05T00:00:00.000Z",
-        "end_date": "2022-09-07T00:00:00.000Z",
+        "name": "Science Fair",
+        "detail": "Discover the latest in science and technology at our annual science fair. This event showcases innovative projects and experiments from students, researchers, and professionals. You'll have the opportunity to explore interactive exhibits, attend informative talks, and participate in hands-on workshops. Whether you're a science enthusiast, educator, or simply curious about the world around you, this fair offers something for everyone. Join us to celebrate the wonders of science and learn about the groundbreaking discoveries shaping our future.",
+        "location": "Online",
+        "ticket_type": [
+            {
+                "id": 1,
+                "name": "General Admission",
+                "price": 0,
+                "seats": 200
+            }
+        ],
+        "start_date": "2024-12-01T00:00:00.000Z",
+        "end_date": "2024-12-03T00:00:00.000Z",
         "organizer": {
-          "code": "USR-008",
-          "name": "lisa wijaya",
-          "image": "https://api.api-ninjas.com/v1/randomimage"
+            "id": "3",
+            "name": "Carol White",
+            "image": "https://picsum.photos/1200/800"
         },
-        "category": "fashion",
-        "images": [
-          "https://api.api-ninjas.com/v1/randomimage",
-          "https://api.api-ninjas.com/v1/randomimage",
-          "https://api.api-ninjas.com/v1/randomimage"
-        ]
-      },
-      {
+        "category": "Science",
+        "main_image": "https://picsum.photos/1200/800"
+    },
+    {
         "id": "9",
-        "name": "Literature Seminar: Modern Writers' Insights",
-        "detail": "Gain insights into the works of modern writers and literary trends.",
+        "name": "Automotive Show",
+        "detail": "See the latest cars and automotive technology at our annual automotive show. This event features a wide range of vehicles, from classic cars to the latest electric models. You'll have the opportunity to test drive new cars, attend product demonstrations, and learn about the latest advancements in automotive technology. Whether you're a car enthusiast, looking to buy a new vehicle, or simply interested in the future of transportation, this show offers something for everyone. Join us for an exciting and informative event that celebrates the world of automobiles.",
         "location": "Jakarta",
-        "seats": 100,
-        "price": 70000,
-        "start_date": "2022-09-10T00:00:00.000Z",
-        "end_date": "2022-09-12T00:00:00.000Z",
+        "ticket_type": [
+            {
+                "id": 1,
+                "name": "General Admission",
+                "price": 150000,
+                "seats": 250
+            },
+            {
+                "id": 2,
+                "name": "VIP",
+                "price": 250000,
+                "seats": 50
+            }
+        ],
+        "start_date": "2025-01-10T00:00:00.000Z",
+        "end_date": "2025-01-12T00:00:00.000Z",
         "organizer": {
-          "code": "USR-009",
-          "name": "antonio santoso",
-          "image": "https://api.api-ninjas.com/v1/randomimage"
+            "id": "1",
+            "name": "Emilys Johnson",
+            "image": "https://picsum.photos/1200/800"
         },
-        "category": "literature",
-        "images": [
-          "https://api.api-ninjas.com/v1/randomimage",
-          "https://api.api-ninjas.com/v1/randomimage",
-          "https://api.api-ninjas.com/v1/randomimage"
-        ]
-      },
-      {
+        "category": "Automotive",
+        "main_image": "https://picsum.photos/1200/800"
+    },
+    {
         "id": "10",
-        "name": "Fitness Workshop: Advanced Training Techniques",
-        "detail": "Learn advanced fitness techniques and training methodologies.",
-        "location": "Bandung",
-        "seats": 80,
-        "price": 60000,
-        "start_date": "2022-09-15T00:00:00.000Z",
-        "end_date": "2022-09-17T00:00:00.000Z",
+        "name": "Coding Bootcamp",
+        "detail": "Master the skills needed to become a professional developer at our intensive coding bootcamp. Over the course of eight weeks, you'll learn how to build web and mobile applications using the latest technologies and frameworks. Our experienced instructors will provide hands-on training, code reviews, and mentorship to help you succeed. Whether you're looking to start a new career in tech or upgrade your existing skills, this bootcamp will equip you with the knowledge and experience needed to excel in the industry. Join us for a transformative learning experience that will open up new opportunities in the world of software development.",
+        "location": "Batam",
+        "ticket_type": [
+            {
+                "id": 1,
+                "name": "Full Program",
+                "price": 500000,
+                "seats": 30
+            },
+            {
+                "id": 2,
+                "name": "Partial Program",
+                "price": 300000,
+                "seats": 20
+            }
+        ],
+        "start_date": "2025-02-01T00:00:00.000Z",
+        "end_date": "2025-03-28T00:00:00.000Z",
         "organizer": {
-          "code": "USR-010",
-          "name": "susi anggraini",
-          "image": "https://api.api-ninjas.com/v1/randomimage"
+            "id": "2",
+            "name": "Bob Smith",
+            "image": "https://picsum.photos/1200/800"
         },
-        "category": "fitness",
-        "images": [
-          "https://api.api-ninjas.com/v1/randomimage",
-          "https://api.api-ninjas.com/v1/randomimage",
-          "https://api.api-ninjas.com/v1/randomimage"
-        ]
-      },
-      {
+        "category": "Education",
+        "main_image": "https://picsum.photos/1200/800"
+    },
+    {
         "id": "11",
-        "name": "Tech Summit: Future of Technology",
-        "detail": "Explore the future of technology with industry experts.",
-        "location": "Jakarta",
-        "seats": 120,
-        "price": 80000,
-        "start_date": "2022-09-20T00:00:00.000Z",
-        "end_date": "2022-09-22T00:00:00.000Z",
+        "name": "Fashion Show",
+        "detail": "Experience the latest trends in fashion at our exclusive fashion show. This event will feature runway shows from top designers, showcasing their newest collections. You'll have the opportunity to see the latest styles and trends up close, meet the designers, and shop for your favorite pieces. In addition to the runway shows, there will be pop-up shops, styling sessions, and networking opportunities. Whether you're a fashion professional, enthusiast, or simply looking for inspiration, this event offers a unique and exciting experience. Join us for a celebration of style and creativity.",
+        "location": "Bali",
+        "ticket_type": [
+            {
+                "id": 1,
+                "name": "General Admission",
+                "price": 250000,
+                "seats": 100
+            },
+            {
+                "id": 2,
+                "name": "VIP",
+                "price": 400000,
+                "seats": 50
+            }
+        ],
+        "start_date": "2025-03-10T00:00:00.000Z",
+        "end_date": "2025-03-12T00:00:00.000Z",
         "organizer": {
-          "code": "USR-011",
-          "name": "michael santoso",
-          "image": "https://api.api-ninjas.com/v1/randomimage"
+            "id": "3",
+            "name": "Carol White",
+            "image": "https://picsum.photos/1200/800"
         },
-        "category": "technology",
-        "images": [
-          "https://api.api-ninjas.com/v1/randomimage",
-          "https://api.api-ninjas.com/v1/randomimage",
-          "https://api.api-ninjas.com/v1/randomimage"
-        ]
-      },
-      {
+        "category": "Fashion",
+        "main_image": "https://picsum.photos/1200/800"
+    },
+    {
         "id": "12",
-        "name": "Cooking Workshop: Asian Cuisine",
-        "detail": "Master the art of cooking Asian cuisine with renowned chefs.",
-        "location": "Bali",
-        "seats": 80,
-        "price": 70000,
-        "start_date": "2022-09-25T00:00:00.000Z",
-        "end_date": "2022-09-27T00:00:00.000Z",
+        "name": "Health and Fitness Expo",
+        "detail": "Discover the latest in health and fitness at our annual expo. This event features a wide range of exhibitors showcasing the latest products, services, and trends in the health and fitness industry. You'll have the opportunity to attend informative seminars, participate in fitness classes, and receive health screenings. Whether you're a fitness enthusiast, health professional, or simply looking to improve your well-being, this expo offers something for everyone. Join us for a day of learning, networking, and inspiration as we explore the many aspects of health and fitness.",
+        "location": "Online",
+        "ticket_type": [
+            {
+                "id": 1,
+                "name": "General Admission",
+                "price": 0,
+                "seats": 100
+            }
+        ],
+        "start_date": "2025-04-05T00:00:00.000Z",
+        "end_date": "2025-04-06T00:00:00.000Z",
         "organizer": {
-          "code": "USR-012",
-          "name": "antonio santoso",
-          "image": "https://api.api-ninjas.com/v1/randomimage"
+            "id": "2",
+            "name": "Bob Smith",
+            "image": "https://picsum.photos/1200/800"
         },
-        "category": "cooking",
-        "images": [
-          "https://api.api-ninjas.com/v1/randomimage",
-          "https://api.api-ninjas.com/v1/randomimage",
-          "https://api.api-ninjas.com/v1/randomimage"
-        ]
-      },
-      {
+        "category": "Health & Fitness",
+        "main_image": "https://picsum.photos/1200/800"
+    },
+    {
         "id": "13",
-        "name": "Business Conference: Global Economy",
-        "detail": "Discuss the global economic landscape and future trends.",
+        "name": "Photography Workshop",
+        "detail": "Enhance your photography skills at our comprehensive workshop. This event is designed for photographers of all levels, from beginners to advanced. You'll learn about various photography techniques, including composition, lighting, and post-processing. Our experienced instructors will provide hands-on training and personalized feedback to help you improve your skills. In addition to the technical aspects, you'll also explore the creative side of photography, including storytelling and developing your unique style. Whether you're looking to pursue photography professionally or as a hobby, this workshop will provide the knowledge and inspiration you need to take your photography to the next level.",
         "location": "Jakarta",
-        "seats": 150,
-        "price": 120000,
-        "start_date": "2022-10-01T00:00:00.000Z",
-        "end_date": "2022-10-03T00:00:00.000Z",
+        "ticket_type": [
+            {
+                "id": 1,
+                "name": "Full Workshop",
+                "price": 200000,
+                "seats": 30
+            },
+            {
+                "id": 2,
+                "name": "Partial Workshop",
+                "price": 100000,
+                "seats": 20
+            }
+        ],
+        "start_date": "2025-05-15T00:00:00.000Z",
+        "end_date": "2025-05-17T00:00:00.000Z",
         "organizer": {
-          "code": "USR-013",
-          "name": "lisa wijaya",
-          "image": "https://api.api-ninjas.com/v1/randomimage"
+            "id": "3",
+            "name": "Carol White",
+            "image": "https://picsum.photos/1200/800"
         },
-        "category": "business",
-        "images": [
-          "https://api.api-ninjas.com/v1/randomimage",
-          "https://api.api-ninjas.com/v1/randomimage",
-          "https://api.api-ninjas.com/v1/randomimage"
-        ]
-      },
-      {
+        "category": "Photography",
+        "main_image": "https://picsum.photos/1200/800"
+    },
+    {
         "id": "14",
-        "name": "Film Workshop: Screenwriting Masterclass",
-        "detail": "Learn the art and craft of screenwriting from industry professionals.",
-        "location": "Bandung",
-        "seats": 100,
-        "price": 90000,
-        "start_date": "2022-10-05T00:00:00.000Z",
-        "end_date": "2022-10-07T00:00:00.000Z",
+        "name": "Cooking Masterclass",
+        "detail": "Join our cooking masterclass to learn from top chefs and elevate your culinary skills. This event features interactive cooking demonstrations, hands-on workshops, and tastings. You'll learn about various cooking techniques, ingredients, and recipes from different cuisines. Our expert chefs will provide personalized instruction and feedback to help you improve your cooking skills. Whether you're a home cook looking to try new recipes or a culinary professional seeking to expand your knowledge, this masterclass offers valuable insights and inspiration. Join us for a delicious and educational experience that will take your cooking to the next level.",
+        "location": "Bali",
+        "ticket_type": [
+            {
+                "id": 1,
+                "name": "General Admission",
+                "price": 150000,
+                "seats": 30
+            },
+            {
+                "id": 2,
+                "name": "VIP",
+                "price": 250000,
+                "seats": 20
+            }
+        ],
+        "start_date": "2025-06-10T00:00:00.000Z",
+        "end_date": "2025-06-12T00:00:00.000Z",
         "organizer": {
-          "code": "USR-014",
-          "name": "michael santoso",
-          "image": "https://api.api-ninjas.com/v1/randomimage"
+            "id": "1",
+            "name": "Emilys Johnson",
+            "image": "https://picsum.photos/1200/800"
         },
-        "category": "film",
-        "images": [
-          "https://api.api-ninjas.com/v1/randomimage",
-          "https://api.api-ninjas.com/v1/randomimage",
-          "https://api.api-ninjas.com/v1/randomimage"
-        ]
-      },
-      {
+        "category": "Culinary",
+        "main_image": "https://picsum.photos/1200/800"
+    },
+    {
         "id": "15",
-        "name": "Fashion Show: Spring Collection",
-        "detail": "Experience the latest trends in spring fashion from top designers.",
-        "location": "Bali",
-        "seats": 120,
-        "price": 100000,
-        "start_date": "2022-10-10T00:00:00.000Z",
-        "end_date": "2022-10-12T00:00:00.000Z",
+        "name": "Startup Networking Event",
+        "detail": "Connect with entrepreneurs, investors, and industry experts at our startup networking event. This event provides a platform for startups to showcase their ideas, pitch to investors, and network with potential partners and customers. In addition to the networking opportunities, there will be panel discussions, keynote speeches, and workshops covering various topics related to entrepreneurship and business development. Whether you're a startup founder, investor, or simply interested in the startup ecosystem, this event offers valuable insights and connections. Join us to build relationships, gain knowledge, and take your startup to the next level.",
+        "location": "Online",
+        "ticket_type": [
+            {
+                "id": 1,
+                "name": "General Admission",
+                "price": 0,
+                "seats": 100
+            }
+        ],
+        "start_date": "2025-07-15T00:00:00.000Z",
+        "end_date": "2025-07-16T00:00:00.000Z",
         "organizer": {
-          "code": "USR-015",
-          "name": "lisa wijaya",
-          "image": "https://api.api-ninjas.com/v1/randomimage"
+            "id": "3",
+            "name": "Carol White",
+            "image": "https://picsum.photos/1200/800"
         },
-        "category": "fashion",
-        "images": [
-          "https://api.api-ninjas.com/v1/randomimage",
-          "https://api.api-ninjas.com/v1/randomimage",
-          "https://api.api-ninjas.com/v1/randomimage"
-        ]
-      },
-      {
+        "category": "Business",
+        "main_image": "https://picsum.photos/1200/800"
+    },
+    {
         "id": "16",
-        "name": "Music Concert: Classical Night",
-        "detail": "Enjoy an evening of classical music performed by renowned musicians.",
+        "name": "Tech Conference",
+        "detail": "Join us for our annual tech conference to learn about the latest trends and innovations in the tech industry. This event features keynote speeches, panel discussions, and workshops from leading experts and innovators. You'll have the opportunity to explore new technologies, network with professionals, and gain valuable insights into the future of tech. Whether you're a developer, entrepreneur, or tech enthusiast, this conference offers something for everyone. Join us for a day of learning, networking, and inspiration as we explore the latest advancements in technology.",
         "location": "Jakarta",
-        "seats": 150,
-        "price": 120000,
-        "start_date": "2022-10-15T00:00:00.000Z",
-        "end_date": "2022-10-17T00:00:00.000Z",
+        "ticket_type": [
+            {
+                "id": 1,
+                "name": "General Admission",
+                "price": 0,
+                "seats": 100
+            }
+        ],
+        "start_date": "2025-08-05T00:00:00.000Z",
+        "end_date": "2025-08-06T00:00:00.000Z",
         "organizer": {
-          "code": "USR-016",
-          "name": "susi anggraini",
-          "image": "https://api.api-ninjas.com/v1/randomimage"
+            "id": "2",
+            "name": "Bob Smith",
+            "image": "https://picsum.photos/1200/800"
         },
-        "category": "music",
-        "images": [
-          "https://api.api-ninjas.com/v1/randomimage",
-          "https://api.api-ninjas.com/v1/randomimage",
-          "https://api.api-ninjas.com/v1/randomimage"
-        ]
-      },
-      {
+        "category": "Technology",
+        "main_image": "https://picsum.photos/1200/800"
+    },
+    {
         "id": "17",
-        "name": "Art Exhibition: Contemporary Art",
-        "detail": "Explore contemporary art from emerging and established artists.",
-        "location": "Bandung",
-        "seats": 100,
-        "price": 80000,
-        "start_date": "2022-10-20T00:00:00.000Z",
-        "end_date": "2022-10-22T00:00:00.000Z",
+        "name": "Marketing Seminar",
+        "detail": "Learn the latest marketing strategies and techniques at our marketing seminar. This event features presentations and workshops from leading marketing experts, covering a wide range of topics including digital marketing, social media, content marketing, and more. You'll gain valuable insights into how to effectively promote your business, attract customers, and increase sales. Whether you're a business owner, marketer, or simply interested in learning more about marketing, this seminar offers practical knowledge and actionable strategies. Join us for a day of learning and networking as we explore the world of marketing.",
+        "location": "Online",
+        "ticket_type": [
+            {
+                "id": 1,
+                "name": "General Admission",
+                "price": 0,
+                "seats": 100
+            }
+        ],
+        "start_date": "2025-09-10T00:00:00.000Z",
+        "end_date": "2025-09-11T00:00:00.000Z",
         "organizer": {
-          "code": "USR-017",
-          "name": "antonio santoso",
-          "image": "https://api.api-ninjas.com/v1/randomimage"
+            "id": "3",
+            "name": "Carol White",
+            "image": "https://picsum.photos/1200/800"
         },
-        "category": "art",
-        "images": [
-          "https://api.api-ninjas.com/v1/randomimage",
-          "https://api.api-ninjas.com/v1/randomimage",
-          "https://api.api-ninjas.com/v1/randomimage"
-        ]
-      },
-      {
+        "category": "Marketing",
+        "main_image": "https://picsum.photos/1200/800"
+    },
+    {
         "id": "18",
-        "name": "Literature Seminar: Contemporary Writers' Insights",
-        "detail": "Gain insights into the works of contemporary writers and literary trends.",
+        "name": "Blockchain Summit",
+        "detail": "Explore the world of blockchain and cryptocurrencies at our blockchain summit. This event features keynote speeches, panel discussions, and workshops from leading experts in the blockchain industry. You'll learn about the latest developments in blockchain technology, cryptocurrencies, and decentralized finance. Whether you're a developer, investor, or simply interested in learning more about blockchain, this summit offers valuable insights and opportunities. Join us for a day of learning, networking, and inspiration as we explore the future of blockchain technology.",
         "location": "Jakarta",
-        "seats": 120,
-        "price": 90000,
-        "start_date": "2022-10-25T00:00:00.000Z",
-        "end_date": "2022-10-27T00:00:00.000Z",
+        "ticket_type": [
+            {
+                "id": 1,
+                "name": "General Admission",
+                "price": 0,
+                "seats": 100
+            }
+        ],
+        "start_date": "2025-10-15T00:00:00.000Z",
+        "end_date": "2025-10-16T00:00:00.000Z",
         "organizer": {
-          "code": "USR-018",
-          "name": "susi anggraini",
-          "image": "https://api.api-ninjas.com/v1/randomimage"
+            "id": "2",
+            "name": "Bob Smith",
+            "image": "https://picsum.photos/1200/800"
         },
-        "category": "literature",
-        "images": [
-          "https://api.api-ninjas.com/v1/randomimage",
-          "https://api.api-ninjas.com/v1/randomimage",
-          "https://api.api-ninjas.com/v1/randomimage"
-        ]
-      },
-      {
+        "category": "Technology",
+        "main_image": "https://picsum.photos/1200/800"
+    },
+    {
         "id": "19",
-        "name": "Fitness Workshop: Healthy Living",
-        "detail": "Learn about healthy living and fitness tips from health experts.",
-        "location": "Bandung",
-        "seats": 80,
-        "price": 70000,
-        "start_date": "2022-10-30T00:00:00.000Z",
-        "end_date": "2022-11-01T00:00:00.000Z",
+        "name": "Music Production Workshop",
+        "detail": "Learn the art of music production at our hands-on workshop. This event is designed for aspiring music producers, musicians, and enthusiasts. You'll learn about various aspects of music production, including recording, mixing, and mastering. Our experienced instructors will provide personalized instruction and feedback to help you improve your skills. In addition to the technical aspects, you'll also explore the creative side of music production, including songwriting and arrangement. Whether you're looking to pursue a career in music production or simply interested in creating your own music, this workshop offers valuable knowledge and inspiration.",
+        "location": "Batam",
+        "ticket_type": [
+            {
+                "id": 1,
+                "name": "General Admission",
+                "price": 0,
+                "seats": 100
+            }
+        ],
+        "start_date": "2025-11-20T00:00:00.000Z",
+        "end_date": "2025-11-22T00:00:00.000Z",
         "organizer": {
-          "code": "USR-019",
-          "name": "michael santoso",
-          "image": "https://api.api-ninjas.com/v1/randomimage"
+            "id": "3",
+            "name": "Carol White",
+            "image": "https://picsum.photos/1200/800"
         },
-        "category": "fitness",
-        "images": [
-          "https://api.api-ninjas.com/v1/randomimage",
-          "https://api.api-ninjas.com/v1/randomimage",
-          "https://api.api-ninjas.com/v1/randomimage"
-        ]
-      },
-      {
+        "category": "Music",
+        "main_image": "https://picsum.photos/1200/800"
+    },
+    {
         "id": "20",
-        "name": "Tech Workshop: Cybersecurity Essentials",
-        "detail": "Learn essential cybersecurity techniques and best practices.",
-        "location": "Online",
-        "seats": 100,
-        "price": 80000,
-        "start_date": "2022-11-05T00:00:00.000Z",
-        "end_date": "2022-11-07T00:00:00.000Z",
-        "organizer": {
-          "code": "USR-020",
-          "name": "andre wijaya",
-          "image": "https://api.api-ninjas.com/v1/randomimage"
-        },
-        "category": "technology",
-        "images": [
-          "https://api.api-ninjas.com/v1/randomimage",
-          "https://api.api-ninjas.com/v1/randomimage",
-          "https://api.api-ninjas.com/v1/randomimage"
-        ]
-      },
-      {
-        "id": "21",
-        "name": "Art Workshop: Sculpting Techniques",
-        "detail": "Explore advanced sculpting techniques with expert sculptors.",
-        "location": "Bandung",
-        "seats": 80,
-        "price": 70000,
-        "start_date": "2022-11-10T00:00:00.000Z",
-        "end_date": "2022-11-12T00:00:00.000Z",
-        "organizer": {
-          "code": "USR-021",
-          "name": "antonio santoso",
-          "image": "https://api.api-ninjas.com/v1/randomimage"
-        },
-        "category": "art",
-        "images": [
-          "https://api.api-ninjas.com/v1/randomimage",
-          "https://api.api-ninjas.com/v1/randomimage",
-          "https://api.api-ninjas.com/v1/randomimage"
-        ]
-      },
-      {
-        "id": "22",
-        "name": "Music Festival: Pop Extravaganza",
-        "detail": "Enjoy a spectacular night of pop music hits from top artists.",
-        "location": "Jakarta",
-        "seats": 150,
-        "price": 120000,
-        "start_date": "2022-11-15T00:00:00.000Z",
-        "end_date": "2022-11-17T00:00:00.000Z",
-        "organizer": {
-          "code": "USR-002",
-          "name": "susi anggraini",
-          "image": "https://api.api-ninjas.com/v1/randomimage"
-        },
-        "category": "music",
-        "images": [
-          "https://api.api-ninjas.com/v1/randomimage",
-          "https://api.api-ninjas.com/v1/randomimage",
-          "https://api.api-ninjas.com/v1/randomimage"
-        ]
-      },
-      {
-        "id": "23",
-        "name": "Cooking Masterclass: Italian Cuisine",
-        "detail": "Learn the secrets of authentic Italian cooking from expert chefs.",
+        "name": "Fitness Bootcamp",
+        "detail": "Join our fitness bootcamp to get in shape and improve your overall health. This event features a variety of fitness classes, including strength training, cardio, yoga, and more. Our experienced trainers will provide personalized instruction and motivation to help you achieve your fitness goals. In addition to the physical workouts, there will be sessions on nutrition, wellness, and mental health. Whether you're looking to lose weight, build muscle, or simply improve your overall fitness, this bootcamp offers a comprehensive approach to health and wellness. Join us for a challenging and rewarding experience that will leave you feeling stronger and healthier.",
         "location": "Bali",
-        "seats": 100,
-        "price": 80000,
-        "start_date": "2022-11-20T00:00:00.000Z",
-        "end_date": "2022-11-22T00:00:00.000Z",
+        "ticket_type": [
+            {
+                "id": 1,
+                "name": "General Admission",
+                "price": 100000,
+                "seats": 50
+            },
+            {
+                "id": 2,
+                "name": "VIP",
+                "price": 200000,
+                "seats": 20
+            }
+        ],
+        "start_date": "2025-12-01T00:00:00.000Z",
+        "end_date": "2025-12-05T00:00:00.000Z",
         "organizer": {
-          "code": "USR-005",
-          "name": "michael santoso",
-          "image": "https://api.api-ninjas.com/v1/randomimage"
+            "id": "1",
+            "name": "Emilys Johnson",
+            "image": "https://picsum.photos/1200/800"
         },
-        "category": "cooking",
-        "images": [
-          "https://api.api-ninjas.com/v1/randomimage",
-          "https://api.api-ninjas.com/v1/randomimage",
-          "https://api.api-ninjas.com/v1/randomimage"
-        ]
+        "category": "Health & Fitness",
+        "main_image": "https://picsum.photos/1200/800"
+    },
+    {
+      "id": "21",
+      "name": "Art Exhibition",
+      "detail": "Immerse yourself in the world of contemporary art at our annual art exhibition. This event features a diverse collection of artworks from emerging and established artists, spanning various mediums and styles. You'll have the opportunity to explore the exhibits, meet the artists, and purchase unique pieces. In addition to the visual art, there will be live performances, artist talks, and interactive installations. Whether you're an art collector, enthusiast, or simply looking for a cultural experience, this exhibition offers something for everyone. Join us for a celebration of creativity and inspiration in the vibrant setting of Jakarta.",
+      "location": "Jakarta",
+      "ticket_type": [
+          {
+              "id": 1,
+              "name": "General Admission",
+              "price": 50000,
+              "seats": 300
+          }
+      ],
+      "start_date": "2024-05-05T00:00:00.000Z",
+      "end_date": "2024-05-07T00:00:00.000Z",
+      "organizer": {
+          "id": "2",
+          "name": "Bob Smith",
+          "image": "https://picsum.photos/1200/800"
       },
-      {
-        "id": "24",
-        "name": "Business Seminar: Leadership Strategies",
-        "detail": "Discover effective leadership strategies for business success.",
-        "location": "Jakarta",
-        "seats": 120,
-        "price": 90000,
-        "start_date": "2022-11-25T00:00:00.000Z",
-        "end_date": "2022-11-27T00:00:00.000Z",
-        "organizer": {
-          "code": "USR-006",
-          "name": "andre wijaya",
-          "image": "https://api.api-ninjas.com/v1/randomimage"
-        },
-        "category": "business",
-        "images": [
-          "https://api.api-ninjas.com/v1/randomimage",
-          "https://api.api-ninjas.com/v1/randomimage",
-          "https://api.api-ninjas.com/v1/randomimage"
-        ]
+      "category": "Art",
+      "main_image": "https://picsum.photos/1200/800"
+  },
+  {
+      "id": "22",
+      "name": "Literary Festival",
+      "detail": "Join us for a celebration of literature at our annual literary festival. This event brings together authors, poets, and readers for a series of readings, panel discussions, and workshops. You'll have the opportunity to hear from your favorite writers, discover new voices, and participate in interactive sessions. In addition to the literary events, there will be book signings, vendor booths, and networking opportunities. Whether you're a lifelong reader, aspiring writer, or simply interested in the literary world, this festival offers a rich and engaging experience. Join us in the beautiful setting of Bali for a weekend of literary exploration.",
+      "location": "Bali",
+      "ticket_type": [
+          {
+              "id": 1,
+              "name": "General Admission",
+              "price": 0,
+              "seats": 200
+          }
+      ],
+      "start_date": "2024-06-10T00:00:00.000Z",
+      "end_date": "2024-06-12T00:00:00.000Z",
+      "organizer": {
+          "id": "3",
+          "name": "Carol White",
+          "image": "https://picsum.photos/1200/800"
       },
-      {
-        "id": "25",
-        "name": "Film Festival: World Cinema Showcase",
-        "detail": "Explore world cinema with a curated selection of international films.",
-        "location": "Online",
-        "seats": 100,
-        "price": 80000,
-        "start_date": "2022-11-30T00:00:00.000Z",
-        "end_date": "2022-12-02T00:00:00.000Z",
-        "organizer": {
-          "code": "USR-007",
-          "name": "michael santoso",
-          "image": "https://api.api-ninjas.com/v1/randomimage"
-        },
-        "category": "film",
-        "images": [
-          "https://api.api-ninjas.com/v1/randomimage",
-          "https://api.api-ninjas.com/v1/randomimage",
-          "https://api.api-ninjas.com/v1/randomimage"
-        ]
+      "category": "Literature",
+      "main_image": "https://picsum.photos/1200/800"
+  },
+  {
+      "id": "23",
+      "name": "Film Festival",
+      "detail": "Experience the magic of cinema at our annual film festival. This event showcases a diverse selection of films from around the world, including feature films, documentaries, and short films. You'll have the opportunity to attend screenings, meet filmmakers, and participate in Q&A sessions. In addition to the film screenings, there will be panel discussions, workshops, and networking events. Whether you're a film enthusiast, industry professional, or simply looking for a fun and engaging cultural experience, this festival offers something for everyone. Join us in Jakarta for a celebration of cinema and storytelling.",
+      "location": "Jakarta",
+      "ticket_type": [
+          {
+              "id": 1,
+              "name": "General Admission",
+              "price": 100000,
+              "seats": 300
+          },
+          {
+              "id": 2,
+              "name": "VIP",
+              "price": 200000,
+              "seats": 100
+          }
+      ],
+      "start_date": "2024-07-01T00:00:00.000Z",
+      "end_date": "2024-07-05T00:00:00.000Z",
+      "organizer": {
+          "id": "2",
+          "name": "Bob Smith",
+          "image": "https://picsum.photos/1200/800"
       },
-      {
-        "id": "26",
-        "name": "Digital Marketing Conference: Trends and Strategies",
-        "detail": "Explore the latest trends and strategies in digital marketing.",
-        "location": "Bandung",
-        "seats": 150,
-        "price": 250000,
-        "start_date": "2022-11-30T00:00:00.000Z",
-        "end_date": "2022-12-02T00:00:00.000Z",
-        "organizer": {
-          "code": "USR-016",
-          "name": "susi anggraini",
-          "image": "https://api.api-ninjas.com/v1/randomimage"
-        },
-        "category": "marketing",
-        "images": [
-          "https://api.api-ninjas.com/v1/randomimage",
-          "https://api.api-ninjas.com/v1/randomimage",
-          "https://api.api-ninjas.com/v1/randomimage"
-        ]
+      "category": "Film",
+      "main_image": "https://picsum.photos/1200/800"
+  },
+  {
+      "id": "24",
+      "name": "Yoga Retreat",
+      "detail": "Reconnect with yourself and nature at our serene yoga retreat. This event offers a range of yoga classes, meditation sessions, and wellness workshops led by experienced instructors. You'll have the opportunity to deepen your practice, learn new techniques, and rejuvenate your mind and body. In addition to the yoga sessions, there will be activities such as hiking, swimming, and healthy cooking classes. Whether you're a seasoned yogi or new to the practice, this retreat provides a peaceful and supportive environment for personal growth and relaxation. Join us in the tranquil setting of Bali for a transformative wellness experience.",
+      "location": "Bali",
+      "ticket_type": [
+          {
+              "id": 1,
+              "name": "General Admission",
+              "price": 150000,
+              "seats": 50
+          },
+          {
+              "id": 2,
+              "name": "VIP",
+              "price": 250000,
+              "seats": 20
+          }
+      ],
+      "start_date": "2024-08-15T00:00:00.000Z",
+      "end_date": "2024-08-20T00:00:00.000Z",
+      "organizer": {
+          "id": "1",
+          "name": "Emilys Johnson",
+          "image": "https://picsum.photos/1200/800"
       },
-      {
-        "id": "27",
-        "name": "Art Workshop: Abstract Painting Techniques",
-        "detail": "Learn advanced techniques in abstract painting from experienced artists.",
-        "location": "Jakarta",
-        "seats": 80,
-        "price": 70000,
-        "start_date": "2022-12-05T00:00:00.000Z",
-        "end_date": "2022-12-07T00:00:00.000Z",
-        "organizer": {
-          "code": "USR-021",
-          "name": "antonio santoso",
-          "image": "https://api.api-ninjas.com/v1/randomimage"
-        },
-        "category": "art",
-        "images": [
-          "https://api.api-ninjas.com/v1/randomimage",
-          "https://api.api-ninjas.com/v1/randomimage",
-          "https://api.api-ninjas.com/v1/randomimage"
-        ]
+      "category": "Wellness",
+      "main_image": "https://picsum.photos/1200/800"
+  },
+  {
+      "id": "25",
+      "name": "Startup Pitch Competition",
+      "detail": "Showcase your innovative ideas and compete for funding at our startup pitch competition. This event provides a platform for entrepreneurs to present their business ideas to a panel of investors and industry experts. You'll have the opportunity to receive valuable feedback, network with potential partners, and compete for prizes. In addition to the pitch competition, there will be workshops and networking events to help you refine your pitch and build connections. Whether you're a startup founder looking for funding or an investor seeking new opportunities, this event offers a dynamic and engaging experience. Join us in Jakarta for an exciting day of innovation and entrepreneurship.",
+      "location": "Jakarta",
+      "ticket_type": [
+          {
+              "id": 1,
+              "name": "General Admission",
+              "price": 0,
+              "seats": 100
+          }
+      ],
+      "start_date": "2024-09-10T00:00:00.000Z",
+      "end_date": "2024-09-10T00:00:00.000Z",
+      "organizer": {
+          "id": "3",
+          "name": "Carol White",
+          "image": "https://picsum.photos/1200/800"
       },
-      {
-        "id": "28",
-        "name": "Music Concert: Rock Legends Live",
-        "detail": "Experience a night of live performances by rock music legends.",
-        "location": "Bandung",
-        "seats": 150,
-        "price": 120000,
-        "start_date": "2022-12-10T00:00:00.000Z",
-        "end_date": "2022-12-12T00:00:00.000Z",
-        "organizer": {
-          "code": "USR-002",
-          "name": "susi anggraini",
-          "image": "https://api.api-ninjas.com/v1/randomimage"
-        },
-        "category": "music",
-        "images": [
-          "https://api.api-ninjas.com/v1/randomimage",
-          "https://api.api-ninjas.com/v1/randomimage",
-          "https://api.api-ninjas.com/v1/randomimage"
-        ]
+      "category": "Business",
+      "main_image": "https://picsum.photos/1200/800"
+  },
+  {
+      "id": "26",
+      "name": "Environmental Conference",
+      "detail": "Join us for a comprehensive exploration of environmental issues at our annual environmental conference. This event brings together experts, activists, and policymakers to discuss the latest developments in environmental science, policy, and activism. You'll have the opportunity to attend keynote speeches, panel discussions, and workshops covering a wide range of topics, including climate change, conservation, and sustainable development. In addition to the formal sessions, there will be networking opportunities and exhibits showcasing innovative environmental solutions. Whether you're an environmental professional, student, or concerned citizen, this conference offers valuable insights and inspiration. Join us in Batam for a day of learning and action.",
+      "location": "Batam",
+      "ticket_type": [
+          {
+              "id": 1,
+              "name": "General Admission",
+              "price": 0,
+              "seats": 200
+          }
+      ],
+      "start_date": "2024-10-20T00:00:00.000Z",
+      "end_date": "2024-10-21T00:00:00.000Z",
+      "organizer": {
+          "id": "2",
+          "name": "Bob Smith",
+          "image": "https://picsum.photos/1200/800"
       },
-      {
-        "id": "29",
-        "name": "Cooking Workshop: French Cuisine",
-        "detail": "Master the art of French cuisine with expert chefs.",
-        "location": "Bali",
-        "seats": 100,
-        "price": 80000,
-        "start_date": "2022-12-15T00:00:00.000Z",
-        "end_date": "2022-12-17T00:00:00.000Z",
-        "organizer": {
-          "code": "USR-005",
-          "name": "michael santoso",
-          "image": "https://api.api-ninjas.com/v1/randomimage"
-        },
-        "category": "cooking",
-        "images": [
-          "https://api.api-ninjas.com/v1/randomimage",
-          "https://api.api-ninjas.com/v1/randomimage",
-          "https://api.api-ninjas.com/v1/randomimage"
-        ]
+      "category": "Environment",
+      "main_image": "https://picsum.photos/1200/800"
+  },
+  {
+      "id": "27",
+      "name": "Culinary Festival",
+      "detail": "Indulge in a gastronomic adventure at our annual culinary festival. This event features a variety of food and drink from around the world, with vendors offering everything from street food to gourmet dishes. You'll have the opportunity to taste a wide range of flavors, learn from cooking demonstrations, and participate in hands-on workshops. In addition to the food, there will be live music, entertainment, and activities for all ages. Whether you're a foodie, chef, or simply looking for a fun day out, this festival offers a delicious and entertaining experience. Join us in Bali for a celebration of culinary creativity.",
+      "location": "Bali",
+      "ticket_type": [
+          {
+              "id": 1,
+              "name": "General Admission",
+              "price": 50000,
+              "seats": 300
+          }
+      ],
+      "start_date": "2024-11-05T00:00:00.000Z",
+      "end_date": "2024-11-07T00:00:00.000Z",
+      "organizer": {
+          "id": "1",
+          "name": "Emilys Johnson",
+          "image": "https://picsum.photos/1200/800"
       },
-      {
-        "id": "30",
-        "name": "Business Seminar: Innovation in Business",
-        "detail": "Explore innovative strategies and ideas for business growth.",
-        "location": "Jakarta",
-        "seats": 120,
-        "price": 90000,
-        "start_date": "2022-12-20T00:00:00.000Z",
-        "end_date": "2022-12-22T00:00:00.000Z",
-        "organizer": {
-          "code": "USR-006",
-          "name": "andre wijaya",
-          "image": "https://api.api-ninjas.com/v1/randomimage"
-        },
-        "category": "business",
-        "images": [
-          "https://api.api-ninjas.com/v1/randomimage",
-          "https://api.api-ninjas.com/v1/randomimage",
-          "https://api.api-ninjas.com/v1/randomimage"
-        ]
+      "category": "Culinary",
+      "main_image": "https://picsum.photos/1200/800"
+  },
+  {
+      "id": "28",
+      "name": "Music Festival",
+      "detail": "Experience the thrill of live music at our annual music festival. This event features performances from a diverse lineup of artists, spanning genres from rock to electronic to indie. You'll have the opportunity to see your favorite bands, discover new music, and enjoy a range of festival activities. In addition to the music, there will be food and drink vendors, art installations, and interactive experiences. Whether you're a music lover, festival-goer, or simply looking for a fun and memorable experience, this festival offers something for everyone. Join us in Jakarta for a weekend of music and celebration.",
+      "location": "Jakarta",
+      "ticket_type": [
+          {
+              "id": 1,
+              "name": "General Admission",
+              "price": 200000,
+              "seats": 500
+          },
+          {
+              "id": 2,
+              "name": "VIP",
+              "price": 400000,
+              "seats": 100
+          },
+          {
+              "id": 3,
+              "name": "Backstage Pass",
+              "price": 600000,
+              "seats": 50
+          }
+      ],
+      "start_date": "2024-12-10T00:00:00.000Z",
+      "end_date": "2024-12-12T00:00:00.000Z",
+      "organizer": {
+          "id": "3",
+          "name": "Carol White",
+          "image": "https://picsum.photos/1200/800"
       },
-      {
-        "id": "31",
-        "name": "Film Workshop: Directing Masterclass",
-        "detail": "Gain insights into directing techniques from experienced filmmakers.",
-        "location": "Online",
-        "seats": 100,
-        "price": 80000,
-        "start_date": "2022-12-25T00:00:00.000Z",
-        "end_date": "2022-12-27T00:00:00.000Z",
-        "organizer": {
-          "code": "USR-007",
-          "name": "michael santoso",
-          "image": "https://api.api-ninjas.com/v1/randomimage"
-        },
-        "category": "film",
-        "images": [
-          "https://api.api-ninjas.com/v1/randomimage",
-          "https://api.api-ninjas.com/v1/randomimage",
-          "https://api.api-ninjas.com/v1/randomimage"
-        ]
+      "category": "Music",
+      "main_image": "https://picsum.photos/1200/800"
+  },
+  {
+      "id": "29",
+      "name": "Tech Startup Workshop",
+      "detail": "Learn how to launch and grow your tech startup at our intensive workshop. This event covers a range of topics essential for startup success, including product development, funding, marketing, and scaling. You'll hear from experienced entrepreneurs, investors, and industry experts who will share their insights and strategies. In addition to the presentations, there will be hands-on workshops, networking opportunities, and one-on-one mentoring sessions. Whether you're just starting out or looking to take your startup to the next level, this workshop offers practical knowledge and support. Join us in Batam for a transformative learning experience.",
+      "location": "Batam",
+      "ticket_type": [
+          {
+              "id": 1,
+              "name": "General Admission",
+              "price": 100000,
+              "seats": 100
+          },
+          {
+              "id": 2,
+              "name": "VIP",
+              "price": 200000,
+              "seats": 50
+          }
+      ],
+      "start_date": "2025-01-15T00:00:00.000Z",
+      "end_date": "2025-01-17T00:00:00.000Z",
+      "organizer": {
+          "id": "1",
+          "name": "Emilys Johnson",
+          "image": "https://picsum.photos/1200/800"
       },
-      {
-        "id": "32",
-        "name": "Digital Marketing Workshop: Social Media Strategies",
-        "detail": "Learn effective social media strategies for digital marketing success.",
-        "location": "Bandung",
-        "seats": 80,
-        "price": 70000,
-        "start_date": "2023-01-05T00:00:00.000Z",
-        "end_date": "2023-01-07T00:00:00.000Z",
-        "organizer": {
-          "code": "USR-008",
-          "name": "susi anggraini",
-          "image": "https://api.api-ninjas.com/v1/randomimage"
-        },
-        "category": "marketing",
-        "images": [
-          "https://api.api-ninjas.com/v1/randomimage",
-          "https://api.api-ninjas.com/v1/randomimage",
-          "https://api.api-ninjas.com/v1/randomimage"
-        ]
+      "category": "Technology",
+      "main_image": "https://picsum.photos/1200/800"
+  },
+  {
+      "id": "30",
+      "name": "Digital Marketing Bootcamp",
+      "detail": "Master the skills needed to succeed in digital marketing at our comprehensive bootcamp. This event covers a wide range of topics, including SEO, social media marketing, content marketing, email marketing, and more. You'll learn from industry experts through a combination of presentations, hands-on workshops, and case studies. In addition to the formal sessions, there will be networking opportunities and one-on-one mentoring to help you apply what you've learned. Whether you're a marketing professional looking to update your skills or a business owner seeking to improve your online presence, this bootcamp offers valuable knowledge and practical strategies. Join us online for an immersive learning experience.",
+      "location": "Online",
+      "ticket_type": [
+          {
+              "id": 1,
+              "name": "General Admission",
+              "price": 0,
+              "seats": 100
+          }
+      ],
+      "start_date": "2025-02-10T00:00:00.000Z",
+      "end_date": "2025-02-12T00:00:00.000Z",
+      "organizer": {
+          "id": "2",
+          "name": "Bob Smith",
+          "image": "https://picsum.photos/1200/800"
       },
-      {
-        "id": "33",
-        "name": "Art Exhibition: Modern Art Showcase",
-        "detail": "Experience a showcase of modern art from emerging artists.",
-        "location": "Jakarta",
-        "seats": 100,
-        "price": 80000,
-        "start_date": "2023-01-10T00:00:00.000Z",
-        "end_date": "2023-01-12T00:00:00.000Z",
-        "organizer": {
-          "code": "USR-017",
-          "name": "antonio santoso",
-          "image": "https://api.api-ninjas.com/v1/randomimage"
-        },
-        "category": "art",
-        "images": [
-          "https://api.api-ninjas.com/v1/randomimage",
-          "https://api.api-ninjas.com/v1/randomimage",
-          "https://api.api-ninjas.com/v1/randomimage"
-        ]
+      "category": "Marketing",
+      "main_image": "https://picsum.photos/1200/800"
+  },
+  {
+      "id": "31",
+      "name": "Creative Writing Workshop",
+      "detail": "Unlock your creative potential at our immersive creative writing workshop. This event offers a range of sessions focused on different aspects of writing, including fiction, non-fiction, poetry, and screenwriting. You'll learn from accomplished writers who will share their techniques, tips, and insights. In addition to the formal sessions, there will be opportunities for peer review, one-on-one mentoring, and writing exercises. Whether you're an aspiring writer or looking to hone your skills, this workshop provides a supportive and inspiring environment. Join us in Bali for a weekend of creativity and literary exploration.",
+      "location": "Bali",
+      "ticket_type": [
+          {
+              "id": 1,
+              "name": "General Admission",
+              "price": 50000,
+              "seats": 50
+          },
+          {
+              "id": 2,
+              "name": "VIP",
+              "price": 100000,
+              "seats": 20
+          }
+      ],
+      "start_date": "2025-03-05T00:00:00.000Z",
+      "end_date": "2025-03-07T00:00:00.000Z",
+      "organizer": {
+          "id": "3",
+          "name": "Carol White",
+          "image": "https://picsum.photos/1200/800"
       },
-      {
-        "id": "34",
-        "name": "Literature Seminar: Poets and Writers Forum",
-        "detail": "Join discussions with poets and writers on contemporary literature.",
-        "location": "Bandung",
-        "seats": 120,
-        "price": 90000,
-        "start_date": "2023-01-15T00:00:00.000Z",
-        "end_date": "2023-01-17T00:00:00.000Z",
-        "organizer": {
-          "code": "USR-018",
-          "name": "susi anggraini",
-          "image": "https://api.api-ninjas.com/v1/randomimage"
-        },
-        "category": "literature",
-        "images": [
-          "https://api.api-ninjas.com/v1/randomimage",
-          "https://api.api-ninjas.com/v1/randomimage",
-          "https://api.api-ninjas.com/v1/randomimage"
-        ]
+      "category": "Literature",
+      "main_image": "https://picsum.photos/1200/800"
+  },
+  {
+      "id": "32",
+      "name": "Health and Wellness Expo",
+      "detail": "Discover the latest trends and innovations in health and wellness at our annual expo. This event features a variety of exhibitors showcasing products and services related to fitness, nutrition, mental health, and more. You'll have the opportunity to attend workshops, participate in fitness classes, and receive health screenings. In addition to the exhibitor booths, there will be keynote speeches and panel discussions from experts in the health and wellness industry. Whether you're looking to improve your own health or work in the wellness field, this expo offers valuable information and resources. Join us in Jakarta for a comprehensive exploration of health and wellness.",
+      "location": "Jakarta",
+      "ticket_type": [
+          {
+              "id": 1,
+              "name": "General Admission",
+              "price": 0,
+              "seats": 200
+          }
+      ],
+      "start_date": "2025-04-10T00:00:00.000Z",
+      "end_date": "2025-04-12T00:00:00.000Z",
+      "organizer": {
+          "id": "1",
+          "name": "Emilys Johnson",
+          "image": "https://picsum.photos/1200/800"
       },
-      {
-        "id": "35",
-        "name": "Fitness Workshop: Yoga and Mindfulness",
-        "detail": "Learn yoga and mindfulness techniques for a healthier lifestyle.",
-        "location": "Jakarta",
-        "seats": 80,
-        "price": 70000,
-        "start_date": "2023-01-20T00:00:00.000Z",
-        "end_date": "2023-01-22T00:00:00.000Z",
-        "organizer": {
-          "code": "USR-019",
-          "name": "michael santoso",
-          "image": "https://api.api-ninjas.com/v1/randomimage"
-        },
-        "category": "fitness",
-        "images": [
-          "https://api.api-ninjas.com/v1/randomimage",
-          "https://api.api-ninjas.com/v1/randomimage",
-          "https://api.api-ninjas.com/v1/randomimage"
-        ]
+      "category": "Health & Wellness",
+      "main_image": "https://picsum.photos/1200/800"
+  },
+  {
+      "id": "33",
+      "name": "Sustainability Forum",
+      "detail": "Join us for a comprehensive discussion on sustainability at our annual forum. This event brings together experts, activists, and policymakers to explore the latest developments in sustainable practices and technologies. You'll have the opportunity to attend keynote speeches, panel discussions, and workshops covering a wide range of topics, including renewable energy, sustainable agriculture, and green building. In addition to the formal sessions, there will be networking opportunities and exhibits showcasing innovative solutions. Whether you're a sustainability professional, student, or concerned citizen, this forum offers valuable insights and inspiration. Join us in Batam for a day of learning and action.",
+      "location": "Batam",
+      "ticket_type": [
+          {
+              "id": 1,
+              "name": "General Admission",
+              "price": 0,
+              "seats": 150
+          }
+      ],
+      "start_date": "2025-05-15T00:00:00.000Z",
+      "end_date": "2025-05-16T00:00:00.000Z",
+      "organizer": {
+          "id": "3",
+          "name": "Carol White",
+          "image": "https://picsum.photos/1200/800"
       },
-      {
-        "id": "36",
-        "name": "Tech Summit: AI and Machine Learning",
-        "detail": "Explore the latest advancements in AI and machine learning technologies.",
-        "location": "Online",
-        "seats": 100,
-        "price": 80000,
-        "start_date": "2023-01-25T00:00:00.000Z",
-        "end_date": "2023-01-27T00:00:00.000Z",
-        "organizer": {
-          "code": "USR-020",
-          "name": "andre wijaya",
-          "image": "https://api.api-ninjas.com/v1/randomimage"
-        },
-        "category": "technology",
-        "images": [
-          "https://api.api-ninjas.com/v1/randomimage",
-          "https://api.api-ninjas.com/v1/randomimage",
-          "https://api.api-ninjas.com/v1/randomimage"
-        ]
+      "category": "Environment",
+      "main_image": "https://picsum.photos/1200/800"
+  },
+  {
+      "id": "34",
+      "name": "Tech Innovators Conference",
+      "detail": "Explore the future of technology at our annual tech innovators conference. This event brings together leading minds in the tech industry to discuss the latest advancements and trends. You'll have the opportunity to attend keynote speeches, panel discussions, and workshops on topics such as artificial intelligence, blockchain, and cybersecurity. In addition to the formal sessions, there will be networking opportunities and exhibits showcasing cutting-edge technologies. Whether you're a tech professional, entrepreneur, or enthusiast, this conference offers valuable insights and inspiration. Join us in Jakarta for a dynamic and engaging exploration of technology.",
+      "location": "Jakarta",
+      "ticket_type": [
+          {
+              "id": 1,
+              "name": "General Admission",
+              "price": 0,
+              "seats": 300
+          }
+      ],
+      "start_date": "2025-06-10T00:00:00.000Z",
+      "end_date": "2025-06-12T00:00:00.000Z",
+      "organizer": {
+          "id": "2",
+          "name": "Bob Smith",
+          "image": "https://picsum.photos/1200/800"
       },
-      {
-        "id": "37",
-        "name": "Art Workshop: Photography Techniques",
-        "detail": "Learn advanced photography techniques and skills.",
-        "location": "Bandung",
-        "seats": 80,
-        "price": 70000,
-        "start_date": "2023-02-05T00:00:00.000Z",
-        "end_date": "2023-02-07T00:00:00.000Z",
-        "organizer": {
-          "code": "USR-021",
-          "name": "antonio santoso",
-          "image": "https://api.api-ninjas.com/v1/randomimage"
-        },
-        "category": "art",
-        "images": [
-          "https://api.api-ninjas.com/v1/randomimage",
-          "https://api.api-ninjas.com/v1/randomimage",
-          "https://api.api-ninjas.com/v1/randomimage"
-        ]
+      "category": "Technology",
+      "main_image": "https://picsum.photos/1200/800"
+  },
+  {
+      "id": "35",
+      "name": "Photography Workshop",
+      "detail": "Enhance your photography skills at our immersive workshop. This event offers a range of sessions covering different aspects of photography, including composition, lighting, and post-processing. You'll learn from experienced photographers who will share their techniques, tips, and insights. In addition to the formal sessions, there will be hands-on practice, peer review, and one-on-one mentoring. Whether you're a beginner or looking to take your skills to the next level, this workshop provides a supportive and inspiring environment. Join us in Bali for a weekend of creativity and learning.",
+      "location": "Bali",
+      "ticket_type": [
+          {
+              "id": 1,
+              "name": "General Admission",
+              "price": 50000,
+              "seats": 50
+          },
+          {
+              "id": 2,
+              "name": "VIP",
+              "price": 100000,
+              "seats": 20
+          }
+      ],
+      "start_date": "2025-07-05T00:00:00.000Z",
+      "end_date": "2025-07-07T00:00:00.000Z",
+      "organizer": {
+          "id": "3",
+          "name": "Carol White",
+          "image": "https://picsum.photos/1200/800"
       },
-      {
-        "id": "38",
-        "name": "Music Concert: Jazz Night",
-        "detail": "Enjoy an evening of jazz music performed by talented musicians.",
-        "location": "Jakarta",
-        "seats": 150,
-        "price": 120000,
-        "start_date": "2023-02-10T00:00:00.000Z",
-        "end_date": "2023-02-12T00:00:00.000Z",
-        "organizer": {
-          "code": "USR-002",
-          "name": "susi anggraini",
-          "image": "https://api.api-ninjas.com/v1/randomimage"
-        },
-        "category": "music",
-        "images": [
-          "https://api.api-ninjas.com/v1/randomimage",
-          "https://api.api-ninjas.com/v1/randomimage",
-          "https://api.api-ninjas.com/v1/randomimage"
-        ]
+      "category": "Photography",
+      "main_image": "https://picsum.photos/1200/800"
+  },
+  {
+      "id": "36",
+      "name": "Fashion Show",
+      "detail": "Witness the latest trends and designs at our annual fashion show. This event features collections from renowned designers as well as up-and-coming talent. You'll have the opportunity to see the latest fashion trends, meet designers, and enjoy a night of glamour and style. In addition to the runway shows, there will be pop-up shops, networking opportunities, and after-parties. Whether you're a fashion enthusiast, industry professional, or simply looking for a night out, this event offers a stylish and entertaining experience. Join us in Jakarta for a celebration of fashion and creativity.",
+      "location": "Jakarta",
+      "ticket_type": [
+          {
+              "id": 1,
+              "name": "General Admission",
+              "price": 0,
+              "seats": 200
+          }
+      ],
+      "start_date": "2025-08-01T00:00:00.000Z",
+      "end_date": "2025-08-01T00:00:00.000Z",
+      "organizer": {
+          "id": "1",
+          "name": "Emilys Johnson",
+          "image": "https://picsum.photos/1200/800"
       },
-      {
-        "id": "39",
-        "name": "Cooking Workshop: Thai Cuisine",
-        "detail": "Explore the flavors of Thai cuisine with expert chefs.",
-        "location": "Bali",
-        "seats": 100,
-        "price": 80000,
-        "start_date": "2023-02-15T00:00:00.000Z",
-        "end_date": "2023-02-17T00:00:00.000Z",
-        "organizer": {
-          "code": "USR-005",
-          "name": "michael santoso",
-          "image": "https://api.api-ninjas.com/v1/randomimage"
-        },
-        "category": "cooking",
-        "images": [
-          "https://api.api-ninjas.com/v1/randomimage",
-          "https://api.api-ninjas.com/v1/randomimage",
-          "https://api.api-ninjas.com/v1/randomimage"
-        ]
+      "category": "Fashion",
+      "main_image": "https://picsum.photos/1200/800"
+  },
+  {
+      "id": "37",
+      "name": "Startup Accelerator Program",
+      "detail": "Take your startup to the next level with our intensive accelerator program. This event offers a range of resources and support to help you grow your business, including mentoring, funding opportunities, and workshops. You'll have the opportunity to work with experienced entrepreneurs and investors who will provide guidance and feedback. In addition to the formal sessions, there will be networking opportunities and one-on-one mentoring. Whether you're just starting out or looking to scale your business, this program offers valuable knowledge and support. Join us in Batam for a transformative learning experience.",
+      "location": "Batam",
+      "ticket_type": [
+          {
+              "id": 1,
+              "name": "General Admission",
+              "price": 100000,
+              "seats": 50
+          },
+          {
+              "id": 2,
+              "name": "VIP",
+              "price": 200000,
+              "seats": 20
+          }
+      ],
+      "start_date": "2025-09-10T00:00:00.000Z",
+      "end_date": "2025-09-15T00:00:00.000Z",
+      "organizer": {
+          "id": "2",
+          "name": "Bob Smith",
+          "image": "https://picsum.photos/1200/800"
       },
-      {
-        "id": "40",
-        "name": "Business Seminar: Financial Strategies",
-        "detail": "Learn effective financial strategies for business growth and stability.",
-        "location": "Jakarta",
-        "seats": 120,
-        "price": 90000,
-        "start_date": "2023-02-20T00:00:00.000Z",
-        "end_date": "2023-02-22T00:00:00.000Z",
-        "organizer": {
-          "code": "USR-006",
-          "name": "andre wijaya",
-          "image": "https://api.api-ninjas.com/v1/randomimage"
-        },
-        "category": "business",
-        "images": [
-          "https://api.api-ninjas.com/v1/randomimage",
-          "https://api.api-ninjas.com/v1/randomimage",
-          "https://api.api-ninjas.com/v1/randomimage"
-        ]
+      "category": "Business",
+      "main_image": "https://picsum.photos/1200/800"
+  },
+  {
+      "id": "38",
+      "name": "Film Making Workshop",
+      "detail": "Learn the art of filmmaking at our comprehensive workshop. This event covers a wide range of topics, including scriptwriting, directing, cinematography, and editing. You'll learn from experienced filmmakers who will share their techniques, tips, and insights. In addition to the formal sessions, there will be hands-on practice, peer review, and one-on-one mentoring. Whether you're an aspiring filmmaker or looking to hone your skills, this workshop provides a supportive and inspiring environment. Join us in Bali for a weekend of creativity and learning.",
+      "location": "Bali",
+      "ticket_type": [
+          {
+              "id": 1,
+              "name": "General Admission",
+              "price": 100000,
+              "seats": 50
+          },
+          {
+              "id": 2,
+              "name": "VIP",
+              "price": 200000,
+              "seats": 20
+          },
+          {
+              "id": 3,
+              "name": "Backstage Pass",
+              "price": 300000,
+              "seats": 10
+          }
+      ],
+      "start_date": "2025-10-05T00:00:00.000Z",
+      "end_date": "2025-10-07T00:00:00.000Z",
+      "organizer": {
+          "id": "3",
+          "name": "Carol White",
+          "image": "https://picsum.photos/1200/800"
       },
-      {
-        "id": "41",
-        "name": "Film Festival: Classic Cinema Rediscovered",
-        "detail": "Rediscover classic cinema with a curated selection of timeless films.",
-        "location": "Online",
-        "seats": 100,
-        "price": 80000,
-        "start_date": "2023-02-25T00:00:00.000Z",
-        "end_date": "2023-02-27T00:00:00.000Z",
-        "organizer": {
-          "code": "USR-007",
-          "name": "michael santoso",
-          "image": "https://api.api-ninjas.com/v1/randomimage"
-        },
-        "category": "film",
-        "images": [
-          "https://api.api-ninjas.com/v1/randomimage",
-          "https://api.api-ninjas.com/v1/randomimage",
-          "https://api.api-ninjas.com/v1/randomimage"
-        ]
+      "category": "Film",
+      "main_image": "https://picsum.photos/1200/800"
+  },
+  {
+      "id": "39",
+      "name": "Blockchain Summit",
+      "detail": "Explore the future of blockchain technology at our annual summit. This event brings together leading experts and innovators to discuss the latest developments and trends in blockchain. You'll have the opportunity to attend keynote speeches, panel discussions, and workshops on topics such as cryptocurrency, smart contracts, and decentralized applications. In addition to the formal sessions, there will be networking opportunities and exhibits showcasing cutting-edge blockchain solutions. Whether you're a blockchain professional, investor, or enthusiast, this summit offers valuable insights and inspiration. Join us in Jakarta for a dynamic and engaging exploration of blockchain technology.",
+      "location": "Jakarta",
+      "ticket_type": [
+          {
+              "id": 1,
+              "name": "General Admission",
+              "price": 0,
+              "seats": 300
+          }
+      ],
+      "start_date": "2025-11-10T00:00:00.000Z",
+      "end_date": "2025-11-12T00:00:00.000Z",
+      "organizer": {
+          "id": "2",
+          "name": "Bob Smith",
+          "image": "https://picsum.photos/1200/800"
       },
-      {
-        "id": "42",
-        "name": "Digital Marketing Workshop: Content Creation Strategies",
-        "detail": "Master effective content creation strategies for digital marketing campaigns.",
-        "location": "Bandung",
-        "seats": 80,
-        "price": 70000,
-        "start_date": "2023-03-05T00:00:00.000Z",
-        "end_date": "2023-03-07T00:00:00.000Z",
-        "organizer": {
-          "code": "USR-008",
-          "name": "susi anggraini",
-          "image": "https://api.api-ninjas.com/v1/randomimage"
+      "category": "Technology",
+      "main_image": "https://picsum.photos/1200/800"
+  },
+  {
+    "id": "40",
+    "name": "Digital Art Workshop",
+    "detail": "Enhance your digital art skills at our immersive workshop. This event offers a range of sessions covering different aspects of digital art, including drawing, painting, and 3D modeling. You'll learn from experienced digital artists who will share their techniques, tips, and insights. In addition to the formal sessions, there will be hands-on practice, peer review, and one-on-one mentoring. Whether you're a beginner or looking to take your skills to the next level, this workshop provides a supportive and inspiring environment. Join us in Bali for a creative experience.",
+    "location": "Bali",
+    "ticket_type": [
+        {
+            "id": 1,
+            "name": "General Admission",
+            "price": 100000,
+            "seats": 50
         },
-        "category": "marketing",
-        "images": [
-          "https://api.api-ninjas.com/v1/randomimage",
-          "https://api.api-ninjas.com/v1/randomimage",
-          "https://api.api-ninjas.com/v1/randomimage"
-        ]
-      },
-      {
-        "id": "43",
-        "name": "Art Exhibition: Contemporary Art Showcase",
-        "detail": "Experience a showcase of contemporary art from emerging and established artists.",
-        "location": "Jakarta",
-        "seats": 100,
-        "price": 80000,
-        "start_date": "2023-03-10T00:00:00.000Z",
-        "end_date": "2023-03-12T00:00:00.000Z",
-        "organizer": {
-          "code": "USR-017",
-          "name": "antonio santoso",
-          "image": "https://api.api-ninjas.com/v1/randomimage"
-        },
-        "category": "art",
-        "images": [
-          "https://api.api-ninjas.com/v1/randomimage",
-          "https://api.api-ninjas.com/v1/randomimage",
-          "https://api.api-ninjas.com/v1/randomimage"
-        ]
-      },
-      {
-        "id": "44",
-        "name": "Literature Seminar: Fiction and Poetry Symposium",
-        "detail": "Participate in discussions and presentations on fiction and poetry.",
-        "location": "Bandung",
-        "seats": 120,
-        "price": 90000,
-        "start_date": "2023-03-15T00:00:00.000Z",
-        "end_date": "2023-03-17T00:00:00.000Z",
-        "organizer": {
-          "code": "USR-018",
-          "name": "susi anggraini",
-          "image": "https://api.api-ninjas.com/v1/randomimage"
-        },
-        "category": "literature",
-        "images": [
-          "https://api.api-ninjas.com/v1/randomimage",
-          "https://api.api-ninjas.com/v1/randomimage",
-          "https://api.api-ninjas.com/v1/randomimage"
-        ]
-      },
-      {
-        "id": "45",
-        "name": "Fitness Workshop: Cardio and Strength Training",
-        "detail": "Learn effective cardio and strength training techniques.",
-        "location": "Jakarta",
-        "seats": 80,
-        "price": 70000,
-        "start_date": "2023-03-20T00:00:00.000Z",
-        "end_date": "2023-03-22T00:00:00.000Z",
-        "organizer": {
-          "code": "USR-019",
-          "name": "michael santoso",
-          "image": "https://api.api-ninjas.com/v1/randomimage"
-        },
-        "category": "fitness",
-        "images": [
-          "https://api.api-ninjas.com/v1/randomimage",
-          "https://api.api-ninjas.com/v1/randomimage",
-          "https://api.api-ninjas.com/v1/randomimage"
-        ]
-      },
-      {
-        "id": "46",
-        "name": "Tech Summit: Blockchain and Cryptocurrency",
-        "detail": "Explore the latest developments in blockchain and cryptocurrency.",
-        "location": "Online",
-        "seats": 100,
-        "price": 80000,
-        "start_date": "2023-03-25T00:00:00.000Z",
-        "end_date": "2023-03-27T00:00:00.000Z",
-        "organizer": {
-          "code": "USR-020",
-          "name": "andre wijaya",
-          "image": "https://api.api-ninjas.com/v1/randomimage"
-        },
-        "category": "technology",
-        "images": [
-          "https://api.api-ninjas.com/v1/randomimage",
-          "https://api.api-ninjas.com/v1/randomimage",
-          "https://api.api-ninjas.com/v1/randomimage"
-        ]
-      },
-      {
-        "id": "47",
-        "name": "Art Workshop: Oil Painting Techniques",
-        "detail": "Learn advanced oil painting techniques and methods.",
-        "location": "Bandung",
-        "seats": 80,
-        "price": 70000,
-        "start_date": "2023-04-05T00:00:00.000Z",
-        "end_date": "2023-04-07T00:00:00.000Z",
-        "organizer": {
-          "code": "USR-021",
-          "name": "antonio santoso",
-          "image": "https://api.api-ninjas.com/v1/randomimage"
-        },
-        "category": "art",
-        "images": [
-          "https://api.api-ninjas.com/v1/randomimage",
-          "https://api.api-ninjas.com/v1/randomimage",
-          "https://api.api-ninjas.com/v1/randomimage"
-        ]
-      },
-      {
-        "id": "48",
-        "name": "Music Concert: Classical Symphony",
-        "detail": "Enjoy a classical music concert featuring symphonic masterpieces.",
-        "location": "Jakarta",
-        "seats": 150,
-        "price": 120000,
-        "start_date": "2023-04-10T00:00:00.000Z",
-        "end_date": "2023-04-12T00:00:00.000Z",
-        "organizer": {
-          "code": "USR-002",
-          "name": "susi anggraini",
-          "image": "https://api.api-ninjas.com/v1/randomimage"
-        },
-        "category": "music",
-        "images": [
-          "https://api.api-ninjas.com/v1/randomimage",
-          "https://api.api-ninjas.com/v1/randomimage",
-          "https://api.api-ninjas.com/v1/randomimage"
-        ]
-      },
-      {
-        "id": "49",
-        "name": "Cooking Workshop: Japanese Cuisine",
-        "detail": "Discover the art of Japanese cuisine with skilled chefs.",
-        "location": "Bali",
-        "seats": 100,
-        "price": 80000,
-        "start_date": "2023-04-15T00:00:00.000Z",
-        "end_date": "2023-04-17T00:00:00.000Z",
-        "organizer": {
-          "code": "USR-005",
-          "name": "michael santoso",
-          "image": "https://api.api-ninjas.com/v1/randomimage"
-        },
-        "category": "cooking",
-        "images": [
-          "https://api.api-ninjas.com/v1/randomimage",
-          "https://api.api-ninjas.com/v1/randomimage",
-          "https://api.api-ninjas.com/v1/randomimage"
-        ]
-      },
-      {
-        "id": "50",
-        "name": "Business Seminar: Leadership Strategies",
-        "detail": "Learn effective leadership strategies for professional growth and development.",
-        "location": "Jakarta",
-        "seats": 120,
-        "price": 90000,
-        "start_date": "2023-04-20T00:00:00.000Z",
-        "end_date": "2023-04-22T00:00:00.000Z",
-        "organizer": {
-          "code": "USR-006",
-          "name": "andre wijaya",
-          "image": "https://api.api-ninjas.com/v1/randomimage"
-        },
-        "category": "business",
-        "images": [
-          "https://api.api-ninjas.com/v1/randomimage",
-          "https://api.api-ninjas.com/v1/randomimage",
-          "https://api.api-ninjas.com/v1/randomimage"
-        ]
-      }
+        {
+            "id": 2,
+            "name": "VIP",
+            "price": 200000,
+            "seats": 20
+        }
     ],
+    "start_date": "2025-11-01T00:00:00.000Z",
+    "end_date": "2025-11-03T00:00:00.000Z",
+    "organizer": {
+        "id": "3",
+        "name": "Carol White",
+        "image": "https://picsum.photos/1200/800"
+    },
+    "category": "Art",
+    "main_image": "https://picsum.photos/1200/800"
+},
+{
+    "id": "41",
+    "name": "AI and Machine Learning Summit",
+    "detail": "Dive into the future of technology at our AI and Machine Learning Summit. This event gathers leading experts and innovators in the field to discuss cutting-edge advancements, trends, and applications in AI and machine learning. Attendees will have the opportunity to engage in keynote speeches, panel discussions, and hands-on workshops that explore the latest tools and techniques. Whether you're an industry professional, researcher, or enthusiast, this summit offers invaluable insights and networking opportunities. Join us in Jakarta for a transformative experience.",
+    "location": "Jakarta",
+    "ticket_type": [
+        {
+            "id": 1,
+            "name": "General Admission",
+            "price": 0,
+            "seats": 300
+        },
+        {
+            "id": 2,
+            "name": "Premium Access",
+            "price": 250000,
+            "seats": 100
+        }
+    ],
+    "start_date": "2025-12-01T00:00:00.000Z",
+    "end_date": "2025-12-03T00:00:00.000Z",
+    "organizer": {
+        "id": "2",
+        "name": "Bob Smith",
+        "image": "https://picsum.photos/1200/800"
+    },
+    "category": "Technology",
+    "main_image": "https://picsum.photos/1200/800"
+},
+{
+    "id": "42",
+    "name": "Culinary Arts Festival",
+    "detail": "Join us for a celebration of culinary creativity at our Culinary Arts Festival. This event showcases a variety of food and beverage trends, featuring renowned chefs, local vendors, and interactive cooking demonstrations. Attendees will have the chance to sample delicious dishes, attend workshops, and engage with industry experts. Whether you're a food lover or aspiring chef, this festival offers a unique opportunity to learn, taste, and connect. Join us in Bali for a flavorful experience.",
+    "location": "Bali",
+    "ticket_type": [
+        {
+            "id": 1,
+            "name": "General Admission",
+            "price": 0,
+            "seats": 400
+        },
+        {
+            "id": 2,
+            "name": "VIP Experience",
+            "price": 150000,
+            "seats": 50
+        }
+    ],
+    "start_date": "2026-01-10T00:00:00.000Z",
+    "end_date": "2026-01-12T00:00:00.000Z",
+    "organizer": {
+        "id": "1",
+        "name": "Emilys Johnson",
+        "image": "https://picsum.photos/1200/800"
+    },
+    "category": "Culinary",
+    "main_image": "https://picsum.photos/1200/800"
+},
+{
+    "id": "43",
+    "name": "Virtual Reality Expo",
+    "detail": "Step into the future of immersive technology at our Virtual Reality Expo. This event will showcase the latest advancements in virtual and augmented reality, featuring demonstrations from industry leaders and innovators. Attendees will have the chance to experience cutting-edge VR applications, attend workshops, and participate in panel discussions on the future of the technology. Whether you're a tech enthusiast or industry professional, this expo offers a unique opportunity to explore the potential of virtual reality. Join us online for an unforgettable experience.",
+    "location": "Online",
+    "ticket_type": [
+        {
+            "id": 1,
+            "name": "Free Access",
+            "price": 0,
+            "seats": 500
+        }
+    ],
+    "start_date": "2026-02-15T00:00:00.000Z",
+    "end_date": "2026-02-17T00:00:00.000Z",
+    "organizer": {
+        "id": "3",
+        "name": "Carol White",
+        "image": "https://picsum.photos/1200/800"
+    },
+    "category": "Technology",
+    "main_image": "https://picsum.photos/1200/800"
+},
+{
+    "id": "44",
+    "name": "International Coding Bootcamp",
+    "detail": "Elevate your coding skills at our International Coding Bootcamp. This event is designed for developers of all levels, offering a wide range of workshops and sessions that cover various programming languages, frameworks, and best practices. Attendees will benefit from hands-on coding sessions, mentorship opportunities, and networking with fellow developers. Whether you're looking to start a new career in tech or enhance your existing skills, this bootcamp provides invaluable resources and knowledge. Join us in Jakarta for an empowering coding experience.",
+    "location": "Jakarta",
+    "ticket_type": [
+        {
+            "id": 1,
+            "name": "General Admission",
+            "price": 200000,
+            "seats": 300
+        },
+        {
+            "id": 2,
+            "name": "VIP Pass",
+            "price": 400000,
+            "seats": 100
+        }
+    ],
+    "start_date": "2026-03-20T00:00:00.000Z",
+    "end_date": "2026-03-22T00:00:00.000Z",
+    "organizer": {
+        "id": "2",
+        "name": "Bob Smith",
+        "image": "https://picsum.photos/1200/800"
+    },
+    "category": "Technology",
+    "main_image": "https://picsum.photos/1200/800"
+},
+{
+    "id": "45",
+    "name": "Global Entrepreneurship Summit",
+    "detail": "Join us at the Global Entrepreneurship Summit, where innovative minds come together to discuss trends, challenges, and opportunities in entrepreneurship. This event features inspiring keynote speeches, interactive panel discussions, and networking opportunities that connect aspiring entrepreneurs with industry leaders. Attendees will gain valuable insights into launching and scaling businesses in today's dynamic landscape. Whether you're an established entrepreneur or just starting out, this summit provides the tools and connections you need for success. Join us in Batam for an impactful experience.",
+    "location": "Batam",
+    "ticket_type": [
+        {
+            "id": 1,
+            "name": "General Admission",
+            "price": 0,
+            "seats": 500
+        }
+    ],
+    "start_date": "2026-04-15T00:00:00.000Z",
+    "end_date": "2026-04-17T00:00:00.000Z",
+    "organizer": {
+        "id": "1",
+        "name": "Emilys Johnson",
+        "image": "https://picsum.photos/1200/800"
+    },
+    "category": "Business",
+    "main_image": "https://picsum.photos/1200/800"
+},
+{
+    "id": "46",
+    "name": "Digital Transformation Forum",
+    "detail": "Explore the world of digital transformation at our annual forum. This event brings together experts, businesses, and innovators to discuss strategies and technologies that drive digital change. Attendees will have the opportunity to participate in keynote speeches, workshops, and networking events that explore real-world case studies and successful digital initiatives. Whether you're a business leader, IT professional, or tech enthusiast, this forum provides valuable insights into navigating the digital landscape. Join us in Jakarta for a forward-thinking experience.",
+    "location": "Jakarta",
+    "ticket_type": [
+        {
+            "id": 1,
+            "name": "General Admission",
+            "price": 0,
+            "seats": 200
+        }
+    ],
+    "start_date": "2026-05-10T00:00:00.000Z",
+    "end_date": "2026-05-12T00:00:00.000Z",
+    "organizer": {
+        "id": "2",
+        "name": "Bob Smith",
+        "image": "https://picsum.photos/1200/800"
+    },
+    "category": "Technology",
+    "main_image": "https://picsum.photos/1200/800"
+},
+{
+    "id": "47",
+    "name": "Music and Arts Festival",
+    "detail": "Celebrate the fusion of music and art at our vibrant festival. This event features live performances from talented musicians, interactive art installations, and engaging workshops that explore the intersection of creativity. Attendees will have the chance to enjoy diverse musical genres, participate in artistic activities, and connect with fellow creatives. Whether you're a music lover, artist, or simply looking for a fun day out, this festival offers an unforgettable experience. Join us in Bali for a weekend of artistic celebration.",
+    "location": "Bali",
+    "ticket_type": [
+        {
+            "id": 1,
+            "name": "General Admission",
+            "price": 100000,
+            "seats": 100
+        },
+        {
+            "id": 2,
+            "name": "VIP Pass",
+            "price": 250000,
+            "seats": 50
+        }
+    ],
+    "start_date": "2026-06-01T00:00:00.000Z",
+    "end_date": "2026-06-03T00:00:00.000Z",
+    "organizer": {
+        "id": "3",
+        "name": "Carol White",
+        "image": "https://picsum.photos/1200/800"
+    },
+    "category": "Music",
+    "main_image": "https://picsum.photos/1200/800"
+},
+{
+    "id": "48",
+    "name": "Blockchain Developer Conference",
+    "detail": "Join us for the Blockchain Developer Conference, where industry leaders gather to discuss the future of blockchain technology and its applications. This event features expert speakers, hands-on workshops, and networking opportunities that connect developers with innovators in the blockchain space. Attendees will gain insights into emerging trends, best practices, and the latest developments in blockchain technology. Whether you're a seasoned developer or new to the field, this conference offers valuable knowledge and connections. Join us in Jakarta for an enlightening experience.",
+    "location": "Jakarta",
+    "ticket_type": [
+        {
+            "id": 1,
+            "name": "General Admission",
+            "price": 0,
+            "seats": 300
+        },
+        {
+            "id": 2,
+            "name": "Developer Pass",
+            "price": 200000,
+            "seats": 100
+        }
+    ],
+    "start_date": "2026-07-10T00:00:00.000Z",
+    "end_date": "2026-07-12T00:00:00.000Z",
+    "organizer": {
+        "id": "2",
+        "name": "Bob Smith",
+        "image": "https://picsum.photos/1200/800"
+    },
+    "category": "Technology",
+    "main_image": "https://picsum.photos/1200/800"
+},
+{
+    "id": "49",
+    "name": "E-Sports Championship",
+    "detail": "Join the ultimate showdown at our E-Sports Championship. This event brings together top teams from around the world to compete in thrilling matches across various popular games. Attendees will have the opportunity to witness live competitions, participate in meet-and-greets with gamers, and enjoy exciting activities. Whether you're a hardcore gamer or a casual fan, this championship offers an electrifying atmosphere and a chance to cheer for your favorite teams. Join us in Jakarta for a spectacular gaming event.",
+    "location": "Jakarta",
+    "ticket_type": [
+        {
+            "id": 1,
+            "name": "General Admission",
+            "price": 0,
+            "seats": 500
+        },
+        {
+            "id": 2,
+            "name": "VIP Experience",
+            "price": 150000,
+            "seats": 100
+        }
+    ],
+    "start_date": "2026-08-01T00:00:00.000Z",
+    "end_date": "2026-08-03T00:00:00.000Z",
+    "organizer": {
+        "id": "3",
+        "name": "Carol White",
+        "image": "https://picsum.photos/1200/800"
+    },
+    "category": "Gaming",
+    "main_image": "https://picsum.photos/1200/800"
+},
+{
+    "id": "50",
+    "name": "Health and Wellness Expo",
+    "detail": "Explore the latest trends in health and wellness at our annual expo. This event features expert speakers, interactive workshops, and a wide range of exhibitors showcasing innovative health products and services. Attendees will learn about various aspects of health, from nutrition to mental well-being, and have the chance to participate in engaging activities. Whether you're a health enthusiast or simply looking to improve your well-being, this expo offers valuable insights and inspiration. Join us in Bali for a rejuvenating experience.",
+    "location": "Bali",
+    "ticket_type": [
+        {
+            "id": 1,
+            "name": "General Admission",
+            "price": 0,
+            "seats": 200
+        }
+    ],
+    "start_date": "2026-09-15T00:00:00.000Z",
+    "end_date": "2026-09-17T00:00:00.000Z",
+    "organizer": {
+        "id": "1",
+        "name": "Emilys Johnson",
+        "image": "https://picsum.photos/1200/800"
+    },
+    "category": "Health",
+    "main_image": "https://picsum.photos/1200/800"
+},
+{
+    "id": "51",
+    "name": "Artificial Intelligence Hackathon",
+    "detail": "Compete and innovate at our Artificial Intelligence Hackathon. This event invites developers, engineers, and tech enthusiasts to collaborate on projects that leverage AI technology. Participants will work in teams to solve challenges, create prototypes, and showcase their solutions. In addition to coding, there will be mentorship, networking opportunities, and workshops to enhance skills. Whether you're an experienced developer or new to AI, this hackathon offers a vibrant environment for creativity and collaboration. Join us in Jakarta for an exhilarating experience.",
+    "location": "Jakarta",
+    "ticket_type": [
+        {
+            "id": 1,
+            "name": "Team Entry",
+            "price": 0,
+            "seats": 10
+        }
+    ],
+    "start_date": "2026-10-01T00:00:00.000Z",
+    "end_date": "2026-10-03T00:00:00.000Z",
+    "organizer": {
+        "id": "2",
+        "name": "Bob Smith",
+        "image": "https://picsum.photos/1200/800"
+    },
+    "category": "Technology",
+    "main_image": "https://picsum.photos/1200/800"
+},
+{
+    "id": "52",
+    "name": "Annual Marketing Conference",
+    "detail": "Join us at the Annual Marketing Conference, where marketing professionals gather to explore the latest trends, strategies, and tools in the industry. This event features keynote speakers, panel discussions, and workshops that cover various aspects of marketing, from digital strategies to brand management. Attendees will have the chance to network with industry leaders and gain valuable insights into enhancing their marketing efforts. Whether you're a seasoned marketer or new to the field, this conference offers essential knowledge and connections. Join us in Batam for an insightful experience.",
+    "location": "Batam",
+    "ticket_type": [
+        {
+            "id": 1,
+            "name": "General Admission",
+            "price": 100000,
+            "seats": 300
+        },
+        {
+            "id": 2,
+            "name": "VIP Access",
+            "price": 250000,
+            "seats": 100
+        }
+    ],
+    "start_date": "2026-11-15T00:00:00.000Z",
+    "end_date": "2026-11-17T00:00:00.000Z",
+    "organizer": {
+        "id": "3",
+        "name": "Carol White",
+        "image": "https://picsum.photos/1200/800"
+    },
+    "category": "Marketing",
+    "main_image": "https://picsum.photos/1200/800"
+},
+{
+    "id": "53",
+    "name": "Cybersecurity Awareness Day",
+    "detail": "Participate in Cybersecurity Awareness Day and learn about the importance of online security. This event features expert speakers, interactive workshops, and discussions on best practices for protecting personal and organizational data. Attendees will gain insights into the latest trends in cybersecurity and how to stay safe in an increasingly digital world. Whether you're a tech professional or just looking to improve your online safety, this event provides essential knowledge and resources. Join us online for a crucial learning experience.",
+    "location": "Online",
+    "ticket_type": [
+        {
+            "id": 1,
+            "name": "Free Entry",
+            "price": 0,
+            "seats": 500
+        }
+    ],
+    "start_date": "2026-12-10T00:00:00.000Z",
+    "end_date": "2026-12-12T00:00:00.000Z",
+    "organizer": {
+        "id": "1",
+        "name": "Emilys Johnson",
+        "image": "https://picsum.photos/1200/800"
+    },
+    "category": "Cybersecurity",
+    "main_image": "https://picsum.photos/1200/800"
+}
+]
+,
   "categories": [
-    {
-      "id": 1,
-      "code": "CAT-001",
-      "name": "Art",
-      "parent": null,
-      "image": "https://picsum.photos/seed/picsum/200"
-    },
-    {
-      "id": 2,
-      "code": "CAT-002",
-      "name": "Literature",
-      "parent": null,
-      "image": "https://picsum.photos/seed/picsum/200"
-    },
-    {
-      "id": 3,
-      "code": "CAT-003",
-      "name": "Fitness",
-      "parent": null,
-      "image": "https://picsum.photos/seed/picsum/200"
-    },
-    {
-      "id": 4,
-      "code": "CAT-004",
-      "name": "Technology",
-      "parent": null,
-      "image": "https://picsum.photos/seed/picsum/200"
-    },
-    {
-      "id": 5,
-      "code": "CAT-005",
-      "name": "Music",
-      "parent": null,
-      "image": "https://picsum.photos/seed/picsum/200"
-    },
-    {
-      "id": 6,
-      "code": "CAT-006",
-      "name": "Cooking",
-      "parent": null,
-      "image": "https://picsum.photos/seed/picsum/200"
-    },
-    {
-      "id": 7,
-      "code": "CAT-007",
-      "name": "Business",
-      "parent": null,
-      "image": "https://picsum.photos/seed/picsum/200"
-    },
-    {
-      "id": 8,
-      "code": "CAT-008",
-      "name": "Film",
-      "parent": null,
-      "image": "https://picsum.photos/seed/picsum/200"
-    },
-    {
-      "id": 9,
-      "code": "CAT-009",
-      "name": "Design",
-      "parent": 1,
-      "image": "https://picsum.photos/seed/picsum/200"
-    },
-    {
-      "id": 12,
-      "code": "CAT-012",
-      "name": "Dance",
-      "parent": 2,
-      "image": "https://picsum.photos/seed/picsum/200"
-    },
-    {
-      "id": 13,
-      "code": "CAT-013",
-      "name": "Fashion",
-      "parent": null,
-      "image": "https://picsum.photos/seed/picsum/200"
-    },
-    {
-      "id": 16,
-      "code": "CAT-016",
-      "name": "Health",
-      "parent": null,
-      "image": "https://picsum.photos/seed/picsum/200"
-    },
-    {
-      "id": 17,
-      "code": "CAT-017",
-      "name": "Science",
-      "parent": null,
-      "image": "https://picsum.photos/seed/picsum/200"
-    },
-    {
-      "id": 18,
-      "code": "CAT-018",
-      "name": "Travel",
-      "parent": null,
-      "image": "https://picsum.photos/seed/picsum/200"
-    },
-    {
-      "id": 19,
-      "code": "CAT-019",
-      "name": "Photography",
-      "parent": 1,
-      "image": "https://picsum.photos/seed/picsum/200"
-    },
-    {
-      "id": 20,
-      "code": "CAT-020",
-      "name": "Crafts",
-      "parent": 1,
-      "image": "https://picsum.photos/seed/picsum/200"
-    }
+      {
+          "name": "Technology"
+      },
+      {
+          "name": "Health & Wellness"
+      },
+      {
+          "name": "Business"
+      },
+      {
+          "name": "Entertainment"
+      },
+      {
+          "name": "Education"
+      },
+      {
+          "name": "Sports"
+      },
+      {
+          "name": "Travel"
+      },
+      {
+          "name": "Food & Drink"
+      },
+      {
+          "name": "Fashion"
+      },
+      {
+          "name": "Art & Culture"
+      },
+      {
+          "name": "Science"
+      },
+      {
+          "name": "Politics"
+      },
+      {
+          "name": "Environment"
+      },
+      {
+          "name": "Automotive"
+      },
+      {
+          "name": "Gaming"
+      }
   ]
 }
