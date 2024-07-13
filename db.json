@@ -127,91 +127,143 @@
         "name": "Alice Johnson",
         "code": "ALICE123",
         "referral_code": null,
-        "created_at": "2024-07-01T10:00:00Z"
+        "created_at": "2024-07-01T10:00:00Z",
+        "bio": "Tech enthusiast and event organizer.",
+        "location": "Jakarta",
+        "phone_number": "081234567890",
+        "email": "alice.johnson@example.com"
     },
     {
         "id": 2,
         "name": "Bob Smith",
         "code": "BOB456",
         "referral_code": "ALICE123",
-        "created_at": "2024-07-02T12:00:00Z"
+        "created_at": "2024-07-02T12:00:00Z",
+        "bio": "Marketing specialist with a passion for gaming.",
+        "location": "Batam",
+        "phone_number": "082345678901",
+        "email": "bob.smith@example.com"
     },
     {
         "id": 3,
         "name": "Carol White",
         "code": "CAROL789",
         "referral_code": "ALICE123",
-        "created_at": "2024-07-03T14:00:00Z"
+        "created_at": "2024-07-03T14:00:00Z",
+        "bio": "Graphic designer and art lover.",
+        "location": "Bali",
+        "phone_number": "083456789012",
+        "email": "alpha.7886@gmail.com"
     },
     {
         "id": 4,
         "name": "David Brown",
         "code": "DAVID101",
         "referral_code": "ALICE123",
-        "created_at": "2024-07-04T16:00:00Z"
+        "created_at": "2024-07-04T16:00:00Z",
+        "bio": "Entrepreneur and tech advocate.",
+        "location": "Jakarta",
+        "phone_number": "084567890123",
+        "email": "david.brown@example.com"
     },
     {
         "id": 5,
         "name": "Eve Davis",
         "code": "EVE202",
         "referral_code": "ALICE123",
-        "created_at": "2024-07-05T18:00:00Z"
+        "created_at": "2024-07-05T18:00:00Z",
+        "bio": "Passionate about health and wellness.",
+        "location": "Bali",
+        "phone_number": "085678901234",
+        "email": "eve.davis@example.com"
     },
     {
         "id": 6,
         "name": "Frank Miller",
         "code": "FRANK303",
         "referral_code": "ALICE123",
-        "created_at": "2024-07-06T20:00:00Z"
+        "created_at": "2024-07-06T20:00:00Z",
+        "bio": "Software engineer and gamer.",
+        "location": "Jakarta",
+        "phone_number": "086789012345",
+        "email": "frank.miller@example.com"
     },
     {
         "id": 7,
         "name": "Grace Lee",
         "code": "GRACE404",
         "referral_code": null,
-        "created_at": "2024-07-07T22:00:00Z"
+        "created_at": "2024-07-07T22:00:00Z",
+        "bio": "Aspiring developer and tech enthusiast.",
+        "location": "Bali",
+        "phone_number": "087890123456",
+        "email": "grace.lee@example.com"
     },
     {
         "id": 8,
         "name": "Henry Wilson",
         "code": "HENRY505",
         "referral_code": "ALICE123",
-        "created_at": "2024-07-08T09:00:00Z"
+        "created_at": "2024-07-08T09:00:00Z",
+        "bio": "Content creator and gamer.",
+        "location": "Jakarta",
+        "phone_number": "088901234567",
+        "email": "henry.wilson@example.com"
     },
     {
         "id": 9,
         "name": "Ivy Martinez",
         "code": "IVY606",
         "referral_code": "ALICE123",
-        "created_at": "2024-07-09T11:00:00Z"
+        "created_at": "2024-07-09T11:00:00Z",
+        "bio": "Event planner and art enthusiast.",
+        "location": "Batam",
+        "phone_number": "089012345678",
+        "email": "ivy.martinez@example.com"
     },
     {
         "id": 10,
         "name": "Jack Taylor",
         "code": "JACK707",
         "referral_code": null,
-        "created_at": "2024-07-10T13:00:00Z"
+        "created_at": "2024-07-10T13:00:00Z",
+        "bio": "Travel blogger and adventure seeker.",
+        "location": "Bali",
+        "phone_number": "090123456789",
+        "email": "jack.taylor@example.com"
     },
     {
         "id": 11,
         "name": "Karen Harris",
         "code": "KAREN808",
         "referral_code": "ALICE123",
-        "created_at": "2024-07-11T15:00:00Z"
+        "created_at": "2024-07-11T15:00:00Z",
+        "bio": "Fitness coach and nutritionist.",
+        "location": "Jakarta",
+        "phone_number": "091234567890",
+        "email": "karen.harris@example.com"
     },
     {
         "id": 12,
         "name": "Leo Adams",
         "code": "LEO909",
         "referral_code": null,
-        "created_at": "2024-07-12T17:00:00Z"
+        "created_at": "2024-07-12T17:00:00Z",
+        "bio": "Web developer and tech lover.",
+        "location": "Batam",
+        "phone_number": "092345678901",
+        "email": "leo.adams@example.com"
     },
     {
         "id": 13,
         "name": "Mia Walker",
         "code": "MIA010",
         "referral_code": "ALICE123",
-        "created_at": "2024-07-13T19:00:00Z"
+        "created_at": "2024-07-13T19:00:00Z",
+        "bio": "Creative writer and community builder.",
+        "location": "Bali",
+        "phone_number": "093456789012",
+        "email": "mia.walker@example.com"
     }
 ],
   "feedbacks": [
