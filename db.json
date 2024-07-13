@@ -1918,8 +1918,7 @@
     "category": "Cybersecurity",
     "main_image": "https://picsum.photos/1200/800"
 }
-]
-,
+],
   "categories": [
       {
           "name": "Technology"
@@ -1966,5 +1965,256 @@
       {
           "name": "Gaming"
       }
-  ]
+  ], "ticket_purchases": [
+    {
+        "id": 1,
+        "user_id": 2,
+        "user_name": "Bob Smith",
+        "event_id": 1,
+        "event_name": "FPS Fundamental",
+        "event_type_id": 1,
+        "event_type_name": "Free tier",
+        "created_at": "2024-07-15T10:00:00Z"
+    },
+    {
+        "id": 2,
+        "user_id": 3,
+        "user_name": "Carol White",
+        "event_id": 2,
+        "event_name": "Virtual Reality Workshop: Immersive Experiences",
+        "event_type_id": 1,
+        "event_type_name": "Gold",
+        "created_at": "2024-07-16T12:00:00Z"
+    },
+    {
+        "id": 3,
+        "user_id": 4,
+        "user_name": "David Brown",
+        "event_id": 3,
+        "event_name": "Tech Startup Summit: Entrepreneurship in Action",
+        "event_type_id": 2,
+        "event_type_name": "Silver",
+        "created_at": "2024-07-17T14:00:00Z"
+    },
+    {
+        "id": 4,
+        "user_id": 5,
+        "user_name": "Eve Davis",
+        "event_id": 1,
+        "event_name": "FPS Fundamental",
+        "event_type_id": 2,
+        "event_type_name": "Front Seat",
+        "created_at": "2024-07-18T16:00:00Z"
+    },
+    {
+        "id": 5,
+        "user_id": 6,
+        "user_name": "Frank Miller",
+        "event_id": 2,
+        "event_name": "Virtual Reality Workshop: Immersive Experiences",
+        "event_type_id": 2,
+        "event_type_name": "VIP Pass",
+        "created_at": "2024-07-19T18:00:00Z"
+    },
+    {
+        "id": 6,
+        "user_id": 7,
+        "user_name": "Grace Lee",
+        "event_id": 3,
+        "event_name": "Tech Startup Summit: Entrepreneurship in Action",
+        "event_type_id": 1,
+        "event_type_name": "Free tier",
+        "created_at": "2024-07-20T20:00:00Z"
+    },
+    {
+        "id": 7,
+        "user_id": 8,
+        "user_name": "Henry Wilson",
+        "event_id": 1,
+        "event_name": "FPS Fundamental",
+        "event_type_id": 1,
+        "event_type_name": "General Admission",
+        "created_at": "2024-07-21T09:00:00Z"
+    },
+    {
+        "id": 8,
+        "user_id": 9,
+        "user_name": "Ivy Martinez",
+        "event_id": 2,
+        "event_name": "Virtual Reality Workshop: Immersive Experiences",
+        "event_type_id": 3,
+        "event_type_name": "Silver",
+        "created_at": "2024-07-22T11:00:00Z"
+    },
+    {
+        "id": 9,
+        "user_id": 10,
+        "user_name": "Jack Taylor",
+        "event_id": 3,
+        "event_name": "Tech Startup Summit: Entrepreneurship in Action",
+        "event_type_id": 1,
+        "event_type_name": "Free tier",
+        "created_at": "2024-07-23T13:00:00Z"
+    },
+    {
+        "id": 10,
+        "user_id": 11,
+        "user_name": "Karen Harris",
+        "event_id": 1,
+        "event_name": "FPS Fundamental",
+        "event_type_id": 3,
+        "event_type_name": "VIP Pass",
+        "created_at": "2024-07-24T15:00:00Z"
+    },
+    {
+        "id": 11,
+        "user_id": 12,
+        "user_name": "Leo Adams",
+        "event_id": 2,
+        "event_name": "Virtual Reality Workshop: Immersive Experiences",
+        "event_type_id": 2,
+        "event_type_name": "Gold",
+        "created_at": "2024-07-25T17:00:00Z"
+    },
+    {
+        "id": 12,
+        "user_id": 13,
+        "user_name": "Mia Walker",
+        "event_id": 3,
+        "event_name": "Tech Startup Summit: Entrepreneurship in Action",
+        "event_type_id": 2,
+        "event_type_name": "Silver",
+        "created_at": "2024-07-26T19:00:00Z"
+    },
+    {
+        "id": 13,
+        "user_id": 1,
+        "user_name": "Alice Johnson",
+        "event_id": 40,
+        "event_name": "AI Innovations in 2025",
+        "event_type_id": 1,
+        "event_type_name": "General Admission",
+        "created_at": "2024-07-27T09:00:00Z"
+    },
+    {
+        "id": 14,
+        "user_id": 1,
+        "user_name": "Alice Johnson",
+        "event_id": 41,
+        "event_name": "Future of Blockchain Technology",
+        "event_type_id": 2,
+        "event_type_name": "VIP Pass",
+        "created_at": "2024-07-28T11:00:00Z"
+    },
+    {
+        "id": 15,
+        "user_id": 1,
+        "user_name": "Alice Johnson",
+        "event_id": 42,
+        "event_name": "Digital Marketing Strategies",
+        "event_type_id": 3,
+        "event_type_name": "Silver",
+        "created_at": "2024-07-29T13:00:00Z"
+    },
+    {
+        "id": 16,
+        "user_id": 1,
+        "user_name": "Alice Johnson",
+        "event_id": 43,
+        "event_name": "Cybersecurity Essentials",
+        "event_type_id": 1,
+        "event_type_name": "Free tier",
+        "created_at": "2024-07-30T15:00:00Z"
+    },
+    {
+      "id": 17,
+      "user_id": 1,
+      "user_name": "Alice Johnson",
+      "event_id": 44,
+      "event_name": "Innovative AI Solutions",
+      "event_type_id": 2,
+      "event_type_name": "Gold",
+      "created_at": "2024-08-01T10:00:00Z"
+  },
+  {
+      "id": 18,
+      "user_id": 1,
+      "user_name": "Alice Johnson",
+      "event_id": 45,
+      "event_name": "Advanced Robotics Workshop",
+      "event_type_id": 3,
+      "event_type_name": "Silver",
+      "created_at": "2024-08-02T12:00:00Z"
+  },
+  {
+      "id": 19,
+      "user_id": 1,
+      "user_name": "Alice Johnson",
+      "event_id": 46,
+      "event_name": "Data Science Fundamentals",
+      "event_type_id": 1,
+      "event_type_name": "Free tier",
+      "created_at": "2024-08-03T14:00:00Z"
+  },
+  {
+      "id": 20,
+      "user_id": 1,
+      "user_name": "Alice Johnson",
+      "event_id": 47,
+      "event_name": "Blockchain and Its Impact",
+      "event_type_id": 2,
+      "event_type_name": "VIP Pass",
+      "created_at": "2024-08-04T16:00:00Z"
+  },
+  {
+      "id": 21,
+      "user_id": 1,
+      "user_name": "Alice Johnson",
+      "event_id": 48,
+      "event_name": "Digital Transformation Summit",
+      "event_type_id": 1,
+      "event_type_name": "General Admission",
+      "created_at": "2024-08-05T18:00:00Z"
+  },
+  {
+      "id": 22,
+      "user_id": 1,
+      "user_name": "Alice Johnson",
+      "event_id": 49,
+      "event_name": "Web Development Bootcamp",
+      "event_type_id": 3,
+      "event_type_name": "Silver",
+      "created_at": "2024-08-06T20:00:00Z"
+  },
+  {
+      "id": 23,
+      "user_id": 1,
+      "user_name": "Alice Johnson",
+      "event_id": 50,
+      "event_name": "Mobile App Development",
+      "event_type_id": 2,
+      "event_type_name": "Gold",
+      "created_at": "2024-08-07T09:00:00Z"
+  },
+  {
+      "id": 24,
+      "user_id": 1,
+      "user_name": "Alice Johnson",
+      "event_id": 51,
+      "event_name": "Cloud Computing Essentials",
+      "event_type_id": 1,
+      "event_type_name": "Free tier",
+      "created_at": "2024-08-08T11:00:00Z"
+  },
+  {
+      "id": 25,
+      "user_id": 1,
+      "user_name": "Alice Johnson",
+      "event_id": 52,
+      "event_name": "UX/UI Design Workshop",
+      "event_type_id": 3,
+      "event_type_name": "Silver",
+      "created_at": "2024-08-09T13:00:00Z"
+  }
+]
 }
