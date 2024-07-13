@@ -666,7 +666,7 @@
     },
     {
         "id": "6",
-        "name": "Art Exhibition",
+        "name": "International Art Exhibition",
         "detail": "Explore the latest works from local and international artists at our art exhibition. This event features a diverse range of artworks, including paintings, sculptures, installations, and digital art. You'll have the opportunity to meet the artists, learn about their creative processes, and purchase original pieces. In addition to the exhibition, there will be artist talks, panel discussions, and live demonstrations. Whether you're an art collector, enthusiast, or simply looking for inspiration, this event offers something for everyone. Join us for a celebration of creativity and artistic expression.",
         "location": "Jakarta",
         "ticket_type": [
@@ -978,7 +978,7 @@
     },
     {
         "id": "18",
-        "name": "Blockchain Summit",
+        "name": "World International Blockchain Summit",
         "detail": "Explore the world of blockchain and cryptocurrencies at our blockchain summit. This event features keynote speeches, panel discussions, and workshops from leading experts in the blockchain industry. You'll learn about the latest developments in blockchain technology, cryptocurrencies, and decentralized finance. Whether you're a developer, investor, or simply interested in learning more about blockchain, this summit offers valuable insights and opportunities. Join us for a day of learning, networking, and inspiration as we explore the future of blockchain technology.",
         "location": "Jakarta",
         "ticket_type": [
@@ -1053,7 +1053,7 @@
     },
     {
       "id": "21",
-      "name": "Art Exhibition",
+      "name": "Annual Best Art Exhibition",
       "detail": "Immerse yourself in the world of contemporary art at our annual art exhibition. This event features a diverse collection of artworks from emerging and established artists, spanning various mediums and styles. You'll have the opportunity to explore the exhibits, meet the artists, and purchase unique pieces. In addition to the visual art, there will be live performances, artist talks, and interactive installations. Whether you're an art collector, enthusiast, or simply looking for a cultural experience, this exhibition offers something for everyone. Join us for a celebration of creativity and inspiration in the vibrant setting of Jakarta.",
       "location": "Jakarta",
       "ticket_type": [
@@ -1527,7 +1527,7 @@
   },
   {
       "id": "39",
-      "name": "Blockchain Summit",
+      "name": "Jakarta Blockchain Summit",
       "detail": "Explore the future of blockchain technology at our annual summit. This event brings together leading experts and innovators to discuss the latest developments and trends in blockchain. You'll have the opportunity to attend keynote speeches, panel discussions, and workshops on topics such as cryptocurrency, smart contracts, and decentralized applications. In addition to the formal sessions, there will be networking opportunities and exhibits showcasing cutting-edge blockchain solutions. Whether you're a blockchain professional, investor, or enthusiast, this summit offers valuable insights and inspiration. Join us in Jakarta for a dynamic and engaging exploration of blockchain technology.",
       "location": "Jakarta",
       "ticket_type": [
