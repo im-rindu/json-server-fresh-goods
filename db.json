@@ -125,8 +125,8 @@
     {
         "id": 1,
         "name": "Alice Johnson",
-        "code": "ALICE123",
-        "referral_code": null,
+        "referral_code": "ALICE123",
+        "referrer_id": null,
         "created_at": "2024-07-01T10:00:00Z",
         "bio": "Tech enthusiast and event organizer.",
         "location": "Jakarta",
@@ -136,8 +136,8 @@
     {
         "id": 2,
         "name": "Bob Smith",
-        "code": "BOB456",
-        "referral_code": "ALICE123",
+        "referral_code": "BOB456",
+        "referrer_id": 4,
         "created_at": "2024-07-02T12:00:00Z",
         "bio": "Marketing specialist with a passion for gaming.",
         "location": "Batam",
@@ -147,8 +147,8 @@
     {
         "id": 3,
         "name": "Carol White",
-        "code": "CAROL789",
-        "referral_code": "ALICE123",
+        "referral_code": "CAROL789",
+        "referrer_id": 4,
         "created_at": "2024-07-03T14:00:00Z",
         "bio": "Graphic designer and art lover.",
         "location": "Bali",
@@ -158,8 +158,8 @@
     {
         "id": 4,
         "name": "David Brown",
-        "code": "DAVID101",
-        "referral_code": "ALICE123",
+        "referral_code": "DAVID101",
+        "referrer_id": 4,
         "created_at": "2024-07-04T16:00:00Z",
         "bio": "Entrepreneur and tech advocate.",
         "location": "Jakarta",
@@ -169,8 +169,8 @@
     {
         "id": 5,
         "name": "Eve Davis",
-        "code": "EVE202",
-        "referral_code": "ALICE123",
+        "referral_code": "EVE202",
+        "referrer_id": 4,
         "created_at": "2024-07-05T18:00:00Z",
         "bio": "Passionate about health and wellness.",
         "location": "Bali",
@@ -180,8 +180,8 @@
     {
         "id": 6,
         "name": "Frank Miller",
-        "code": "FRANK303",
-        "referral_code": "ALICE123",
+        "referral_code": "FRANK303",
+        "referrer_id": 4,
         "created_at": "2024-07-06T20:00:00Z",
         "bio": "Software engineer and gamer.",
         "location": "Jakarta",
@@ -191,8 +191,8 @@
     {
         "id": 7,
         "name": "Grace Lee",
-        "code": "GRACE404",
-        "referral_code": null,
+        "referral_code": "GRACE404",
+        "referrer_id": null,
         "created_at": "2024-07-07T22:00:00Z",
         "bio": "Aspiring developer and tech enthusiast.",
         "location": "Bali",
@@ -202,8 +202,8 @@
     {
         "id": 8,
         "name": "Henry Wilson",
-        "code": "HENRY505",
-        "referral_code": "ALICE123",
+        "referral_code": "HENRY505",
+        "referrer_id": 4,
         "created_at": "2024-07-08T09:00:00Z",
         "bio": "Content creator and gamer.",
         "location": "Jakarta",
@@ -213,8 +213,8 @@
     {
         "id": 9,
         "name": "Ivy Martinez",
-        "code": "IVY606",
-        "referral_code": "ALICE123",
+        "referral_code": "IVY606",
+        "referrer_id": 4,
         "created_at": "2024-07-09T11:00:00Z",
         "bio": "Event planner and art enthusiast.",
         "location": "Batam",
@@ -224,8 +224,8 @@
     {
         "id": 10,
         "name": "Jack Taylor",
-        "code": "JACK707",
-        "referral_code": null,
+        "referral_code": "JACK707",
+        "referrer_id": null,
         "created_at": "2024-07-10T13:00:00Z",
         "bio": "Travel blogger and adventure seeker.",
         "location": "Bali",
@@ -235,8 +235,8 @@
     {
         "id": 11,
         "name": "Karen Harris",
-        "code": "KAREN808",
-        "referral_code": "ALICE123",
+        "referral_code": "KAREN808",
+        "referrer_id": 4,
         "created_at": "2024-07-11T15:00:00Z",
         "bio": "Fitness coach and nutritionist.",
         "location": "Jakarta",
@@ -246,8 +246,8 @@
     {
         "id": 12,
         "name": "Leo Adams",
-        "code": "LEO909",
-        "referral_code": null,
+        "referral_code": "LEO909",
+        "referrer_id": null,
         "created_at": "2024-07-12T17:00:00Z",
         "bio": "Web developer and tech lover.",
         "location": "Batam",
@@ -257,8 +257,8 @@
     {
         "id": 13,
         "name": "Mia Walker",
-        "code": "MIA010",
-        "referral_code": "ALICE123",
+        "referral_code": "MIA010",
+        "referrer_id": 4,
         "created_at": "2024-07-13T19:00:00Z",
         "bio": "Creative writer and community builder.",
         "location": "Bali",
@@ -1987,7 +1987,7 @@
         "event_name": "FPS Fundamental",
         "event_type_id": 1,
         "event_type_name": "Free tier",
-        "organizer_id": 1,
+        "organizer_id": 4,
         "created_at": "2024-05-15T10:00:00Z"
     },
     {
@@ -1998,7 +1998,7 @@
         "event_name": "Virtual Reality Workshop: Immersive Experiences",
         "event_type_id": 1,
         "event_type_name": "Gold",
-        "organizer_id": 1,
+        "organizer_id": 4,
         "created_at": "2024-05-16T12:00:00Z"
     },
     {
@@ -2009,7 +2009,7 @@
         "event_name": "Tech Startup Summit: Entrepreneurship in Action",
         "event_type_id": 2,
         "event_type_name": "Silver",
-        "organizer_id": 1,
+        "organizer_id": 4,
         "created_at": "2024-05-17T14:00:00Z"
     },
     {
@@ -2020,7 +2020,7 @@
         "event_name": "FPS Fundamental",
         "event_type_id": 2,
         "event_type_name": "Front Seat",
-        "organizer_id": 1,
+        "organizer_id": 4,
         "created_at": "2024-05-18T16:00:00Z"
     },
     {
@@ -2031,7 +2031,7 @@
         "event_name": "Virtual Reality Workshop: Immersive Experiences",
         "event_type_id": 2,
         "event_type_name": "VIP Pass",
-        "organizer_id": 1,
+        "organizer_id": 4,
         "created_at": "2024-05-19T18:00:00Z"
     },
     {
@@ -2042,7 +2042,7 @@
         "event_name": "Tech Startup Summit: Entrepreneurship in Action",
         "event_type_id": 1,
         "event_type_name": "Free tier",
-        "organizer_id": 1,
+        "organizer_id": 4,
         "created_at": "2024-05-20T20:00:00Z"
     },
     {
@@ -2053,7 +2053,7 @@
         "event_name": "FPS Fundamental",
         "event_type_id": 1,
         "event_type_name": "General Admission",
-        "organizer_id": 1,
+        "organizer_id": 4,
         "created_at": "2024-05-21T09:00:00Z"
     },
     {
@@ -2064,7 +2064,7 @@
         "event_name": "Virtual Reality Workshop: Immersive Experiences",
         "event_type_id": 3,
         "event_type_name": "Silver",
-        "organizer_id": 1,
+        "organizer_id": 4,
         "created_at": "2024-05-22T11:00:00Z"
     },
     {
@@ -2075,7 +2075,7 @@
         "event_name": "Tech Startup Summit: Entrepreneurship in Action",
         "event_type_id": 1,
         "event_type_name": "Free tier",
-        "organizer_id": 1,
+        "organizer_id": 4,
         "created_at": "2024-05-23T13:00:00Z"
     },
     {
@@ -2086,7 +2086,7 @@
         "event_name": "FPS Fundamental",
         "event_type_id": 3,
         "event_type_name": "VIP Pass",
-        "organizer_id": 1,
+        "organizer_id": 4,
         "created_at": "2024-05-24T15:00:00Z"
     },
     {
@@ -2097,7 +2097,7 @@
         "event_name": "Virtual Reality Workshop: Immersive Experiences",
         "event_type_id": 2,
         "event_type_name": "Gold",
-        "organizer_id": 1,
+        "organizer_id": 4,
         "created_at": "2024-05-25T17:00:00Z"
     },
     {
@@ -2108,12 +2108,12 @@
         "event_name": "Tech Startup Summit: Entrepreneurship in Action",
         "event_type_id": 2,
         "event_type_name": "Silver",
-        "organizer_id": 1,
+        "organizer_id": 4,
         "created_at": "2024-05-26T19:00:00Z"
     },
     {
         "id": 13,
-        "user_id": 1,
+        "user_id": 4,
         "user_name": "Alice Johnson",
         "event_id": 40,
         "event_name": "AI Innovations in 2025",
@@ -2124,7 +2124,7 @@
     },
     {
         "id": 14,
-        "user_id": 1,
+        "user_id": 4,
         "user_name": "Alice Johnson",
         "event_id": 41,
         "event_name": "Future of Blockchain Technology",
@@ -2135,7 +2135,7 @@
     },
     {
         "id": 15,
-        "user_id": 1,
+        "user_id": 4,
         "user_name": "Alice Johnson",
         "event_id": 42,
         "event_name": "Digital Marketing Strategies",
@@ -2146,7 +2146,7 @@
     },
     {
         "id": 16,
-        "user_id": 1,
+        "user_id": 4,
         "user_name": "Alice Johnson",
         "event_id": 43,
         "event_name": "Cybersecurity Essentials",
@@ -2157,7 +2157,7 @@
     },
     {
         "id": 17,
-        "user_id": 1,
+        "user_id": 4,
         "user_name": "Alice Johnson",
         "event_id": 44,
         "event_name": "Innovative AI Solutions",
@@ -2168,7 +2168,7 @@
     },
     {
         "id": 18,
-        "user_id": 1,
+        "user_id": 4,
         "user_name": "Alice Johnson",
         "event_id": 45,
         "event_name": "Advanced Robotics Workshop",
@@ -2179,7 +2179,7 @@
     },
     {
         "id": 19,
-        "user_id": 1,
+        "user_id": 4,
         "user_name": "Alice Johnson",
         "event_id": 46,
         "event_name": "Data Science Fundamentals",
@@ -2190,7 +2190,7 @@
     },
     {
         "id": 20,
-        "user_id": 1,
+        "user_id": 4,
         "user_name": "Alice Johnson",
         "event_id": 47,
         "event_name": "Blockchain and Its Impact",
@@ -2201,7 +2201,7 @@
     },
     {
         "id": 21,
-        "user_id": 1,
+        "user_id": 4,
         "user_name": "Alice Johnson",
         "event_id": 48,
         "event_name": "Digital Transformation Summit",
@@ -2212,7 +2212,7 @@
     },
     {
         "id": 22,
-        "user_id": 1,
+        "user_id": 4,
         "user_name": "Alice Johnson",
         "event_id": 49,
         "event_name": "Web Development Bootcamp",
@@ -2223,7 +2223,7 @@
     },
     {
         "id": 23,
-        "user_id": 1,
+        "user_id": 4,
         "user_name": "Alice Johnson",
         "event_id": 50,
         "event_name": "Mobile App Development",
@@ -2234,7 +2234,7 @@
     },
     {
         "id": 24,
-        "user_id": 1,
+        "user_id": 4,
         "user_name": "Alice Johnson",
         "event_id": 51,
         "event_name": "Cloud Computing Essentials",
@@ -2245,7 +2245,7 @@
     },
     {
         "id": 25,
-        "user_id": 1,
+        "user_id": 4,
         "user_name": "Alice Johnson",
         "event_id": 52,
         "event_name": "UX/UI Design Workshop",
