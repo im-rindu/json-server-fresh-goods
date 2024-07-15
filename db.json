@@ -4,25 +4,25 @@
           "description": "Referee User",
           "point": 10000,
           "date": "2024-01-01T10:00:00Z",
-          "user_id": 1
+          "user_id": 4
       },
       {
           "description": "Cashback",
           "point": 15000,
           "date": "2024-01-01T11:00:00Z",
-          "user_id": 1
+          "user_id": 4
       },
       {
           "description": "Spend",
           "point": -18000,
           "date": "2024-02-01T12:00:00Z",
-          "user_id": 1
+          "user_id": 4
       },
       {
           "description": "Referee User",
           "point": 10000,
           "date": "2024-02-04T13:00:00Z",
-          "user_id": 1
+          "user_id": 4
       },
       {
           "description": "Cashback",
@@ -34,13 +34,13 @@
           "description": "Spend",
           "point": -23000,
           "date": "2024-04-06T15:00:00Z",
-          "user_id": 1
+          "user_id": 4
       },
       {
           "description": "Cashback",
           "point": 12000,
           "date": "2024-04-07T16:00:00Z",
-          "user_id": 1
+          "user_id": 4
       },
       {
           "description": "Referee User",
@@ -52,19 +52,19 @@
           "description": "Spend",
           "point": -15000,
           "date": "2024-05-09T18:00:00Z",
-          "user_id": 1
+          "user_id": 4
       },
       {
           "description": "Cashback",
           "point": 17000,
           "date": "2024-06-10T19:00:00Z",
-          "user_id": 1
+          "user_id": 4
       },
       {
           "description": "Referee User",
           "point": 10000,
           "date": "2024-07-11T20:00:00Z",
-          "user_id": 1
+          "user_id": 4
       },
       {
           "description": "Spend",
@@ -76,19 +76,19 @@
           "description": "Cashback",
           "point": 20000,
           "date": "2024-08-13T22:00:00Z",
-          "user_id": 1
+          "user_id": 4
       },
       {
           "description": "Referee User",
           "point": 10000,
           "date": "2024-08-14T23:00:00Z",
-          "user_id": 1
+          "user_id": 4
       },
       {
           "description": "Spend",
           "point": -25000,
           "date": "2024-08-15T10:00:00Z",
-          "user_id": 1
+          "user_id": 4
       },
       {
           "description": "Cashback",
@@ -100,19 +100,19 @@
           "description": "Referee User",
           "point": 10000,
           "date": "2024-06-17T12:00:00Z",
-          "user_id": 1
+          "user_id": 4
       },
       {
           "description": "Spend",
           "point": -12000,
           "date": "2024-05-18T13:00:00Z",
-          "user_id": 1
+          "user_id": 4
       },
       {
           "description": "Cashback",
           "point": 14000,
           "date": "2024-05-19T14:00:00Z",
-          "user_id": 1
+          "user_id": 4
       },
       {
           "description": "Spend",
