@@ -1,663 +1,1177 @@
 {
-  "history_points": [
-    {
-        "description": "Referee User",
-        "point": 10000,
-        "date": "2024-01-01T10:00:00Z",
-        "user_id": 1
-    },
-    {
-        "description": "Cashback",
-        "point": 15000,
-        "date": "2024-01-01T11:00:00Z",
-        "user_id": 1
-    },
-    {
-        "description": "Spend",
-        "point": -18000,
-        "date": "2024-02-01T12:00:00Z",
-        "user_id": 1
-    },
-    {
-        "description": "Referee User",
-        "point": 10000,
-        "date": "2024-02-04T13:00:00Z",
-        "user_id": 1
-    },
-    {
-        "description": "Cashback",
-        "point": 5000,
-        "date": "2024-03-05T14:00:00Z",
-        "user_id": 2
-    },
-    {
-        "description": "Spend",
-        "point": -23000,
-        "date": "2024-04-06T15:00:00Z",
-        "user_id": 1
-    },
-    {
-        "description": "Cashback",
-        "point": 12000,
-        "date": "2024-04-07T16:00:00Z",
-        "user_id": 1
-    },
-    {
-        "description": "Referee User",
-        "point": 10000,
-        "date": "2024-04-08T17:00:00Z",
-        "user_id": 2
-    },
-    {
-        "description": "Spend",
-        "point": -15000,
-        "date": "2024-05-09T18:00:00Z",
-        "user_id": 1
-    },
-    {
-        "description": "Cashback",
-        "point": 17000,
-        "date": "2024-06-10T19:00:00Z",
-        "user_id": 1
-    },
-    {
-        "description": "Referee User",
-        "point": 10000,
-        "date": "2024-07-11T20:00:00Z",
-        "user_id": 1
-    },
-    {
-        "description": "Spend",
-        "point": -1000,
-        "date": "2024-08-12T21:00:00Z",
-        "user_id": 2
-    },
-    {
-        "description": "Cashback",
-        "point": 20000,
-        "date": "2024-08-13T22:00:00Z",
-        "user_id": 1
-    },
-    {
-        "description": "Referee User",
-        "point": 10000,
-        "date": "2024-08-14T23:00:00Z",
-        "user_id": 1
-    },
-    {
-        "description": "Spend",
-        "point": -25000,
-        "date": "2024-08-15T10:00:00Z",
-        "user_id": 1
-    },
-    {
-        "description": "Cashback",
-        "point": 3000,
-        "date": "2024-07-16T11:00:00Z",
-        "user_id": 2
-    },
-    {
-        "description": "Referee User",
-        "point": 10000,
-        "date": "2024-06-17T12:00:00Z",
-        "user_id": 1
-    },
-    {
-        "description": "Spend",
-        "point": -12000,
-        "date": "2024-05-18T13:00:00Z",
-        "user_id": 1
-    },
-    {
-        "description": "Cashback",
-        "point": 14000,
-        "date": "2024-05-19T14:00:00Z",
-        "user_id": 1
-    },
-    {
-        "description": "Spend",
-        "point": -17000,
-        "date": "2024-05-20T15:00:00Z",
-        "user_id": 2
-    }
-],
-  "users": [
-    {
-        "id": 1,
-        "name": "Alice Johnson",
-        "referral_code": "ALICE123",
-        "referrer_id": null,
-        "created_at": "2024-07-01T10:00:00Z",
-        "bio": "Tech enthusiast and event organizer.",
-        "location": "Jakarta",
-        "phone_number": "081234567890",
-        "email": "alice.johnson@example.com"
-    },
-    {
-        "id": 2,
-        "name": "Bob Smith",
-        "referral_code": "BOB456",
-        "referrer_id": 4,
-        "created_at": "2024-07-02T12:00:00Z",
-        "bio": "Marketing specialist with a passion for gaming.",
-        "location": "Batam",
-        "phone_number": "082345678901",
-        "email": "bob.smith@example.com"
-    },
-    {
-        "id": 3,
-        "name": "Carol White",
-        "referral_code": "CAROL789",
-        "referrer_id": 4,
-        "created_at": "2024-07-03T14:00:00Z",
-        "bio": "Graphic designer and art lover.",
-        "location": "Bali",
-        "phone_number": "083456789012",
-        "email": "alpha.7886@gmail.com"
-    },
-    {
-        "id": 4,
-        "name": "David Brown",
-        "referral_code": "DAVID101",
-        "referrer_id": 4,
-        "created_at": "2024-07-04T16:00:00Z",
-        "bio": "Entrepreneur and tech advocate.",
-        "location": "Jakarta",
-        "phone_number": "084567890123",
-        "email": "david.brown@example.com"
-    },
-    {
-        "id": 5,
-        "name": "Eve Davis",
-        "referral_code": "EVE202",
-        "referrer_id": 4,
-        "created_at": "2024-07-05T18:00:00Z",
-        "bio": "Passionate about health and wellness.",
-        "location": "Bali",
-        "phone_number": "085678901234",
-        "email": "eve.davis@example.com"
-    },
-    {
-        "id": 6,
-        "name": "Frank Miller",
-        "referral_code": "FRANK303",
-        "referrer_id": 4,
-        "created_at": "2024-07-06T20:00:00Z",
-        "bio": "Software engineer and gamer.",
-        "location": "Jakarta",
-        "phone_number": "086789012345",
-        "email": "frank.miller@example.com"
-    },
-    {
-        "id": 7,
-        "name": "Grace Lee",
-        "referral_code": "GRACE404",
-        "referrer_id": null,
-        "created_at": "2024-07-07T22:00:00Z",
-        "bio": "Aspiring developer and tech enthusiast.",
-        "location": "Bali",
-        "phone_number": "087890123456",
-        "email": "grace.lee@example.com"
-    },
-    {
-        "id": 8,
-        "name": "Henry Wilson",
-        "referral_code": "HENRY505",
-        "referrer_id": 4,
-        "created_at": "2024-07-08T09:00:00Z",
-        "bio": "Content creator and gamer.",
-        "location": "Jakarta",
-        "phone_number": "088901234567",
-        "email": "henry.wilson@example.com"
-    },
-    {
-        "id": 9,
-        "name": "Ivy Martinez",
-        "referral_code": "IVY606",
-        "referrer_id": 4,
-        "created_at": "2024-07-09T11:00:00Z",
-        "bio": "Event planner and art enthusiast.",
-        "location": "Batam",
-        "phone_number": "089012345678",
-        "email": "ivy.martinez@example.com"
-    },
-    {
-        "id": 10,
-        "name": "Jack Taylor",
-        "referral_code": "JACK707",
-        "referrer_id": null,
-        "created_at": "2024-07-10T13:00:00Z",
-        "bio": "Travel blogger and adventure seeker.",
-        "location": "Bali",
-        "phone_number": "090123456789",
-        "email": "jack.taylor@example.com"
-    },
-    {
-        "id": 11,
-        "name": "Karen Harris",
-        "referral_code": "KAREN808",
-        "referrer_id": 4,
-        "created_at": "2024-07-11T15:00:00Z",
-        "bio": "Fitness coach and nutritionist.",
-        "location": "Jakarta",
-        "phone_number": "091234567890",
-        "email": "karen.harris@example.com"
-    },
-    {
-        "id": 12,
-        "name": "Leo Adams",
-        "referral_code": "LEO909",
-        "referrer_id": null,
-        "created_at": "2024-07-12T17:00:00Z",
-        "bio": "Web developer and tech lover.",
-        "location": "Batam",
-        "phone_number": "092345678901",
-        "email": "leo.adams@example.com"
-    },
-    {
-        "id": 13,
-        "name": "Mia Walker",
-        "referral_code": "MIA010",
-        "referrer_id": 4,
-        "created_at": "2024-07-13T19:00:00Z",
-        "bio": "Creative writer and community builder.",
-        "location": "Bali",
-        "phone_number": "093456789012",
-        "email": "mia.walker@example.com"
-    }
-],
-  "feedbacks": [
-    {
-        "id": "1",
-        "event_name": "FPS Fundamental",
-        "user_name": "Alice Johnson",
-        "rating": 4,
-        "review": "Great workshop! Learned a lot about FPS mechanics.",
-        "created_at": "2024-07-01T10:00:00Z",
-        "organizer_id": 1
-    },
-    {
-        "id": "2",
-        "event_name": "Virtual Reality Workshop: Immersive Experiences",
-        "user_name": "Bob Smith",
-        "rating": 5,
-        "review": "Amazing experience! The VR setups were top-notch.",
-        "created_at": "2024-07-02T12:00:00Z",
-        "organizer_id": 1
-    },
-    {
-        "id": "3",
-        "event_name": "Tech Startup Summit: Entrepreneurship in Action",
-        "user_name": "Carol White",
-        "rating": 3,
-        "review": "Informative but could use more interactive sessions.",
-        "created_at": "2024-07-03T14:00:00Z",
-        "organizer_id": 1
-    },
-    {
-        "id": "4",
-        "event_name": "FPS Fundamental",
-        "user_name": "David Brown",
-        "rating": 5,
-        "review": "Fantastic event with great insights into FPS games!",
-        "created_at": "2024-07-04T16:00:00Z",
-        "organizer_id": 1
-    },
-    {
-        "id": "5",
-        "event_name": "Virtual Reality Workshop: Immersive Experiences",
-        "user_name": "Eve Davis",
-        "rating": 4,
-        "review": "Really enjoyed the immersive VR experiences.",
-        "created_at": "2024-07-05T18:00:00Z",
-        "organizer_id": 1
-    },
-    {
-        "id": "6",
-        "event_name": "Tech Startup Summit: Entrepreneurship in Action",
-        "user_name": "Frank Miller",
-        "rating": 5,
-        "review": "Loved the networking opportunities and the talks.",
-        "created_at": "2024-07-06T20:00:00Z",
-        "organizer_id": 1
-    },
-    {
-        "id": "7",
-        "event_name": "FPS Fundamental",
-        "user_name": "Grace Lee",
-        "rating": 3,
-        "review": "Good content but the pace was a bit slow.",
-        "created_at": "2024-07-07T22:00:00Z",
-        "organizer_id": 1
-    },
-    {
-        "id": "8",
-        "event_name": "Virtual Reality Workshop: Immersive Experiences",
-        "user_name": "Henry Wilson",
-        "rating": 5,
-        "review": "Excellent VR sessions! Very engaging.",
-        "created_at": "2024-07-08T09:00:00Z",
-        "organizer_id": 1
-    },
-    {
-        "id": "9",
-        "event_name": "Tech Startup Summit: Entrepreneurship in Action",
-        "user_name": "Ivy Martinez",
-        "rating": 4,
-        "review": "Great content but could be more hands-on.",
-        "created_at": "2024-07-09T11:00:00Z",
-        "organizer_id": 1
-    },
-    {
-        "id": "10",
-        "event_name": "FPS Fundamental",
-        "user_name": "Jack Taylor",
-        "rating": 2,
-        "review": "The workshop was not as detailed as I expected.",
-        "created_at": "2024-07-10T13:00:00Z",
-        "organizer_id": 1
-    },
-    {
-        "id": "11",
-        "event_name": "Virtual Reality Workshop: Immersive Experiences",
-        "user_name": "Karen Harris",
-        "rating": 4,
-        "review": "Good event with interesting VR setups.",
-        "created_at": "2024-07-11T15:00:00Z",
-        "organizer_id": 1
-    },
-    {
-        "id": "12",
-        "event_name": "Tech Startup Summit: Entrepreneurship in Action",
-        "user_name": "Leo Adams",
-        "rating": 5,
-        "review": "Highly recommend for anyone interested in startups.",
-        "created_at": "2024-07-12T17:00:00Z",
-        "organizer_id": 1
-    },
-    {
-        "id": "13",
-        "event_name": "FPS Fundamental",
-        "user_name": "Mia Walker",
-        "rating": 3,
-        "review": "It was okay, but could have been more engaging.",
-        "created_at": "2024-07-13T19:00:00Z",
-        "organizer_id": 1
-    }
+    "history_points": [
+      {
+          "description": "Referee User",
+          "point": 10000,
+          "date": "2024-01-01T10:00:00Z",
+          "user_id": 1
+      },
+      {
+          "description": "Cashback",
+          "point": 15000,
+          "date": "2024-01-01T11:00:00Z",
+          "user_id": 1
+      },
+      {
+          "description": "Spend",
+          "point": -18000,
+          "date": "2024-02-01T12:00:00Z",
+          "user_id": 1
+      },
+      {
+          "description": "Referee User",
+          "point": 10000,
+          "date": "2024-02-04T13:00:00Z",
+          "user_id": 1
+      },
+      {
+          "description": "Cashback",
+          "point": 5000,
+          "date": "2024-03-05T14:00:00Z",
+          "user_id": 2
+      },
+      {
+          "description": "Spend",
+          "point": -23000,
+          "date": "2024-04-06T15:00:00Z",
+          "user_id": 1
+      },
+      {
+          "description": "Cashback",
+          "point": 12000,
+          "date": "2024-04-07T16:00:00Z",
+          "user_id": 1
+      },
+      {
+          "description": "Referee User",
+          "point": 10000,
+          "date": "2024-04-08T17:00:00Z",
+          "user_id": 2
+      },
+      {
+          "description": "Spend",
+          "point": -15000,
+          "date": "2024-05-09T18:00:00Z",
+          "user_id": 1
+      },
+      {
+          "description": "Cashback",
+          "point": 17000,
+          "date": "2024-06-10T19:00:00Z",
+          "user_id": 1
+      },
+      {
+          "description": "Referee User",
+          "point": 10000,
+          "date": "2024-07-11T20:00:00Z",
+          "user_id": 1
+      },
+      {
+          "description": "Spend",
+          "point": -1000,
+          "date": "2024-08-12T21:00:00Z",
+          "user_id": 2
+      },
+      {
+          "description": "Cashback",
+          "point": 20000,
+          "date": "2024-08-13T22:00:00Z",
+          "user_id": 1
+      },
+      {
+          "description": "Referee User",
+          "point": 10000,
+          "date": "2024-08-14T23:00:00Z",
+          "user_id": 1
+      },
+      {
+          "description": "Spend",
+          "point": -25000,
+          "date": "2024-08-15T10:00:00Z",
+          "user_id": 1
+      },
+      {
+          "description": "Cashback",
+          "point": 3000,
+          "date": "2024-07-16T11:00:00Z",
+          "user_id": 2
+      },
+      {
+          "description": "Referee User",
+          "point": 10000,
+          "date": "2024-06-17T12:00:00Z",
+          "user_id": 1
+      },
+      {
+          "description": "Spend",
+          "point": -12000,
+          "date": "2024-05-18T13:00:00Z",
+          "user_id": 1
+      },
+      {
+          "description": "Cashback",
+          "point": 14000,
+          "date": "2024-05-19T14:00:00Z",
+          "user_id": 1
+      },
+      {
+          "description": "Spend",
+          "point": -17000,
+          "date": "2024-05-20T15:00:00Z",
+          "user_id": 2
+      }
   ],
-  "promotions": [
-    {
-        "name": "Early Bird Discount",
-        "type": "Percentage",
-        "amount": 15,
-        "event_name": "FPS Fundamental",
-        "event_id": 1,
-        "quota": 50,
-        "voucher_code": "FPS15EARLY",
-        "expire_date": "2024-08-01",
-        "user_id": 1
-    },
-    {
-        "name": "VR Enthusiast Special",
-        "type": "Fixed Amount",
-        "amount": 20,
-        "event_name": "Virtual Reality Workshop: Immersive Experiences",
-        "event_id": 5,
-        "quota": 30,
-        "voucher_code": "VR20OFF",
-        "expire_date": "2024-09-10",
-        "user_id": 1
-    },
-    {
-        "name": "Startup Super Saver",
-        "type": "Percentage",
-        "amount": 10,
-        "event_name": "Tech Startup Summit: Entrepreneurship in Action",
-        "event_id": 9,
-        "quota": 100,
-        "voucher_code": "STARTUP10",
-        "expire_date": "2024-07-31",
-        "user_id": 1
-    },
-    {
-        "name": "FPS Group Discount",
-        "type": "Fixed Amount",
-        "amount": 50,
-        "event_name": "FPS Fundamental",
-        "event_id": 1,
-        "quota": 20,
-        "voucher_code": "FPSGROUP50",
-        "expire_date": "2024-08-15",
-        "user_id": 1
-    },
-    {
-        "name": "VR Early Access",
-        "type": "Percentage",
-        "amount": 25,
-        "event_name": "Virtual Reality Workshop: Immersive Experiences",
-        "event_id": 5,
-        "quota": 40,
-        "voucher_code": "VREARLY25",
-        "expire_date": "2024-09-05",
-        "user_id": 1
-    },
-    {
-        "name": "Summit VIP Discount",
-        "type": "Fixed Amount",
-        "amount": 100,
-        "event_name": "Tech Startup Summit: Entrepreneurship in Action",
-        "event_id": 9,
-        "quota": 10,
-        "voucher_code": "VIP100",
-        "expire_date": "2024-07-20",
-        "user_id": 1
-    },
-    {
-        "name": "FPS Student Discount",
-        "type": "Percentage",
-        "amount": 20,
-        "event_name": "FPS Fundamental",
-        "event_id": 1,
-        "quota": 50,
-        "voucher_code": "FPSSTUDENT20",
-        "expire_date": "2024-08-10",
-        "user_id": 1
-    },
-    {
-        "name": "VR Flash Sale",
-        "type": "Fixed Amount",
-        "amount": 30,
-        "event_name": "Virtual Reality Workshop: Immersive Experiences",
-        "event_id": 5,
-        "quota": 50,
-        "voucher_code": "VRFLASH30",
-        "expire_date": "2024-09-01",
-        "user_id": 1
-    },
-    {
-        "name": "Summit Startup Pack",
-        "type": "Percentage",
-        "amount": 15,
-        "event_name": "Tech Startup Summit: Entrepreneurship in Action",
-        "event_id": 9,
-        "quota": 70,
-        "voucher_code": "STARTPACK15",
-        "expire_date": "2024-07-28",
-        "user_id": 1
-    },
-    {
-        "name": "FPS Night Owl",
-        "type": "Fixed Amount",
-        "amount": 25,
-        "event_name": "FPS Fundamental",
-        "event_id": 1,
-        "quota": 30,
-        "voucher_code": "FPSNIGHT25",
-        "expire_date": "2024-08-20",
-        "user_id": 1
-    },
-    {
-        "name": "VR Workshop Week",
-        "type": "Percentage",
-        "amount": 10,
-        "event_name": "Virtual Reality Workshop: Immersive Experiences",
-        "event_id": 5,
-        "quota": 25,
-        "voucher_code": "VRWEEK10",
-        "expire_date": "2024-09-15",
-        "user_id": 1
-    },
-    {
-        "name": "Summit Innovation Discount",
-        "type": "Fixed Amount",
-        "amount": 50,
-        "event_name": "Tech Startup Summit: Entrepreneurship in Action",
-        "event_id": 9,
-        "quota": 50,
-        "voucher_code": "INNOVATE50",
-        "expire_date": "2024-07-25",
-        "user_id": 1
-    },
-    {
-        "name": "FPS Early Access",
-        "type": "Percentage",
-        "amount": 30,
-        "event_name": "FPS Fundamental",
-        "event_id": 1,
-        "quota": 15,
-        "voucher_code": "FPSEARLY30",
-        "expire_date": "2024-08-05",
-        "user_id": 1
-    }
-],
-  
-  "events": [
-    {
-        "id": "1",
-        "name": "FPS Fundamental",
-        "detail": "Join us for a deep dive into the fundamentals of FPS gaming. This event will cover everything from the basics of first-person shooter mechanics to advanced strategies for competitive play. Whether you're a beginner looking to improve your skills or an experienced player aiming to take your game to the next level, this workshop is for you. Our expert instructors will guide you through a series of interactive sessions, providing hands-on experience with the latest FPS games and technologies. You'll also have the opportunity to network with other gaming enthusiasts and compete in friendly tournaments. Don't miss out on this chance to enhance your FPS gaming abilities and connect with like-minded individuals.",
+    "users": [
+      {
+          "id": 4,
+          "name": "Alice Johnson",
+          "referral_code": "ALICE123",
+          "referrer_id": null,
+          "created_at": "2024-07-01T10:00:00Z",
+          "bio": "Tech enthusiast and event organizer.",
+          "location": "Jakarta",
+          "phone_number": "081234567890",
+          "email": "alice.johnson@example.com"
+      },
+      {
+          "id": 2,
+          "name": "Bob Smith",
+          "referral_code": "BOB456",
+          "referrer_id": 4,
+          "created_at": "2024-07-02T12:00:00Z",
+          "bio": "Marketing specialist with a passion for gaming.",
+          "location": "Batam",
+          "phone_number": "082345678901",
+          "email": "bob.smith@example.com"
+      },
+      {
+          "id": 3,
+          "name": "Carol White",
+          "referral_code": "CAROL789",
+          "referrer_id": 4,
+          "created_at": "2024-07-03T14:00:00Z",
+          "bio": "Graphic designer and art lover.",
+          "location": "Bali",
+          "phone_number": "083456789012",
+          "email": "alpha.7886@gmail.com"
+      },
+      {
+          "id": 1,
+          "name": "David Brown",
+          "referral_code": "DAVID101",
+          "referrer_id": 4,
+          "created_at": "2024-07-04T16:00:00Z",
+          "bio": "Entrepreneur and tech advocate.",
+          "location": "Jakarta",
+          "phone_number": "084567890123",
+          "email": "david.brown@example.com"
+      },
+      {
+          "id": 5,
+          "name": "Eve Davis",
+          "referral_code": "EVE202",
+          "referrer_id": 4,
+          "created_at": "2024-07-05T18:00:00Z",
+          "bio": "Passionate about health and wellness.",
+          "location": "Bali",
+          "phone_number": "085678901234",
+          "email": "eve.davis@example.com"
+      },
+      {
+          "id": 6,
+          "name": "Frank Miller",
+          "referral_code": "FRANK303",
+          "referrer_id": 4,
+          "created_at": "2024-07-06T20:00:00Z",
+          "bio": "Software engineer and gamer.",
+          "location": "Jakarta",
+          "phone_number": "086789012345",
+          "email": "frank.miller@example.com"
+      },
+      {
+          "id": 7,
+          "name": "Grace Lee",
+          "referral_code": "GRACE404",
+          "referrer_id": null,
+          "created_at": "2024-07-07T22:00:00Z",
+          "bio": "Aspiring developer and tech enthusiast.",
+          "location": "Bali",
+          "phone_number": "087890123456",
+          "email": "grace.lee@example.com"
+      },
+      {
+          "id": 8,
+          "name": "Henry Wilson",
+          "referral_code": "HENRY505",
+          "referrer_id": 4,
+          "created_at": "2024-07-08T09:00:00Z",
+          "bio": "Content creator and gamer.",
+          "location": "Jakarta",
+          "phone_number": "088901234567",
+          "email": "henry.wilson@example.com"
+      },
+      {
+          "id": 9,
+          "name": "Ivy Martinez",
+          "referral_code": "IVY606",
+          "referrer_id": 4,
+          "created_at": "2024-07-09T11:00:00Z",
+          "bio": "Event planner and art enthusiast.",
+          "location": "Batam",
+          "phone_number": "089012345678",
+          "email": "ivy.martinez@example.com"
+      },
+      {
+          "id": 10,
+          "name": "Jack Taylor",
+          "referral_code": "JACK707",
+          "referrer_id": null,
+          "created_at": "2024-07-10T13:00:00Z",
+          "bio": "Travel blogger and adventure seeker.",
+          "location": "Bali",
+          "phone_number": "090123456789",
+          "email": "jack.taylor@example.com"
+      },
+      {
+          "id": 11,
+          "name": "Karen Harris",
+          "referral_code": "KAREN808",
+          "referrer_id": 4,
+          "created_at": "2024-07-11T15:00:00Z",
+          "bio": "Fitness coach and nutritionist.",
+          "location": "Jakarta",
+          "phone_number": "091234567890",
+          "email": "karen.harris@example.com"
+      },
+      {
+          "id": 12,
+          "name": "Leo Adams",
+          "referral_code": "LEO909",
+          "referrer_id": null,
+          "created_at": "2024-07-12T17:00:00Z",
+          "bio": "Web developer and tech lover.",
+          "location": "Batam",
+          "phone_number": "092345678901",
+          "email": "leo.adams@example.com"
+      },
+      {
+          "id": 13,
+          "name": "Mia Walker",
+          "referral_code": "MIA010",
+          "referrer_id": 4,
+          "created_at": "2024-07-13T19:00:00Z",
+          "bio": "Creative writer and community builder.",
+          "location": "Bali",
+          "phone_number": "093456789012",
+          "email": "mia.walker@example.com"
+      }
+  ],
+    "feedbacks": [
+      {
+          "id": "1",
+          "event_name": "FPS Fundamental",
+          "user_name": "Alice Johnson",
+          "rating": 4,
+          "review": "Great workshop! Learned a lot about FPS mechanics.",
+          "created_at": "2024-07-01T10:00:00Z",
+          "organizer_id": 4
+      },
+      {
+          "id": "2",
+          "event_name": "Virtual Reality Workshop: Immersive Experiences",
+          "user_name": "Bob Smith",
+          "rating": 5,
+          "review": "Amazing experience! The VR setups were top-notch.",
+          "created_at": "2024-07-02T12:00:00Z",
+          "organizer_id": 4
+      },
+      {
+          "id": "3",
+          "event_name": "Tech Startup Summit: Entrepreneurship in Action",
+          "user_name": "Carol White",
+          "rating": 3,
+          "review": "Informative but could use more interactive sessions.",
+          "created_at": "2024-07-03T14:00:00Z",
+          "organizer_id": 4
+      },
+      {
+          "id": "4",
+          "event_name": "FPS Fundamental",
+          "user_name": "David Brown",
+          "rating": 5,
+          "review": "Fantastic event with great insights into FPS games!",
+          "created_at": "2024-07-04T16:00:00Z",
+          "organizer_id": 4
+      },
+      {
+          "id": "5",
+          "event_name": "Virtual Reality Workshop: Immersive Experiences",
+          "user_name": "Eve Davis",
+          "rating": 4,
+          "review": "Really enjoyed the immersive VR experiences.",
+          "created_at": "2024-07-05T18:00:00Z",
+          "organizer_id": 4
+      },
+      {
+          "id": "6",
+          "event_name": "Tech Startup Summit: Entrepreneurship in Action",
+          "user_name": "Frank Miller",
+          "rating": 5,
+          "review": "Loved the networking opportunities and the talks.",
+          "created_at": "2024-07-06T20:00:00Z",
+          "organizer_id": 4
+      },
+      {
+          "id": "7",
+          "event_name": "FPS Fundamental",
+          "user_name": "Grace Lee",
+          "rating": 3,
+          "review": "Good content but the pace was a bit slow.",
+          "created_at": "2024-07-07T22:00:00Z",
+          "organizer_id": 4
+      },
+      {
+          "id": "8",
+          "event_name": "Virtual Reality Workshop: Immersive Experiences",
+          "user_name": "Henry Wilson",
+          "rating": 5,
+          "review": "Excellent VR sessions! Very engaging.",
+          "created_at": "2024-07-08T09:00:00Z",
+          "organizer_id": 4
+      },
+      {
+          "id": "9",
+          "event_name": "Tech Startup Summit: Entrepreneurship in Action",
+          "user_name": "Ivy Martinez",
+          "rating": 4,
+          "review": "Great content but could be more hands-on.",
+          "created_at": "2024-07-09T11:00:00Z",
+          "organizer_id": 4
+      },
+      {
+          "id": "10",
+          "event_name": "FPS Fundamental",
+          "user_name": "Jack Taylor",
+          "rating": 2,
+          "review": "The workshop was not as detailed as I expected.",
+          "created_at": "2024-07-10T13:00:00Z",
+          "organizer_id": 4
+      },
+      {
+          "id": "11",
+          "event_name": "Virtual Reality Workshop: Immersive Experiences",
+          "user_name": "Karen Harris",
+          "rating": 4,
+          "review": "Good event with interesting VR setups.",
+          "created_at": "2024-07-11T15:00:00Z",
+          "organizer_id": 4
+      },
+      {
+          "id": "12",
+          "event_name": "Tech Startup Summit: Entrepreneurship in Action",
+          "user_name": "Leo Adams",
+          "rating": 5,
+          "review": "Highly recommend for anyone interested in startups.",
+          "created_at": "2024-07-12T17:00:00Z",
+          "organizer_id": 4
+      },
+      {
+          "id": "13",
+          "event_name": "FPS Fundamental",
+          "user_name": "Mia Walker",
+          "rating": 3,
+          "review": "It was okay, but could have been more engaging.",
+          "created_at": "2024-07-13T19:00:00Z",
+          "organizer_id": 4
+      }
+    ],
+    "promotions": [
+      {
+          "name": "Early Bird Discount",
+          "type": "Percentage",
+          "amount": 15,
+          "event_name": "FPS Fundamental",
+          "event_id": 1,
+          "quota": 50,
+          "voucher_code": "FPS15EARLY",
+          "expire_date": "2024-08-01",
+          "user_id": 1
+      },
+      {
+          "name": "VR Enthusiast Special",
+          "type": "Fixed Amount",
+          "amount": 20,
+          "event_name": "Virtual Reality Workshop: Immersive Experiences",
+          "event_id": 5,
+          "quota": 30,
+          "voucher_code": "VR20OFF",
+          "expire_date": "2024-09-10",
+          "user_id": 1
+      },
+      {
+          "name": "Startup Super Saver",
+          "type": "Percentage",
+          "amount": 10,
+          "event_name": "Tech Startup Summit: Entrepreneurship in Action",
+          "event_id": 9,
+          "quota": 100,
+          "voucher_code": "STARTUP10",
+          "expire_date": "2024-07-31",
+          "user_id": 1
+      },
+      {
+          "name": "FPS Group Discount",
+          "type": "Fixed Amount",
+          "amount": 50,
+          "event_name": "FPS Fundamental",
+          "event_id": 1,
+          "quota": 20,
+          "voucher_code": "FPSGROUP50",
+          "expire_date": "2024-08-15",
+          "user_id": 1
+      },
+      {
+          "name": "VR Early Access",
+          "type": "Percentage",
+          "amount": 25,
+          "event_name": "Virtual Reality Workshop: Immersive Experiences",
+          "event_id": 5,
+          "quota": 40,
+          "voucher_code": "VREARLY25",
+          "expire_date": "2024-09-05",
+          "user_id": 1
+      },
+      {
+          "name": "Summit VIP Discount",
+          "type": "Fixed Amount",
+          "amount": 100,
+          "event_name": "Tech Startup Summit: Entrepreneurship in Action",
+          "event_id": 9,
+          "quota": 10,
+          "voucher_code": "VIP100",
+          "expire_date": "2024-07-20",
+          "user_id": 1
+      },
+      {
+          "name": "FPS Student Discount",
+          "type": "Percentage",
+          "amount": 20,
+          "event_name": "FPS Fundamental",
+          "event_id": 1,
+          "quota": 50,
+          "voucher_code": "FPSSTUDENT20",
+          "expire_date": "2024-08-10",
+          "user_id": 1
+      },
+      {
+          "name": "VR Flash Sale",
+          "type": "Fixed Amount",
+          "amount": 30,
+          "event_name": "Virtual Reality Workshop: Immersive Experiences",
+          "event_id": 5,
+          "quota": 50,
+          "voucher_code": "VRFLASH30",
+          "expire_date": "2024-09-01",
+          "user_id": 1
+      },
+      {
+          "name": "Summit Startup Pack",
+          "type": "Percentage",
+          "amount": 15,
+          "event_name": "Tech Startup Summit: Entrepreneurship in Action",
+          "event_id": 9,
+          "quota": 70,
+          "voucher_code": "STARTPACK15",
+          "expire_date": "2024-07-28",
+          "user_id": 1
+      },
+      {
+          "name": "FPS Night Owl",
+          "type": "Fixed Amount",
+          "amount": 25,
+          "event_name": "FPS Fundamental",
+          "event_id": 1,
+          "quota": 30,
+          "voucher_code": "FPSNIGHT25",
+          "expire_date": "2024-08-20",
+          "user_id": 1
+      },
+      {
+          "name": "VR Workshop Week",
+          "type": "Percentage",
+          "amount": 10,
+          "event_name": "Virtual Reality Workshop: Immersive Experiences",
+          "event_id": 5,
+          "quota": 25,
+          "voucher_code": "VRWEEK10",
+          "expire_date": "2024-09-15",
+          "user_id": 1
+      },
+      {
+          "name": "Summit Innovation Discount",
+          "type": "Fixed Amount",
+          "amount": 50,
+          "event_name": "Tech Startup Summit: Entrepreneurship in Action",
+          "event_id": 9,
+          "quota": 50,
+          "voucher_code": "INNOVATE50",
+          "expire_date": "2024-07-25",
+          "user_id": 1
+      },
+      {
+          "name": "FPS Early Access",
+          "type": "Percentage",
+          "amount": 30,
+          "event_name": "FPS Fundamental",
+          "event_id": 1,
+          "quota": 15,
+          "voucher_code": "FPSEARLY30",
+          "expire_date": "2024-08-05",
+          "user_id": 1
+      }
+  ],
+    
+    "events": [
+      {
+          "id": "1",
+          "name": "FPS Fundamental",
+          "detail": "Join us for a deep dive into the fundamentals of FPS gaming. This event will cover everything from the basics of first-person shooter mechanics to advanced strategies for competitive play. Whether you're a beginner looking to improve your skills or an experienced player aiming to take your game to the next level, this workshop is for you. Our expert instructors will guide you through a series of interactive sessions, providing hands-on experience with the latest FPS games and technologies. You'll also have the opportunity to network with other gaming enthusiasts and compete in friendly tournaments. Don't miss out on this chance to enhance your FPS gaming abilities and connect with like-minded individuals.",
+          "location": "Jakarta",
+          "ticket_type": [
+              {
+                  "id": 1,
+                  "name": "Standard",
+                  "price": 30000,
+                  "seats": 50
+              },
+              {
+                  "id": 2,
+                  "name": "VIP",
+                  "price": 50000,
+                  "seats": 50
+              }
+          ],
+          "start_date": "2024-07-21T00:00:00.000Z",
+          "end_date": "2024-07-22T00:00:00.000Z",
+          "organizer": {
+              "id": "1",
+              "name": "Emilys Johnson",
+              "image": "https://picsum.photos/1200/800"
+          },
+          "category": "Gaming",
+          "main_image": "https://picsum.photos/1200/800"
+      },
+      {
+          "id": "2",
+          "name": "Virtual Reality Workshop: Immersive Experiences",
+          "detail": "Experience the latest in VR technology at our immersive workshop. This event will feature hands-on demonstrations and interactive sessions with cutting-edge virtual reality equipment. You'll have the opportunity to explore a variety of VR applications, from gaming and entertainment to education and training. Our expert instructors will provide guidance on how to create and implement VR experiences, with a focus on both the technical and creative aspects. Whether you're a developer, designer, or simply a VR enthusiast, this workshop will offer valuable insights and practical skills. Join us to discover the future of virtual reality and learn how to harness its potential for your own projects.",
+          "location": "Bandung",
+          "ticket_type": [
+              {
+                  "id": 1,
+                  "name": "General Admission",
+                  "price": 30000,
+                  "seats": 25
+              },
+              {
+                  "id": 2,
+                  "name": "VIP",
+                  "price": 50000,
+                  "seats": 25
+              }
+          ],
+          "start_date": "2024-07-25T00:00:00.000Z",
+          "end_date": "2024-07-26T00:00:00.000Z",
+          "organizer": {
+              "id": "1",
+              "name": "Emilys Johnson",
+              "image": "https://picsum.photos/1200/800"
+          },
+          "category": "Technology",
+          "main_image": "https://picsum.photos/1200/800"
+      },
+      {
+          "id": "3",
+          "name": "Tech Startup Summit: Entrepreneurship in Action",
+          "detail": "Learn from the best in the industry about starting your own tech company. This summit brings together successful entrepreneurs, investors, and industry experts to share their insights and experiences. Over the course of two days, you'll attend keynote speeches, panel discussions, and interactive workshops covering a wide range of topics, including business planning, fundraising, product development, and marketing. You'll also have the chance to pitch your startup idea to potential investors and receive feedback from experienced mentors. Whether you're in the early stages of your startup journey or looking to scale your business, this summit will provide the knowledge and connections you need to succeed.",
+          "location": "Online",
+          "ticket_type": [
+              {
+                  "id": 1,
+                  "name": "Early Bird",
+                  "price": 50000,
+                  "seats": 50
+              },
+              {
+                  "id": 2,
+                  "name": "Standard",
+                  "price": 75000,
+                  "seats": 75
+              },
+              {
+                  "id": 3,
+                  "name": "VIP",
+                  "price": 100000,
+                  "seats": 25
+              }
+          ],
+          "start_date": "2024-07-28T00:00:00.000Z",
+          "end_date": "2024-07-29T00:00:00.000Z",
+          "organizer": {
+              "id": "1",
+              "name": "Emilys Johnson",
+              "image": "https://picsum.photos/1200/800"
+          },
+          "category": "Business",
+          "main_image": "https://picsum.photos/1200/800"
+      },
+      {
+          "id": "4",
+          "name": "Yoga and Wellness Retreat",
+          "detail": "Relax and rejuvenate at our yoga and wellness retreat. Set in the beautiful surroundings of Bali, this retreat offers a perfect escape from the hustle and bustle of everyday life. Participants will engage in daily yoga sessions, meditation practices, and wellness workshops designed to promote physical, mental, and emotional well-being. Our experienced instructors will guide you through various yoga styles and techniques, ensuring a holistic and personalized experience. In addition to the structured activities, you'll have plenty of free time to explore the natural beauty of Bali, enjoy healthy meals, and connect with fellow retreat-goers. Whether you're a seasoned yogi or a beginner, this retreat will leave you feeling refreshed and inspired.",
+          "location": "Bali",
+          "ticket_type": [
+              {
+                  "id": 1,
+                  "name": "Standard",
+                  "price": 150000,
+                  "seats": 50
+              },
+              {
+                  "id": 2,
+                  "name": "VIP",
+                  "price": 200000,
+                  "seats": 50
+              }
+          ],
+          "start_date": "2024-08-01T00:00:00.000Z",
+          "end_date": "2024-08-05T00:00:00.000Z",
+          "organizer": {
+              "id": "2",
+              "name": "Bob Smith",
+              "image": "https://picsum.photos/1200/800"
+          },
+          "category": "Health & Wellness",
+          "main_image": "https://picsum.photos/1200/800"
+      },
+      {
+          "id": "5",
+          "name": "Startup Bootcamp",
+          "detail": "Join our bootcamp to get your startup off the ground. This intensive program is designed for aspiring entrepreneurs who are serious about launching their own businesses. Over the course of three days, you'll participate in hands-on workshops, interactive sessions, and networking events. You'll learn how to develop a solid business plan, attract investors, build a strong team, and create a marketing strategy. Our experienced mentors will provide personalized feedback and guidance to help you refine your ideas and overcome challenges. Whether you're just starting out or looking to take your startup to the next level, this bootcamp will equip you with the tools and knowledge you need to succeed.",
+          "location": "Jakarta",
+          "ticket_type": [
+              {
+                  "id": 1,
+                  "name": "General Admission",
+                  "price": 0,
+                  "seats": 100
+              }
+          ],
+          "start_date": "2024-09-10T00:00:00.000Z",
+          "end_date": "2024-09-12T00:00:00.000Z",
+          "organizer": {
+              "id": "2",
+              "name": "Bob Smith",
+              "image": "https://picsum.photos/1200/800"
+          },
+          "category": "Business",
+          "main_image": "https://picsum.photos/1200/800"
+      },
+      {
+          "id": "6",
+          "name": "International Art Exhibition",
+          "detail": "Explore the latest works from local and international artists at our art exhibition. This event features a diverse range of artworks, including paintings, sculptures, installations, and digital art. You'll have the opportunity to meet the artists, learn about their creative processes, and purchase original pieces. In addition to the exhibition, there will be artist talks, panel discussions, and live demonstrations. Whether you're an art collector, enthusiast, or simply looking for inspiration, this event offers something for everyone. Join us for a celebration of creativity and artistic expression.",
+          "location": "Jakarta",
+          "ticket_type": [
+              {
+                  "id": 1,
+                  "name": "General Admission",
+                  "price": 0,
+                  "seats": 100
+              }
+          ],
+          "start_date": "2024-10-15T00:00:00.000Z",
+          "end_date": "2024-10-20T00:00:00.000Z",
+          "organizer": {
+              "id": "3",
+              "name": "Carol White",
+              "image": "https://picsum.photos/1200/800"
+          },
+          "category": "Art & Culture",
+          "main_image": "https://picsum.photos/1200/800"
+      },
+      {
+          "id": "7",
+          "name": "Music Festival",
+          "detail": "Join us for a weekend of music, food, and fun at our annual music festival. This event features a diverse lineup of artists and bands, spanning various genres and styles. In addition to the live performances, there will be food trucks, craft vendors, and interactive activities for all ages. Whether you're a music lover, foodie, or looking for a fun day out with friends and family, this festival has something for everyone. Enjoy great music, delicious food, and a vibrant atmosphere in the beautiful setting of Bali. Don't miss out on this unforgettable experience.",
+          "location": "Bali",
+          "ticket_type": [
+              {
+                  "id": 1,
+                  "name": "General Admission",
+                  "price": 200000,
+                  "seats": 400
+              },
+              {
+                  "id": 2,
+                  "name": "VIP",
+                  "price": 300000,
+                  "seats": 100
+              }
+          ],
+          "start_date": "2024-11-05T00:00:00.000Z",
+          "end_date": "2024-11-07T00:00:00.000Z",
+          "organizer": {
+              "id": "2",
+              "name": "Bob Smith",
+              "image": "https://picsum.photos/1200/800"
+          },
+          "category": "Entertainment",
+          "main_image": "https://picsum.photos/1200/800"
+      },
+      {
+          "id": "8",
+          "name": "Science Fair",
+          "detail": "Discover the latest in science and technology at our annual science fair. This event showcases innovative projects and experiments from students, researchers, and professionals. You'll have the opportunity to explore interactive exhibits, attend informative talks, and participate in hands-on workshops. Whether you're a science enthusiast, educator, or simply curious about the world around you, this fair offers something for everyone. Join us to celebrate the wonders of science and learn about the groundbreaking discoveries shaping our future.",
+          "location": "Online",
+          "ticket_type": [
+              {
+                  "id": 1,
+                  "name": "General Admission",
+                  "price": 0,
+                  "seats": 200
+              }
+          ],
+          "start_date": "2024-12-01T00:00:00.000Z",
+          "end_date": "2024-12-03T00:00:00.000Z",
+          "organizer": {
+              "id": "3",
+              "name": "Carol White",
+              "image": "https://picsum.photos/1200/800"
+          },
+          "category": "Science",
+          "main_image": "https://picsum.photos/1200/800"
+      },
+      {
+          "id": "9",
+          "name": "Automotive Show",
+          "detail": "See the latest cars and automotive technology at our annual automotive show. This event features a wide range of vehicles, from classic cars to the latest electric models. You'll have the opportunity to test drive new cars, attend product demonstrations, and learn about the latest advancements in automotive technology. Whether you're a car enthusiast, looking to buy a new vehicle, or simply interested in the future of transportation, this show offers something for everyone. Join us for an exciting and informative event that celebrates the world of automobiles.",
+          "location": "Jakarta",
+          "ticket_type": [
+              {
+                  "id": 1,
+                  "name": "General Admission",
+                  "price": 150000,
+                  "seats": 250
+              },
+              {
+                  "id": 2,
+                  "name": "VIP",
+                  "price": 250000,
+                  "seats": 50
+              }
+          ],
+          "start_date": "2025-01-10T00:00:00.000Z",
+          "end_date": "2025-01-12T00:00:00.000Z",
+          "organizer": {
+              "id": "1",
+              "name": "Emilys Johnson",
+              "image": "https://picsum.photos/1200/800"
+          },
+          "category": "Automotive",
+          "main_image": "https://picsum.photos/1200/800"
+      },
+      {
+          "id": "10",
+          "name": "Coding Bootcamp",
+          "detail": "Master the skills needed to become a professional developer at our intensive coding bootcamp. Over the course of eight weeks, you'll learn how to build web and mobile applications using the latest technologies and frameworks. Our experienced instructors will provide hands-on training, code reviews, and mentorship to help you succeed. Whether you're looking to start a new career in tech or upgrade your existing skills, this bootcamp will equip you with the knowledge and experience needed to excel in the industry. Join us for a transformative learning experience that will open up new opportunities in the world of software development.",
+          "location": "Batam",
+          "ticket_type": [
+              {
+                  "id": 1,
+                  "name": "Full Program",
+                  "price": 500000,
+                  "seats": 30
+              },
+              {
+                  "id": 2,
+                  "name": "Partial Program",
+                  "price": 300000,
+                  "seats": 20
+              }
+          ],
+          "start_date": "2025-02-01T00:00:00.000Z",
+          "end_date": "2025-03-28T00:00:00.000Z",
+          "organizer": {
+              "id": "2",
+              "name": "Bob Smith",
+              "image": "https://picsum.photos/1200/800"
+          },
+          "category": "Education",
+          "main_image": "https://picsum.photos/1200/800"
+      },
+      {
+          "id": "11",
+          "name": "Fashion Show",
+          "detail": "Experience the latest trends in fashion at our exclusive fashion show. This event will feature runway shows from top designers, showcasing their newest collections. You'll have the opportunity to see the latest styles and trends up close, meet the designers, and shop for your favorite pieces. In addition to the runway shows, there will be pop-up shops, styling sessions, and networking opportunities. Whether you're a fashion professional, enthusiast, or simply looking for inspiration, this event offers a unique and exciting experience. Join us for a celebration of style and creativity.",
+          "location": "Bali",
+          "ticket_type": [
+              {
+                  "id": 1,
+                  "name": "General Admission",
+                  "price": 250000,
+                  "seats": 100
+              },
+              {
+                  "id": 2,
+                  "name": "VIP",
+                  "price": 400000,
+                  "seats": 50
+              }
+          ],
+          "start_date": "2025-03-10T00:00:00.000Z",
+          "end_date": "2025-03-12T00:00:00.000Z",
+          "organizer": {
+              "id": "3",
+              "name": "Carol White",
+              "image": "https://picsum.photos/1200/800"
+          },
+          "category": "Fashion",
+          "main_image": "https://picsum.photos/1200/800"
+      },
+      {
+          "id": "12",
+          "name": "Health and Fitness Expo",
+          "detail": "Discover the latest in health and fitness at our annual expo. This event features a wide range of exhibitors showcasing the latest products, services, and trends in the health and fitness industry. You'll have the opportunity to attend informative seminars, participate in fitness classes, and receive health screenings. Whether you're a fitness enthusiast, health professional, or simply looking to improve your well-being, this expo offers something for everyone. Join us for a day of learning, networking, and inspiration as we explore the many aspects of health and fitness.",
+          "location": "Online",
+          "ticket_type": [
+              {
+                  "id": 1,
+                  "name": "General Admission",
+                  "price": 0,
+                  "seats": 100
+              }
+          ],
+          "start_date": "2025-04-05T00:00:00.000Z",
+          "end_date": "2025-04-06T00:00:00.000Z",
+          "organizer": {
+              "id": "2",
+              "name": "Bob Smith",
+              "image": "https://picsum.photos/1200/800"
+          },
+          "category": "Health & Fitness",
+          "main_image": "https://picsum.photos/1200/800"
+      },
+      {
+          "id": "13",
+          "name": "Photography Workshop",
+          "detail": "Enhance your photography skills at our comprehensive workshop. This event is designed for photographers of all levels, from beginners to advanced. You'll learn about various photography techniques, including composition, lighting, and post-processing. Our experienced instructors will provide hands-on training and personalized feedback to help you improve your skills. In addition to the technical aspects, you'll also explore the creative side of photography, including storytelling and developing your unique style. Whether you're looking to pursue photography professionally or as a hobby, this workshop will provide the knowledge and inspiration you need to take your photography to the next level.",
+          "location": "Jakarta",
+          "ticket_type": [
+              {
+                  "id": 1,
+                  "name": "Full Workshop",
+                  "price": 200000,
+                  "seats": 30
+              },
+              {
+                  "id": 2,
+                  "name": "Partial Workshop",
+                  "price": 100000,
+                  "seats": 20
+              }
+          ],
+          "start_date": "2025-05-15T00:00:00.000Z",
+          "end_date": "2025-05-17T00:00:00.000Z",
+          "organizer": {
+              "id": "3",
+              "name": "Carol White",
+              "image": "https://picsum.photos/1200/800"
+          },
+          "category": "Photography",
+          "main_image": "https://picsum.photos/1200/800"
+      },
+      {
+          "id": "14",
+          "name": "Cooking Masterclass",
+          "detail": "Join our cooking masterclass to learn from top chefs and elevate your culinary skills. This event features interactive cooking demonstrations, hands-on workshops, and tastings. You'll learn about various cooking techniques, ingredients, and recipes from different cuisines. Our expert chefs will provide personalized instruction and feedback to help you improve your cooking skills. Whether you're a home cook looking to try new recipes or a culinary professional seeking to expand your knowledge, this masterclass offers valuable insights and inspiration. Join us for a delicious and educational experience that will take your cooking to the next level.",
+          "location": "Bali",
+          "ticket_type": [
+              {
+                  "id": 1,
+                  "name": "General Admission",
+                  "price": 150000,
+                  "seats": 30
+              },
+              {
+                  "id": 2,
+                  "name": "VIP",
+                  "price": 250000,
+                  "seats": 20
+              }
+          ],
+          "start_date": "2025-06-10T00:00:00.000Z",
+          "end_date": "2025-06-12T00:00:00.000Z",
+          "organizer": {
+              "id": "1",
+              "name": "Emilys Johnson",
+              "image": "https://picsum.photos/1200/800"
+          },
+          "category": "Culinary",
+          "main_image": "https://picsum.photos/1200/800"
+      },
+      {
+          "id": "15",
+          "name": "Startup Networking Event",
+          "detail": "Connect with entrepreneurs, investors, and industry experts at our startup networking event. This event provides a platform for startups to showcase their ideas, pitch to investors, and network with potential partners and customers. In addition to the networking opportunities, there will be panel discussions, keynote speeches, and workshops covering various topics related to entrepreneurship and business development. Whether you're a startup founder, investor, or simply interested in the startup ecosystem, this event offers valuable insights and connections. Join us to build relationships, gain knowledge, and take your startup to the next level.",
+          "location": "Online",
+          "ticket_type": [
+              {
+                  "id": 1,
+                  "name": "General Admission",
+                  "price": 0,
+                  "seats": 100
+              }
+          ],
+          "start_date": "2025-07-15T00:00:00.000Z",
+          "end_date": "2025-07-16T00:00:00.000Z",
+          "organizer": {
+              "id": "3",
+              "name": "Carol White",
+              "image": "https://picsum.photos/1200/800"
+          },
+          "category": "Business",
+          "main_image": "https://picsum.photos/1200/800"
+      },
+      {
+          "id": "16",
+          "name": "Tech Conference",
+          "detail": "Join us for our annual tech conference to learn about the latest trends and innovations in the tech industry. This event features keynote speeches, panel discussions, and workshops from leading experts and innovators. You'll have the opportunity to explore new technologies, network with professionals, and gain valuable insights into the future of tech. Whether you're a developer, entrepreneur, or tech enthusiast, this conference offers something for everyone. Join us for a day of learning, networking, and inspiration as we explore the latest advancements in technology.",
+          "location": "Jakarta",
+          "ticket_type": [
+              {
+                  "id": 1,
+                  "name": "General Admission",
+                  "price": 0,
+                  "seats": 100
+              }
+          ],
+          "start_date": "2025-08-05T00:00:00.000Z",
+          "end_date": "2025-08-06T00:00:00.000Z",
+          "organizer": {
+              "id": "2",
+              "name": "Bob Smith",
+              "image": "https://picsum.photos/1200/800"
+          },
+          "category": "Technology",
+          "main_image": "https://picsum.photos/1200/800"
+      },
+      {
+          "id": "17",
+          "name": "Marketing Seminar",
+          "detail": "Learn the latest marketing strategies and techniques at our marketing seminar. This event features presentations and workshops from leading marketing experts, covering a wide range of topics including digital marketing, social media, content marketing, and more. You'll gain valuable insights into how to effectively promote your business, attract customers, and increase sales. Whether you're a business owner, marketer, or simply interested in learning more about marketing, this seminar offers practical knowledge and actionable strategies. Join us for a day of learning and networking as we explore the world of marketing.",
+          "location": "Online",
+          "ticket_type": [
+              {
+                  "id": 1,
+                  "name": "General Admission",
+                  "price": 0,
+                  "seats": 100
+              }
+          ],
+          "start_date": "2025-09-10T00:00:00.000Z",
+          "end_date": "2025-09-11T00:00:00.000Z",
+          "organizer": {
+              "id": "3",
+              "name": "Carol White",
+              "image": "https://picsum.photos/1200/800"
+          },
+          "category": "Marketing",
+          "main_image": "https://picsum.photos/1200/800"
+      },
+      {
+          "id": "18",
+          "name": "World International Blockchain Summit",
+          "detail": "Explore the world of blockchain and cryptocurrencies at our blockchain summit. This event features keynote speeches, panel discussions, and workshops from leading experts in the blockchain industry. You'll learn about the latest developments in blockchain technology, cryptocurrencies, and decentralized finance. Whether you're a developer, investor, or simply interested in learning more about blockchain, this summit offers valuable insights and opportunities. Join us for a day of learning, networking, and inspiration as we explore the future of blockchain technology.",
+          "location": "Jakarta",
+          "ticket_type": [
+              {
+                  "id": 1,
+                  "name": "General Admission",
+                  "price": 0,
+                  "seats": 100
+              }
+          ],
+          "start_date": "2025-10-15T00:00:00.000Z",
+          "end_date": "2025-10-16T00:00:00.000Z",
+          "organizer": {
+              "id": "2",
+              "name": "Bob Smith",
+              "image": "https://picsum.photos/1200/800"
+          },
+          "category": "Technology",
+          "main_image": "https://picsum.photos/1200/800"
+      },
+      {
+          "id": "19",
+          "name": "Music Production Workshop",
+          "detail": "Learn the art of music production at our hands-on workshop. This event is designed for aspiring music producers, musicians, and enthusiasts. You'll learn about various aspects of music production, including recording, mixing, and mastering. Our experienced instructors will provide personalized instruction and feedback to help you improve your skills. In addition to the technical aspects, you'll also explore the creative side of music production, including songwriting and arrangement. Whether you're looking to pursue a career in music production or simply interested in creating your own music, this workshop offers valuable knowledge and inspiration.",
+          "location": "Batam",
+          "ticket_type": [
+              {
+                  "id": 1,
+                  "name": "General Admission",
+                  "price": 0,
+                  "seats": 100
+              }
+          ],
+          "start_date": "2025-11-20T00:00:00.000Z",
+          "end_date": "2025-11-22T00:00:00.000Z",
+          "organizer": {
+              "id": "3",
+              "name": "Carol White",
+              "image": "https://picsum.photos/1200/800"
+          },
+          "category": "Music",
+          "main_image": "https://picsum.photos/1200/800"
+      },
+      {
+          "id": "20",
+          "name": "Fitness Bootcamp",
+          "detail": "Join our fitness bootcamp to get in shape and improve your overall health. This event features a variety of fitness classes, including strength training, cardio, yoga, and more. Our experienced trainers will provide personalized instruction and motivation to help you achieve your fitness goals. In addition to the physical workouts, there will be sessions on nutrition, wellness, and mental health. Whether you're looking to lose weight, build muscle, or simply improve your overall fitness, this bootcamp offers a comprehensive approach to health and wellness. Join us for a challenging and rewarding experience that will leave you feeling stronger and healthier.",
+          "location": "Bali",
+          "ticket_type": [
+              {
+                  "id": 1,
+                  "name": "General Admission",
+                  "price": 100000,
+                  "seats": 50
+              },
+              {
+                  "id": 2,
+                  "name": "VIP",
+                  "price": 200000,
+                  "seats": 20
+              }
+          ],
+          "start_date": "2025-12-01T00:00:00.000Z",
+          "end_date": "2025-12-05T00:00:00.000Z",
+          "organizer": {
+              "id": "1",
+              "name": "Emilys Johnson",
+              "image": "https://picsum.photos/1200/800"
+          },
+          "category": "Health & Fitness",
+          "main_image": "https://picsum.photos/1200/800"
+      },
+      {
+        "id": "21",
+        "name": "Annual Best Art Exhibition",
+        "detail": "Immerse yourself in the world of contemporary art at our annual art exhibition. This event features a diverse collection of artworks from emerging and established artists, spanning various mediums and styles. You'll have the opportunity to explore the exhibits, meet the artists, and purchase unique pieces. In addition to the visual art, there will be live performances, artist talks, and interactive installations. Whether you're an art collector, enthusiast, or simply looking for a cultural experience, this exhibition offers something for everyone. Join us for a celebration of creativity and inspiration in the vibrant setting of Jakarta.",
         "location": "Jakarta",
-        "ticket_type": [
-            {
-                "id": 1,
-                "name": "Standard",
-                "price": 30000,
-                "seats": 50
-            },
-            {
-                "id": 2,
-                "name": "VIP",
-                "price": 50000,
-                "seats": 50
-            }
-        ],
-        "start_date": "2024-07-21T00:00:00.000Z",
-        "end_date": "2024-07-22T00:00:00.000Z",
-        "organizer": {
-            "id": "1",
-            "name": "Emilys Johnson",
-            "image": "https://picsum.photos/1200/800"
-        },
-        "category": "Gaming",
-        "main_image": "https://picsum.photos/1200/800"
-    },
-    {
-        "id": "2",
-        "name": "Virtual Reality Workshop: Immersive Experiences",
-        "detail": "Experience the latest in VR technology at our immersive workshop. This event will feature hands-on demonstrations and interactive sessions with cutting-edge virtual reality equipment. You'll have the opportunity to explore a variety of VR applications, from gaming and entertainment to education and training. Our expert instructors will provide guidance on how to create and implement VR experiences, with a focus on both the technical and creative aspects. Whether you're a developer, designer, or simply a VR enthusiast, this workshop will offer valuable insights and practical skills. Join us to discover the future of virtual reality and learn how to harness its potential for your own projects.",
-        "location": "Bandung",
         "ticket_type": [
             {
                 "id": 1,
                 "name": "General Admission",
-                "price": 30000,
-                "seats": 25
-            },
-            {
-                "id": 2,
-                "name": "VIP",
                 "price": 50000,
-                "seats": 25
+                "seats": 300
             }
         ],
-        "start_date": "2024-07-25T00:00:00.000Z",
-        "end_date": "2024-07-26T00:00:00.000Z",
+        "start_date": "2024-05-05T00:00:00.000Z",
+        "end_date": "2024-05-07T00:00:00.000Z",
         "organizer": {
-            "id": "1",
-            "name": "Emilys Johnson",
+            "id": "2",
+            "name": "Bob Smith",
             "image": "https://picsum.photos/1200/800"
         },
-        "category": "Technology",
+        "category": "Art",
         "main_image": "https://picsum.photos/1200/800"
     },
     {
-        "id": "3",
-        "name": "Tech Startup Summit: Entrepreneurship in Action",
-        "detail": "Learn from the best in the industry about starting your own tech company. This summit brings together successful entrepreneurs, investors, and industry experts to share their insights and experiences. Over the course of two days, you'll attend keynote speeches, panel discussions, and interactive workshops covering a wide range of topics, including business planning, fundraising, product development, and marketing. You'll also have the chance to pitch your startup idea to potential investors and receive feedback from experienced mentors. Whether you're in the early stages of your startup journey or looking to scale your business, this summit will provide the knowledge and connections you need to succeed.",
-        "location": "Online",
-        "ticket_type": [
-            {
-                "id": 1,
-                "name": "Early Bird",
-                "price": 50000,
-                "seats": 50
-            },
-            {
-                "id": 2,
-                "name": "Standard",
-                "price": 75000,
-                "seats": 75
-            },
-            {
-                "id": 3,
-                "name": "VIP",
-                "price": 100000,
-                "seats": 25
-            }
-        ],
-        "start_date": "2024-07-28T00:00:00.000Z",
-        "end_date": "2024-07-29T00:00:00.000Z",
-        "organizer": {
-            "id": "1",
-            "name": "Emilys Johnson",
-            "image": "https://picsum.photos/1200/800"
-        },
-        "category": "Business",
-        "main_image": "https://picsum.photos/1200/800"
-    },
-    {
-        "id": "4",
-        "name": "Yoga and Wellness Retreat",
-        "detail": "Relax and rejuvenate at our yoga and wellness retreat. Set in the beautiful surroundings of Bali, this retreat offers a perfect escape from the hustle and bustle of everyday life. Participants will engage in daily yoga sessions, meditation practices, and wellness workshops designed to promote physical, mental, and emotional well-being. Our experienced instructors will guide you through various yoga styles and techniques, ensuring a holistic and personalized experience. In addition to the structured activities, you'll have plenty of free time to explore the natural beauty of Bali, enjoy healthy meals, and connect with fellow retreat-goers. Whether you're a seasoned yogi or a beginner, this retreat will leave you feeling refreshed and inspired.",
+        "id": "22",
+        "name": "Literary Festival",
+        "detail": "Join us for a celebration of literature at our annual literary festival. This event brings together authors, poets, and readers for a series of readings, panel discussions, and workshops. You'll have the opportunity to hear from your favorite writers, discover new voices, and participate in interactive sessions. In addition to the literary events, there will be book signings, vendor booths, and networking opportunities. Whether you're a lifelong reader, aspiring writer, or simply interested in the literary world, this festival offers a rich and engaging experience. Join us in the beautiful setting of Bali for a weekend of literary exploration.",
         "location": "Bali",
         "ticket_type": [
             {
                 "id": 1,
-                "name": "Standard",
+                "name": "General Admission",
+                "price": 0,
+                "seats": 200
+            }
+        ],
+        "start_date": "2024-06-10T00:00:00.000Z",
+        "end_date": "2024-06-12T00:00:00.000Z",
+        "organizer": {
+            "id": "3",
+            "name": "Carol White",
+            "image": "https://picsum.photos/1200/800"
+        },
+        "category": "Literature",
+        "main_image": "https://picsum.photos/1200/800"
+    },
+    {
+        "id": "23",
+        "name": "Film Festival",
+        "detail": "Experience the magic of cinema at our annual film festival. This event showcases a diverse selection of films from around the world, including feature films, documentaries, and short films. You'll have the opportunity to attend screenings, meet filmmakers, and participate in Q&A sessions. In addition to the film screenings, there will be panel discussions, workshops, and networking events. Whether you're a film enthusiast, industry professional, or simply looking for a fun and engaging cultural experience, this festival offers something for everyone. Join us in Jakarta for a celebration of cinema and storytelling.",
+        "location": "Jakarta",
+        "ticket_type": [
+            {
+                "id": 1,
+                "name": "General Admission",
+                "price": 100000,
+                "seats": 300
+            },
+            {
+                "id": 2,
+                "name": "VIP",
+                "price": 200000,
+                "seats": 100
+            }
+        ],
+        "start_date": "2024-07-01T00:00:00.000Z",
+        "end_date": "2024-07-05T00:00:00.000Z",
+        "organizer": {
+            "id": "2",
+            "name": "Bob Smith",
+            "image": "https://picsum.photos/1200/800"
+        },
+        "category": "Film",
+        "main_image": "https://picsum.photos/1200/800"
+    },
+    {
+        "id": "24",
+        "name": "Yoga Retreat",
+        "detail": "Reconnect with yourself and nature at our serene yoga retreat. This event offers a range of yoga classes, meditation sessions, and wellness workshops led by experienced instructors. You'll have the opportunity to deepen your practice, learn new techniques, and rejuvenate your mind and body. In addition to the yoga sessions, there will be activities such as hiking, swimming, and healthy cooking classes. Whether you're a seasoned yogi or new to the practice, this retreat provides a peaceful and supportive environment for personal growth and relaxation. Join us in the tranquil setting of Bali for a transformative wellness experience.",
+        "location": "Bali",
+        "ticket_type": [
+            {
+                "id": 1,
+                "name": "General Admission",
                 "price": 150000,
                 "seats": 50
             },
             {
                 "id": 2,
                 "name": "VIP",
-                "price": 200000,
-                "seats": 50
+                "price": 250000,
+                "seats": 20
             }
         ],
-        "start_date": "2024-08-01T00:00:00.000Z",
-        "end_date": "2024-08-05T00:00:00.000Z",
+        "start_date": "2024-08-15T00:00:00.000Z",
+        "end_date": "2024-08-20T00:00:00.000Z",
         "organizer": {
-            "id": "2",
-            "name": "Bob Smith",
+            "id": "1",
+            "name": "Emilys Johnson",
             "image": "https://picsum.photos/1200/800"
         },
-        "category": "Health & Wellness",
+        "category": "Wellness",
         "main_image": "https://picsum.photos/1200/800"
     },
     {
-        "id": "5",
-        "name": "Startup Bootcamp",
-        "detail": "Join our bootcamp to get your startup off the ground. This intensive program is designed for aspiring entrepreneurs who are serious about launching their own businesses. Over the course of three days, you'll participate in hands-on workshops, interactive sessions, and networking events. You'll learn how to develop a solid business plan, attract investors, build a strong team, and create a marketing strategy. Our experienced mentors will provide personalized feedback and guidance to help you refine your ideas and overcome challenges. Whether you're just starting out or looking to take your startup to the next level, this bootcamp will equip you with the tools and knowledge you need to succeed.",
+        "id": "25",
+        "name": "Startup Pitch Competition",
+        "detail": "Showcase your innovative ideas and compete for funding at our startup pitch competition. This event provides a platform for entrepreneurs to present their business ideas to a panel of investors and industry experts. You'll have the opportunity to receive valuable feedback, network with potential partners, and compete for prizes. In addition to the pitch competition, there will be workshops and networking events to help you refine your pitch and build connections. Whether you're a startup founder looking for funding or an investor seeking new opportunities, this event offers a dynamic and engaging experience. Join us in Jakarta for an exciting day of innovation and entrepreneurship.",
         "location": "Jakarta",
         "ticket_type": [
             {
@@ -668,72 +1182,20 @@
             }
         ],
         "start_date": "2024-09-10T00:00:00.000Z",
-        "end_date": "2024-09-12T00:00:00.000Z",
+        "end_date": "2024-09-10T00:00:00.000Z",
         "organizer": {
-            "id": "2",
-            "name": "Bob Smith",
+            "id": "3",
+            "name": "Carol White",
             "image": "https://picsum.photos/1200/800"
         },
         "category": "Business",
         "main_image": "https://picsum.photos/1200/800"
     },
     {
-        "id": "6",
-        "name": "International Art Exhibition",
-        "detail": "Explore the latest works from local and international artists at our art exhibition. This event features a diverse range of artworks, including paintings, sculptures, installations, and digital art. You'll have the opportunity to meet the artists, learn about their creative processes, and purchase original pieces. In addition to the exhibition, there will be artist talks, panel discussions, and live demonstrations. Whether you're an art collector, enthusiast, or simply looking for inspiration, this event offers something for everyone. Join us for a celebration of creativity and artistic expression.",
-        "location": "Jakarta",
-        "ticket_type": [
-            {
-                "id": 1,
-                "name": "General Admission",
-                "price": 0,
-                "seats": 100
-            }
-        ],
-        "start_date": "2024-10-15T00:00:00.000Z",
-        "end_date": "2024-10-20T00:00:00.000Z",
-        "organizer": {
-            "id": "3",
-            "name": "Carol White",
-            "image": "https://picsum.photos/1200/800"
-        },
-        "category": "Art & Culture",
-        "main_image": "https://picsum.photos/1200/800"
-    },
-    {
-        "id": "7",
-        "name": "Music Festival",
-        "detail": "Join us for a weekend of music, food, and fun at our annual music festival. This event features a diverse lineup of artists and bands, spanning various genres and styles. In addition to the live performances, there will be food trucks, craft vendors, and interactive activities for all ages. Whether you're a music lover, foodie, or looking for a fun day out with friends and family, this festival has something for everyone. Enjoy great music, delicious food, and a vibrant atmosphere in the beautiful setting of Bali. Don't miss out on this unforgettable experience.",
-        "location": "Bali",
-        "ticket_type": [
-            {
-                "id": 1,
-                "name": "General Admission",
-                "price": 200000,
-                "seats": 400
-            },
-            {
-                "id": 2,
-                "name": "VIP",
-                "price": 300000,
-                "seats": 100
-            }
-        ],
-        "start_date": "2024-11-05T00:00:00.000Z",
-        "end_date": "2024-11-07T00:00:00.000Z",
-        "organizer": {
-            "id": "2",
-            "name": "Bob Smith",
-            "image": "https://picsum.photos/1200/800"
-        },
-        "category": "Entertainment",
-        "main_image": "https://picsum.photos/1200/800"
-    },
-    {
-        "id": "8",
-        "name": "Science Fair",
-        "detail": "Discover the latest in science and technology at our annual science fair. This event showcases innovative projects and experiments from students, researchers, and professionals. You'll have the opportunity to explore interactive exhibits, attend informative talks, and participate in hands-on workshops. Whether you're a science enthusiast, educator, or simply curious about the world around you, this fair offers something for everyone. Join us to celebrate the wonders of science and learn about the groundbreaking discoveries shaping our future.",
-        "location": "Online",
+        "id": "26",
+        "name": "Environmental Conference",
+        "detail": "Join us for a comprehensive exploration of environmental issues at our annual environmental conference. This event brings together experts, activists, and policymakers to discuss the latest developments in environmental science, policy, and activism. You'll have the opportunity to attend keynote speeches, panel discussions, and workshops covering a wide range of topics, including climate change, conservation, and sustainable development. In addition to the formal sessions, there will be networking opportunities and exhibits showcasing innovative environmental solutions. Whether you're an environmental professional, student, or concerned citizen, this conference offers valuable insights and inspiration. Join us in Batam for a day of learning and action.",
+        "location": "Batam",
         "ticket_type": [
             {
                 "id": 1,
@@ -742,176 +1204,31 @@
                 "seats": 200
             }
         ],
-        "start_date": "2024-12-01T00:00:00.000Z",
-        "end_date": "2024-12-03T00:00:00.000Z",
-        "organizer": {
-            "id": "3",
-            "name": "Carol White",
-            "image": "https://picsum.photos/1200/800"
-        },
-        "category": "Science",
-        "main_image": "https://picsum.photos/1200/800"
-    },
-    {
-        "id": "9",
-        "name": "Automotive Show",
-        "detail": "See the latest cars and automotive technology at our annual automotive show. This event features a wide range of vehicles, from classic cars to the latest electric models. You'll have the opportunity to test drive new cars, attend product demonstrations, and learn about the latest advancements in automotive technology. Whether you're a car enthusiast, looking to buy a new vehicle, or simply interested in the future of transportation, this show offers something for everyone. Join us for an exciting and informative event that celebrates the world of automobiles.",
-        "location": "Jakarta",
-        "ticket_type": [
-            {
-                "id": 1,
-                "name": "General Admission",
-                "price": 150000,
-                "seats": 250
-            },
-            {
-                "id": 2,
-                "name": "VIP",
-                "price": 250000,
-                "seats": 50
-            }
-        ],
-        "start_date": "2025-01-10T00:00:00.000Z",
-        "end_date": "2025-01-12T00:00:00.000Z",
-        "organizer": {
-            "id": "1",
-            "name": "Emilys Johnson",
-            "image": "https://picsum.photos/1200/800"
-        },
-        "category": "Automotive",
-        "main_image": "https://picsum.photos/1200/800"
-    },
-    {
-        "id": "10",
-        "name": "Coding Bootcamp",
-        "detail": "Master the skills needed to become a professional developer at our intensive coding bootcamp. Over the course of eight weeks, you'll learn how to build web and mobile applications using the latest technologies and frameworks. Our experienced instructors will provide hands-on training, code reviews, and mentorship to help you succeed. Whether you're looking to start a new career in tech or upgrade your existing skills, this bootcamp will equip you with the knowledge and experience needed to excel in the industry. Join us for a transformative learning experience that will open up new opportunities in the world of software development.",
-        "location": "Batam",
-        "ticket_type": [
-            {
-                "id": 1,
-                "name": "Full Program",
-                "price": 500000,
-                "seats": 30
-            },
-            {
-                "id": 2,
-                "name": "Partial Program",
-                "price": 300000,
-                "seats": 20
-            }
-        ],
-        "start_date": "2025-02-01T00:00:00.000Z",
-        "end_date": "2025-03-28T00:00:00.000Z",
+        "start_date": "2024-10-20T00:00:00.000Z",
+        "end_date": "2024-10-21T00:00:00.000Z",
         "organizer": {
             "id": "2",
             "name": "Bob Smith",
             "image": "https://picsum.photos/1200/800"
         },
-        "category": "Education",
+        "category": "Environment",
         "main_image": "https://picsum.photos/1200/800"
     },
     {
-        "id": "11",
-        "name": "Fashion Show",
-        "detail": "Experience the latest trends in fashion at our exclusive fashion show. This event will feature runway shows from top designers, showcasing their newest collections. You'll have the opportunity to see the latest styles and trends up close, meet the designers, and shop for your favorite pieces. In addition to the runway shows, there will be pop-up shops, styling sessions, and networking opportunities. Whether you're a fashion professional, enthusiast, or simply looking for inspiration, this event offers a unique and exciting experience. Join us for a celebration of style and creativity.",
+        "id": "27",
+        "name": "Culinary Festival",
+        "detail": "Indulge in a gastronomic adventure at our annual culinary festival. This event features a variety of food and drink from around the world, with vendors offering everything from street food to gourmet dishes. You'll have the opportunity to taste a wide range of flavors, learn from cooking demonstrations, and participate in hands-on workshops. In addition to the food, there will be live music, entertainment, and activities for all ages. Whether you're a foodie, chef, or simply looking for a fun day out, this festival offers a delicious and entertaining experience. Join us in Bali for a celebration of culinary creativity.",
         "location": "Bali",
         "ticket_type": [
             {
                 "id": 1,
                 "name": "General Admission",
-                "price": 250000,
-                "seats": 100
-            },
-            {
-                "id": 2,
-                "name": "VIP",
-                "price": 400000,
-                "seats": 50
+                "price": 50000,
+                "seats": 300
             }
         ],
-        "start_date": "2025-03-10T00:00:00.000Z",
-        "end_date": "2025-03-12T00:00:00.000Z",
-        "organizer": {
-            "id": "3",
-            "name": "Carol White",
-            "image": "https://picsum.photos/1200/800"
-        },
-        "category": "Fashion",
-        "main_image": "https://picsum.photos/1200/800"
-    },
-    {
-        "id": "12",
-        "name": "Health and Fitness Expo",
-        "detail": "Discover the latest in health and fitness at our annual expo. This event features a wide range of exhibitors showcasing the latest products, services, and trends in the health and fitness industry. You'll have the opportunity to attend informative seminars, participate in fitness classes, and receive health screenings. Whether you're a fitness enthusiast, health professional, or simply looking to improve your well-being, this expo offers something for everyone. Join us for a day of learning, networking, and inspiration as we explore the many aspects of health and fitness.",
-        "location": "Online",
-        "ticket_type": [
-            {
-                "id": 1,
-                "name": "General Admission",
-                "price": 0,
-                "seats": 100
-            }
-        ],
-        "start_date": "2025-04-05T00:00:00.000Z",
-        "end_date": "2025-04-06T00:00:00.000Z",
-        "organizer": {
-            "id": "2",
-            "name": "Bob Smith",
-            "image": "https://picsum.photos/1200/800"
-        },
-        "category": "Health & Fitness",
-        "main_image": "https://picsum.photos/1200/800"
-    },
-    {
-        "id": "13",
-        "name": "Photography Workshop",
-        "detail": "Enhance your photography skills at our comprehensive workshop. This event is designed for photographers of all levels, from beginners to advanced. You'll learn about various photography techniques, including composition, lighting, and post-processing. Our experienced instructors will provide hands-on training and personalized feedback to help you improve your skills. In addition to the technical aspects, you'll also explore the creative side of photography, including storytelling and developing your unique style. Whether you're looking to pursue photography professionally or as a hobby, this workshop will provide the knowledge and inspiration you need to take your photography to the next level.",
-        "location": "Jakarta",
-        "ticket_type": [
-            {
-                "id": 1,
-                "name": "Full Workshop",
-                "price": 200000,
-                "seats": 30
-            },
-            {
-                "id": 2,
-                "name": "Partial Workshop",
-                "price": 100000,
-                "seats": 20
-            }
-        ],
-        "start_date": "2025-05-15T00:00:00.000Z",
-        "end_date": "2025-05-17T00:00:00.000Z",
-        "organizer": {
-            "id": "3",
-            "name": "Carol White",
-            "image": "https://picsum.photos/1200/800"
-        },
-        "category": "Photography",
-        "main_image": "https://picsum.photos/1200/800"
-    },
-    {
-        "id": "14",
-        "name": "Cooking Masterclass",
-        "detail": "Join our cooking masterclass to learn from top chefs and elevate your culinary skills. This event features interactive cooking demonstrations, hands-on workshops, and tastings. You'll learn about various cooking techniques, ingredients, and recipes from different cuisines. Our expert chefs will provide personalized instruction and feedback to help you improve your cooking skills. Whether you're a home cook looking to try new recipes or a culinary professional seeking to expand your knowledge, this masterclass offers valuable insights and inspiration. Join us for a delicious and educational experience that will take your cooking to the next level.",
-        "location": "Bali",
-        "ticket_type": [
-            {
-                "id": 1,
-                "name": "General Admission",
-                "price": 150000,
-                "seats": 30
-            },
-            {
-                "id": 2,
-                "name": "VIP",
-                "price": 250000,
-                "seats": 20
-            }
-        ],
-        "start_date": "2025-06-10T00:00:00.000Z",
-        "end_date": "2025-06-12T00:00:00.000Z",
+        "start_date": "2024-11-05T00:00:00.000Z",
+        "end_date": "2024-11-07T00:00:00.000Z",
         "organizer": {
             "id": "1",
             "name": "Emilys Johnson",
@@ -921,112 +1238,32 @@
         "main_image": "https://picsum.photos/1200/800"
     },
     {
-        "id": "15",
-        "name": "Startup Networking Event",
-        "detail": "Connect with entrepreneurs, investors, and industry experts at our startup networking event. This event provides a platform for startups to showcase their ideas, pitch to investors, and network with potential partners and customers. In addition to the networking opportunities, there will be panel discussions, keynote speeches, and workshops covering various topics related to entrepreneurship and business development. Whether you're a startup founder, investor, or simply interested in the startup ecosystem, this event offers valuable insights and connections. Join us to build relationships, gain knowledge, and take your startup to the next level.",
-        "location": "Online",
-        "ticket_type": [
-            {
-                "id": 1,
-                "name": "General Admission",
-                "price": 0,
-                "seats": 100
-            }
-        ],
-        "start_date": "2025-07-15T00:00:00.000Z",
-        "end_date": "2025-07-16T00:00:00.000Z",
-        "organizer": {
-            "id": "3",
-            "name": "Carol White",
-            "image": "https://picsum.photos/1200/800"
-        },
-        "category": "Business",
-        "main_image": "https://picsum.photos/1200/800"
-    },
-    {
-        "id": "16",
-        "name": "Tech Conference",
-        "detail": "Join us for our annual tech conference to learn about the latest trends and innovations in the tech industry. This event features keynote speeches, panel discussions, and workshops from leading experts and innovators. You'll have the opportunity to explore new technologies, network with professionals, and gain valuable insights into the future of tech. Whether you're a developer, entrepreneur, or tech enthusiast, this conference offers something for everyone. Join us for a day of learning, networking, and inspiration as we explore the latest advancements in technology.",
+        "id": "28",
+        "name": "Music Festival",
+        "detail": "Experience the thrill of live music at our annual music festival. This event features performances from a diverse lineup of artists, spanning genres from rock to electronic to indie. You'll have the opportunity to see your favorite bands, discover new music, and enjoy a range of festival activities. In addition to the music, there will be food and drink vendors, art installations, and interactive experiences. Whether you're a music lover, festival-goer, or simply looking for a fun and memorable experience, this festival offers something for everyone. Join us in Jakarta for a weekend of music and celebration.",
         "location": "Jakarta",
         "ticket_type": [
             {
                 "id": 1,
                 "name": "General Admission",
-                "price": 0,
-                "seats": 100
-            }
-        ],
-        "start_date": "2025-08-05T00:00:00.000Z",
-        "end_date": "2025-08-06T00:00:00.000Z",
-        "organizer": {
-            "id": "2",
-            "name": "Bob Smith",
-            "image": "https://picsum.photos/1200/800"
-        },
-        "category": "Technology",
-        "main_image": "https://picsum.photos/1200/800"
-    },
-    {
-        "id": "17",
-        "name": "Marketing Seminar",
-        "detail": "Learn the latest marketing strategies and techniques at our marketing seminar. This event features presentations and workshops from leading marketing experts, covering a wide range of topics including digital marketing, social media, content marketing, and more. You'll gain valuable insights into how to effectively promote your business, attract customers, and increase sales. Whether you're a business owner, marketer, or simply interested in learning more about marketing, this seminar offers practical knowledge and actionable strategies. Join us for a day of learning and networking as we explore the world of marketing.",
-        "location": "Online",
-        "ticket_type": [
+                "price": 200000,
+                "seats": 500
+            },
             {
-                "id": 1,
-                "name": "General Admission",
-                "price": 0,
+                "id": 2,
+                "name": "VIP",
+                "price": 400000,
                 "seats": 100
-            }
-        ],
-        "start_date": "2025-09-10T00:00:00.000Z",
-        "end_date": "2025-09-11T00:00:00.000Z",
-        "organizer": {
-            "id": "3",
-            "name": "Carol White",
-            "image": "https://picsum.photos/1200/800"
-        },
-        "category": "Marketing",
-        "main_image": "https://picsum.photos/1200/800"
-    },
-    {
-        "id": "18",
-        "name": "World International Blockchain Summit",
-        "detail": "Explore the world of blockchain and cryptocurrencies at our blockchain summit. This event features keynote speeches, panel discussions, and workshops from leading experts in the blockchain industry. You'll learn about the latest developments in blockchain technology, cryptocurrencies, and decentralized finance. Whether you're a developer, investor, or simply interested in learning more about blockchain, this summit offers valuable insights and opportunities. Join us for a day of learning, networking, and inspiration as we explore the future of blockchain technology.",
-        "location": "Jakarta",
-        "ticket_type": [
+            },
             {
-                "id": 1,
-                "name": "General Admission",
-                "price": 0,
-                "seats": 100
+                "id": 3,
+                "name": "Backstage Pass",
+                "price": 600000,
+                "seats": 50
             }
         ],
-        "start_date": "2025-10-15T00:00:00.000Z",
-        "end_date": "2025-10-16T00:00:00.000Z",
-        "organizer": {
-            "id": "2",
-            "name": "Bob Smith",
-            "image": "https://picsum.photos/1200/800"
-        },
-        "category": "Technology",
-        "main_image": "https://picsum.photos/1200/800"
-    },
-    {
-        "id": "19",
-        "name": "Music Production Workshop",
-        "detail": "Learn the art of music production at our hands-on workshop. This event is designed for aspiring music producers, musicians, and enthusiasts. You'll learn about various aspects of music production, including recording, mixing, and mastering. Our experienced instructors will provide personalized instruction and feedback to help you improve your skills. In addition to the technical aspects, you'll also explore the creative side of music production, including songwriting and arrangement. Whether you're looking to pursue a career in music production or simply interested in creating your own music, this workshop offers valuable knowledge and inspiration.",
-        "location": "Batam",
-        "ticket_type": [
-            {
-                "id": 1,
-                "name": "General Admission",
-                "price": 0,
-                "seats": 100
-            }
-        ],
-        "start_date": "2025-11-20T00:00:00.000Z",
-        "end_date": "2025-11-22T00:00:00.000Z",
+        "start_date": "2024-12-10T00:00:00.000Z",
+        "end_date": "2024-12-12T00:00:00.000Z",
         "organizer": {
             "id": "3",
             "name": "Carol White",
@@ -1036,10 +1273,212 @@
         "main_image": "https://picsum.photos/1200/800"
     },
     {
-        "id": "20",
-        "name": "Fitness Bootcamp",
-        "detail": "Join our fitness bootcamp to get in shape and improve your overall health. This event features a variety of fitness classes, including strength training, cardio, yoga, and more. Our experienced trainers will provide personalized instruction and motivation to help you achieve your fitness goals. In addition to the physical workouts, there will be sessions on nutrition, wellness, and mental health. Whether you're looking to lose weight, build muscle, or simply improve your overall fitness, this bootcamp offers a comprehensive approach to health and wellness. Join us for a challenging and rewarding experience that will leave you feeling stronger and healthier.",
+        "id": "29",
+        "name": "Tech Startup Workshop",
+        "detail": "Learn how to launch and grow your tech startup at our intensive workshop. This event covers a range of topics essential for startup success, including product development, funding, marketing, and scaling. You'll hear from experienced entrepreneurs, investors, and industry experts who will share their insights and strategies. In addition to the presentations, there will be hands-on workshops, networking opportunities, and one-on-one mentoring sessions. Whether you're just starting out or looking to take your startup to the next level, this workshop offers practical knowledge and support. Join us in Batam for a transformative learning experience.",
+        "location": "Batam",
+        "ticket_type": [
+            {
+                "id": 1,
+                "name": "General Admission",
+                "price": 100000,
+                "seats": 100
+            },
+            {
+                "id": 2,
+                "name": "VIP",
+                "price": 200000,
+                "seats": 50
+            }
+        ],
+        "start_date": "2025-01-15T00:00:00.000Z",
+        "end_date": "2025-01-17T00:00:00.000Z",
+        "organizer": {
+            "id": "1",
+            "name": "Emilys Johnson",
+            "image": "https://picsum.photos/1200/800"
+        },
+        "category": "Technology",
+        "main_image": "https://picsum.photos/1200/800"
+    },
+    {
+        "id": "30",
+        "name": "Digital Marketing Bootcamp",
+        "detail": "Master the skills needed to succeed in digital marketing at our comprehensive bootcamp. This event covers a wide range of topics, including SEO, social media marketing, content marketing, email marketing, and more. You'll learn from industry experts through a combination of presentations, hands-on workshops, and case studies. In addition to the formal sessions, there will be networking opportunities and one-on-one mentoring to help you apply what you've learned. Whether you're a marketing professional looking to update your skills or a business owner seeking to improve your online presence, this bootcamp offers valuable knowledge and practical strategies. Join us online for an immersive learning experience.",
+        "location": "Online",
+        "ticket_type": [
+            {
+                "id": 1,
+                "name": "General Admission",
+                "price": 0,
+                "seats": 100
+            }
+        ],
+        "start_date": "2025-02-10T00:00:00.000Z",
+        "end_date": "2025-02-12T00:00:00.000Z",
+        "organizer": {
+            "id": "2",
+            "name": "Bob Smith",
+            "image": "https://picsum.photos/1200/800"
+        },
+        "category": "Marketing",
+        "main_image": "https://picsum.photos/1200/800"
+    },
+    {
+        "id": "31",
+        "name": "Creative Writing Workshop",
+        "detail": "Unlock your creative potential at our immersive creative writing workshop. This event offers a range of sessions focused on different aspects of writing, including fiction, non-fiction, poetry, and screenwriting. You'll learn from accomplished writers who will share their techniques, tips, and insights. In addition to the formal sessions, there will be opportunities for peer review, one-on-one mentoring, and writing exercises. Whether you're an aspiring writer or looking to hone your skills, this workshop provides a supportive and inspiring environment. Join us in Bali for a weekend of creativity and literary exploration.",
         "location": "Bali",
+        "ticket_type": [
+            {
+                "id": 1,
+                "name": "General Admission",
+                "price": 50000,
+                "seats": 50
+            },
+            {
+                "id": 2,
+                "name": "VIP",
+                "price": 100000,
+                "seats": 20
+            }
+        ],
+        "start_date": "2025-03-05T00:00:00.000Z",
+        "end_date": "2025-03-07T00:00:00.000Z",
+        "organizer": {
+            "id": "3",
+            "name": "Carol White",
+            "image": "https://picsum.photos/1200/800"
+        },
+        "category": "Literature",
+        "main_image": "https://picsum.photos/1200/800"
+    },
+    {
+        "id": "32",
+        "name": "Health and Wellness Expo",
+        "detail": "Discover the latest trends and innovations in health and wellness at our annual expo. This event features a variety of exhibitors showcasing products and services related to fitness, nutrition, mental health, and more. You'll have the opportunity to attend workshops, participate in fitness classes, and receive health screenings. In addition to the exhibitor booths, there will be keynote speeches and panel discussions from experts in the health and wellness industry. Whether you're looking to improve your own health or work in the wellness field, this expo offers valuable information and resources. Join us in Jakarta for a comprehensive exploration of health and wellness.",
+        "location": "Jakarta",
+        "ticket_type": [
+            {
+                "id": 1,
+                "name": "General Admission",
+                "price": 0,
+                "seats": 200
+            }
+        ],
+        "start_date": "2025-04-10T00:00:00.000Z",
+        "end_date": "2025-04-12T00:00:00.000Z",
+        "organizer": {
+            "id": "1",
+            "name": "Emilys Johnson",
+            "image": "https://picsum.photos/1200/800"
+        },
+        "category": "Health & Wellness",
+        "main_image": "https://picsum.photos/1200/800"
+    },
+    {
+        "id": "33",
+        "name": "Sustainability Forum",
+        "detail": "Join us for a comprehensive discussion on sustainability at our annual forum. This event brings together experts, activists, and policymakers to explore the latest developments in sustainable practices and technologies. You'll have the opportunity to attend keynote speeches, panel discussions, and workshops covering a wide range of topics, including renewable energy, sustainable agriculture, and green building. In addition to the formal sessions, there will be networking opportunities and exhibits showcasing innovative solutions. Whether you're a sustainability professional, student, or concerned citizen, this forum offers valuable insights and inspiration. Join us in Batam for a day of learning and action.",
+        "location": "Batam",
+        "ticket_type": [
+            {
+                "id": 1,
+                "name": "General Admission",
+                "price": 0,
+                "seats": 150
+            }
+        ],
+        "start_date": "2025-05-15T00:00:00.000Z",
+        "end_date": "2025-05-16T00:00:00.000Z",
+        "organizer": {
+            "id": "3",
+            "name": "Carol White",
+            "image": "https://picsum.photos/1200/800"
+        },
+        "category": "Environment",
+        "main_image": "https://picsum.photos/1200/800"
+    },
+    {
+        "id": "34",
+        "name": "Tech Innovators Conference",
+        "detail": "Explore the future of technology at our annual tech innovators conference. This event brings together leading minds in the tech industry to discuss the latest advancements and trends. You'll have the opportunity to attend keynote speeches, panel discussions, and workshops on topics such as artificial intelligence, blockchain, and cybersecurity. In addition to the formal sessions, there will be networking opportunities and exhibits showcasing cutting-edge technologies. Whether you're a tech professional, entrepreneur, or enthusiast, this conference offers valuable insights and inspiration. Join us in Jakarta for a dynamic and engaging exploration of technology.",
+        "location": "Jakarta",
+        "ticket_type": [
+            {
+                "id": 1,
+                "name": "General Admission",
+                "price": 0,
+                "seats": 300
+            }
+        ],
+        "start_date": "2025-06-10T00:00:00.000Z",
+        "end_date": "2025-06-12T00:00:00.000Z",
+        "organizer": {
+            "id": "2",
+            "name": "Bob Smith",
+            "image": "https://picsum.photos/1200/800"
+        },
+        "category": "Technology",
+        "main_image": "https://picsum.photos/1200/800"
+    },
+    {
+        "id": "35",
+        "name": "Photography Workshop",
+        "detail": "Enhance your photography skills at our immersive workshop. This event offers a range of sessions covering different aspects of photography, including composition, lighting, and post-processing. You'll learn from experienced photographers who will share their techniques, tips, and insights. In addition to the formal sessions, there will be hands-on practice, peer review, and one-on-one mentoring. Whether you're a beginner or looking to take your skills to the next level, this workshop provides a supportive and inspiring environment. Join us in Bali for a weekend of creativity and learning.",
+        "location": "Bali",
+        "ticket_type": [
+            {
+                "id": 1,
+                "name": "General Admission",
+                "price": 50000,
+                "seats": 50
+            },
+            {
+                "id": 2,
+                "name": "VIP",
+                "price": 100000,
+                "seats": 20
+            }
+        ],
+        "start_date": "2025-07-05T00:00:00.000Z",
+        "end_date": "2025-07-07T00:00:00.000Z",
+        "organizer": {
+            "id": "3",
+            "name": "Carol White",
+            "image": "https://picsum.photos/1200/800"
+        },
+        "category": "Photography",
+        "main_image": "https://picsum.photos/1200/800"
+    },
+    {
+        "id": "36",
+        "name": "Fashion Show",
+        "detail": "Witness the latest trends and designs at our annual fashion show. This event features collections from renowned designers as well as up-and-coming talent. You'll have the opportunity to see the latest fashion trends, meet designers, and enjoy a night of glamour and style. In addition to the runway shows, there will be pop-up shops, networking opportunities, and after-parties. Whether you're a fashion enthusiast, industry professional, or simply looking for a night out, this event offers a stylish and entertaining experience. Join us in Jakarta for a celebration of fashion and creativity.",
+        "location": "Jakarta",
+        "ticket_type": [
+            {
+                "id": 1,
+                "name": "General Admission",
+                "price": 0,
+                "seats": 200
+            }
+        ],
+        "start_date": "2025-08-01T00:00:00.000Z",
+        "end_date": "2025-08-01T00:00:00.000Z",
+        "organizer": {
+            "id": "1",
+            "name": "Emilys Johnson",
+            "image": "https://picsum.photos/1200/800"
+        },
+        "category": "Fashion",
+        "main_image": "https://picsum.photos/1200/800"
+    },
+    {
+        "id": "37",
+        "name": "Startup Accelerator Program",
+        "detail": "Take your startup to the next level with our intensive accelerator program. This event offers a range of resources and support to help you grow your business, including mentoring, funding opportunities, and workshops. You'll have the opportunity to work with experienced entrepreneurs and investors who will provide guidance and feedback. In addition to the formal sessions, there will be networking opportunities and one-on-one mentoring. Whether you're just starting out or looking to scale your business, this program offers valuable knowledge and support. Join us in Batam for a transformative learning experience.",
+        "location": "Batam",
         "ticket_type": [
             {
                 "id": 1,
@@ -1054,181 +1493,153 @@
                 "seats": 20
             }
         ],
-        "start_date": "2025-12-01T00:00:00.000Z",
-        "end_date": "2025-12-05T00:00:00.000Z",
+        "start_date": "2025-09-10T00:00:00.000Z",
+        "end_date": "2025-09-15T00:00:00.000Z",
         "organizer": {
-            "id": "1",
-            "name": "Emilys Johnson",
+            "id": "2",
+            "name": "Bob Smith",
             "image": "https://picsum.photos/1200/800"
         },
-        "category": "Health & Fitness",
+        "category": "Business",
         "main_image": "https://picsum.photos/1200/800"
     },
     {
-      "id": "21",
-      "name": "Annual Best Art Exhibition",
-      "detail": "Immerse yourself in the world of contemporary art at our annual art exhibition. This event features a diverse collection of artworks from emerging and established artists, spanning various mediums and styles. You'll have the opportunity to explore the exhibits, meet the artists, and purchase unique pieces. In addition to the visual art, there will be live performances, artist talks, and interactive installations. Whether you're an art collector, enthusiast, or simply looking for a cultural experience, this exhibition offers something for everyone. Join us for a celebration of creativity and inspiration in the vibrant setting of Jakarta.",
-      "location": "Jakarta",
+        "id": "38",
+        "name": "Film Making Workshop",
+        "detail": "Learn the art of filmmaking at our comprehensive workshop. This event covers a wide range of topics, including scriptwriting, directing, cinematography, and editing. You'll learn from experienced filmmakers who will share their techniques, tips, and insights. In addition to the formal sessions, there will be hands-on practice, peer review, and one-on-one mentoring. Whether you're an aspiring filmmaker or looking to hone your skills, this workshop provides a supportive and inspiring environment. Join us in Bali for a weekend of creativity and learning.",
+        "location": "Bali",
+        "ticket_type": [
+            {
+                "id": 1,
+                "name": "General Admission",
+                "price": 100000,
+                "seats": 50
+            },
+            {
+                "id": 2,
+                "name": "VIP",
+                "price": 200000,
+                "seats": 20
+            },
+            {
+                "id": 3,
+                "name": "Backstage Pass",
+                "price": 300000,
+                "seats": 10
+            }
+        ],
+        "start_date": "2025-10-05T00:00:00.000Z",
+        "end_date": "2025-10-07T00:00:00.000Z",
+        "organizer": {
+            "id": "3",
+            "name": "Carol White",
+            "image": "https://picsum.photos/1200/800"
+        },
+        "category": "Film",
+        "main_image": "https://picsum.photos/1200/800"
+    },
+    {
+        "id": "39",
+        "name": "Jakarta Blockchain Summit",
+        "detail": "Explore the future of blockchain technology at our annual summit. This event brings together leading experts and innovators to discuss the latest developments and trends in blockchain. You'll have the opportunity to attend keynote speeches, panel discussions, and workshops on topics such as cryptocurrency, smart contracts, and decentralized applications. In addition to the formal sessions, there will be networking opportunities and exhibits showcasing cutting-edge blockchain solutions. Whether you're a blockchain professional, investor, or enthusiast, this summit offers valuable insights and inspiration. Join us in Jakarta for a dynamic and engaging exploration of blockchain technology.",
+        "location": "Jakarta",
+        "ticket_type": [
+            {
+                "id": 1,
+                "name": "General Admission",
+                "price": 0,
+                "seats": 300
+            }
+        ],
+        "start_date": "2025-11-10T00:00:00.000Z",
+        "end_date": "2025-11-12T00:00:00.000Z",
+        "organizer": {
+            "id": "2",
+            "name": "Bob Smith",
+            "image": "https://picsum.photos/1200/800"
+        },
+        "category": "Technology",
+        "main_image": "https://picsum.photos/1200/800"
+    },
+    {
+      "id": "40",
+      "name": "Digital Art Workshop",
+      "detail": "Enhance your digital art skills at our immersive workshop. This event offers a range of sessions covering different aspects of digital art, including drawing, painting, and 3D modeling. You'll learn from experienced digital artists who will share their techniques, tips, and insights. In addition to the formal sessions, there will be hands-on practice, peer review, and one-on-one mentoring. Whether you're a beginner or looking to take your skills to the next level, this workshop provides a supportive and inspiring environment. Join us in Bali for a creative experience.",
+      "location": "Bali",
       "ticket_type": [
           {
               "id": 1,
               "name": "General Admission",
-              "price": 50000,
-              "seats": 300
+              "price": 100000,
+              "seats": 50
+          },
+          {
+              "id": 2,
+              "name": "VIP",
+              "price": 200000,
+              "seats": 20
           }
       ],
-      "start_date": "2024-05-05T00:00:00.000Z",
-      "end_date": "2024-05-07T00:00:00.000Z",
+      "start_date": "2025-11-01T00:00:00.000Z",
+      "end_date": "2025-11-03T00:00:00.000Z",
       "organizer": {
-          "id": "2",
-          "name": "Bob Smith",
+          "id": "3",
+          "name": "Carol White",
           "image": "https://picsum.photos/1200/800"
       },
       "category": "Art",
       "main_image": "https://picsum.photos/1200/800"
   },
   {
-      "id": "22",
-      "name": "Literary Festival",
-      "detail": "Join us for a celebration of literature at our annual literary festival. This event brings together authors, poets, and readers for a series of readings, panel discussions, and workshops. You'll have the opportunity to hear from your favorite writers, discover new voices, and participate in interactive sessions. In addition to the literary events, there will be book signings, vendor booths, and networking opportunities. Whether you're a lifelong reader, aspiring writer, or simply interested in the literary world, this festival offers a rich and engaging experience. Join us in the beautiful setting of Bali for a weekend of literary exploration.",
+      "id": "41",
+      "name": "AI and Machine Learning Summit",
+      "detail": "Dive into the future of technology at our AI and Machine Learning Summit. This event gathers leading experts and innovators in the field to discuss cutting-edge advancements, trends, and applications in AI and machine learning. Attendees will have the opportunity to engage in keynote speeches, panel discussions, and hands-on workshops that explore the latest tools and techniques. Whether you're an industry professional, researcher, or enthusiast, this summit offers invaluable insights and networking opportunities. Join us in Jakarta for a transformative experience.",
+      "location": "Jakarta",
+      "ticket_type": [
+          {
+              "id": 1,
+              "name": "General Admission",
+              "price": 0,
+              "seats": 300
+          },
+          {
+              "id": 2,
+              "name": "Premium Access",
+              "price": 250000,
+              "seats": 100
+          }
+      ],
+      "start_date": "2025-12-01T00:00:00.000Z",
+      "end_date": "2025-12-03T00:00:00.000Z",
+      "organizer": {
+          "id": "2",
+          "name": "Bob Smith",
+          "image": "https://picsum.photos/1200/800"
+      },
+      "category": "Technology",
+      "main_image": "https://picsum.photos/1200/800"
+  },
+  {
+      "id": "42",
+      "name": "Culinary Arts Festival",
+      "detail": "Join us for a celebration of culinary creativity at our Culinary Arts Festival. This event showcases a variety of food and beverage trends, featuring renowned chefs, local vendors, and interactive cooking demonstrations. Attendees will have the chance to sample delicious dishes, attend workshops, and engage with industry experts. Whether you're a food lover or aspiring chef, this festival offers a unique opportunity to learn, taste, and connect. Join us in Bali for a flavorful experience.",
       "location": "Bali",
       "ticket_type": [
           {
               "id": 1,
               "name": "General Admission",
               "price": 0,
-              "seats": 200
-          }
-      ],
-      "start_date": "2024-06-10T00:00:00.000Z",
-      "end_date": "2024-06-12T00:00:00.000Z",
-      "organizer": {
-          "id": "3",
-          "name": "Carol White",
-          "image": "https://picsum.photos/1200/800"
-      },
-      "category": "Literature",
-      "main_image": "https://picsum.photos/1200/800"
-  },
-  {
-      "id": "23",
-      "name": "Film Festival",
-      "detail": "Experience the magic of cinema at our annual film festival. This event showcases a diverse selection of films from around the world, including feature films, documentaries, and short films. You'll have the opportunity to attend screenings, meet filmmakers, and participate in Q&A sessions. In addition to the film screenings, there will be panel discussions, workshops, and networking events. Whether you're a film enthusiast, industry professional, or simply looking for a fun and engaging cultural experience, this festival offers something for everyone. Join us in Jakarta for a celebration of cinema and storytelling.",
-      "location": "Jakarta",
-      "ticket_type": [
-          {
-              "id": 1,
-              "name": "General Admission",
-              "price": 100000,
-              "seats": 300
+              "seats": 400
           },
           {
               "id": 2,
-              "name": "VIP",
-              "price": 200000,
-              "seats": 100
-          }
-      ],
-      "start_date": "2024-07-01T00:00:00.000Z",
-      "end_date": "2024-07-05T00:00:00.000Z",
-      "organizer": {
-          "id": "2",
-          "name": "Bob Smith",
-          "image": "https://picsum.photos/1200/800"
-      },
-      "category": "Film",
-      "main_image": "https://picsum.photos/1200/800"
-  },
-  {
-      "id": "24",
-      "name": "Yoga Retreat",
-      "detail": "Reconnect with yourself and nature at our serene yoga retreat. This event offers a range of yoga classes, meditation sessions, and wellness workshops led by experienced instructors. You'll have the opportunity to deepen your practice, learn new techniques, and rejuvenate your mind and body. In addition to the yoga sessions, there will be activities such as hiking, swimming, and healthy cooking classes. Whether you're a seasoned yogi or new to the practice, this retreat provides a peaceful and supportive environment for personal growth and relaxation. Join us in the tranquil setting of Bali for a transformative wellness experience.",
-      "location": "Bali",
-      "ticket_type": [
-          {
-              "id": 1,
-              "name": "General Admission",
+              "name": "VIP Experience",
               "price": 150000,
               "seats": 50
-          },
-          {
-              "id": 2,
-              "name": "VIP",
-              "price": 250000,
-              "seats": 20
           }
       ],
-      "start_date": "2024-08-15T00:00:00.000Z",
-      "end_date": "2024-08-20T00:00:00.000Z",
-      "organizer": {
-          "id": "1",
-          "name": "Emilys Johnson",
-          "image": "https://picsum.photos/1200/800"
-      },
-      "category": "Wellness",
-      "main_image": "https://picsum.photos/1200/800"
-  },
-  {
-      "id": "25",
-      "name": "Startup Pitch Competition",
-      "detail": "Showcase your innovative ideas and compete for funding at our startup pitch competition. This event provides a platform for entrepreneurs to present their business ideas to a panel of investors and industry experts. You'll have the opportunity to receive valuable feedback, network with potential partners, and compete for prizes. In addition to the pitch competition, there will be workshops and networking events to help you refine your pitch and build connections. Whether you're a startup founder looking for funding or an investor seeking new opportunities, this event offers a dynamic and engaging experience. Join us in Jakarta for an exciting day of innovation and entrepreneurship.",
-      "location": "Jakarta",
-      "ticket_type": [
-          {
-              "id": 1,
-              "name": "General Admission",
-              "price": 0,
-              "seats": 100
-          }
-      ],
-      "start_date": "2024-09-10T00:00:00.000Z",
-      "end_date": "2024-09-10T00:00:00.000Z",
-      "organizer": {
-          "id": "3",
-          "name": "Carol White",
-          "image": "https://picsum.photos/1200/800"
-      },
-      "category": "Business",
-      "main_image": "https://picsum.photos/1200/800"
-  },
-  {
-      "id": "26",
-      "name": "Environmental Conference",
-      "detail": "Join us for a comprehensive exploration of environmental issues at our annual environmental conference. This event brings together experts, activists, and policymakers to discuss the latest developments in environmental science, policy, and activism. You'll have the opportunity to attend keynote speeches, panel discussions, and workshops covering a wide range of topics, including climate change, conservation, and sustainable development. In addition to the formal sessions, there will be networking opportunities and exhibits showcasing innovative environmental solutions. Whether you're an environmental professional, student, or concerned citizen, this conference offers valuable insights and inspiration. Join us in Batam for a day of learning and action.",
-      "location": "Batam",
-      "ticket_type": [
-          {
-              "id": 1,
-              "name": "General Admission",
-              "price": 0,
-              "seats": 200
-          }
-      ],
-      "start_date": "2024-10-20T00:00:00.000Z",
-      "end_date": "2024-10-21T00:00:00.000Z",
-      "organizer": {
-          "id": "2",
-          "name": "Bob Smith",
-          "image": "https://picsum.photos/1200/800"
-      },
-      "category": "Environment",
-      "main_image": "https://picsum.photos/1200/800"
-  },
-  {
-      "id": "27",
-      "name": "Culinary Festival",
-      "detail": "Indulge in a gastronomic adventure at our annual culinary festival. This event features a variety of food and drink from around the world, with vendors offering everything from street food to gourmet dishes. You'll have the opportunity to taste a wide range of flavors, learn from cooking demonstrations, and participate in hands-on workshops. In addition to the food, there will be live music, entertainment, and activities for all ages. Whether you're a foodie, chef, or simply looking for a fun day out, this festival offers a delicious and entertaining experience. Join us in Bali for a celebration of culinary creativity.",
-      "location": "Bali",
-      "ticket_type": [
-          {
-              "id": 1,
-              "name": "General Admission",
-              "price": 50000,
-              "seats": 300
-          }
-      ],
-      "start_date": "2024-11-05T00:00:00.000Z",
-      "end_date": "2024-11-07T00:00:00.000Z",
+      "start_date": "2026-01-10T00:00:00.000Z",
+      "end_date": "2026-01-12T00:00:00.000Z",
       "organizer": {
           "id": "1",
           "name": "Emilys Johnson",
@@ -1238,32 +1649,124 @@
       "main_image": "https://picsum.photos/1200/800"
   },
   {
-      "id": "28",
-      "name": "Music Festival",
-      "detail": "Experience the thrill of live music at our annual music festival. This event features performances from a diverse lineup of artists, spanning genres from rock to electronic to indie. You'll have the opportunity to see your favorite bands, discover new music, and enjoy a range of festival activities. In addition to the music, there will be food and drink vendors, art installations, and interactive experiences. Whether you're a music lover, festival-goer, or simply looking for a fun and memorable experience, this festival offers something for everyone. Join us in Jakarta for a weekend of music and celebration.",
+      "id": "43",
+      "name": "Virtual Reality Expo",
+      "detail": "Step into the future of immersive technology at our Virtual Reality Expo. This event will showcase the latest advancements in virtual and augmented reality, featuring demonstrations from industry leaders and innovators. Attendees will have the chance to experience cutting-edge VR applications, attend workshops, and participate in panel discussions on the future of the technology. Whether you're a tech enthusiast or industry professional, this expo offers a unique opportunity to explore the potential of virtual reality. Join us online for an unforgettable experience.",
+      "location": "Online",
+      "ticket_type": [
+          {
+              "id": 1,
+              "name": "Free Access",
+              "price": 0,
+              "seats": 500
+          }
+      ],
+      "start_date": "2026-02-15T00:00:00.000Z",
+      "end_date": "2026-02-17T00:00:00.000Z",
+      "organizer": {
+          "id": "3",
+          "name": "Carol White",
+          "image": "https://picsum.photos/1200/800"
+      },
+      "category": "Technology",
+      "main_image": "https://picsum.photos/1200/800"
+  },
+  {
+      "id": "44",
+      "name": "International Coding Bootcamp",
+      "detail": "Elevate your coding skills at our International Coding Bootcamp. This event is designed for developers of all levels, offering a wide range of workshops and sessions that cover various programming languages, frameworks, and best practices. Attendees will benefit from hands-on coding sessions, mentorship opportunities, and networking with fellow developers. Whether you're looking to start a new career in tech or enhance your existing skills, this bootcamp provides invaluable resources and knowledge. Join us in Jakarta for an empowering coding experience.",
       "location": "Jakarta",
       "ticket_type": [
           {
               "id": 1,
               "name": "General Admission",
               "price": 200000,
-              "seats": 500
+              "seats": 300
           },
           {
               "id": 2,
-              "name": "VIP",
+              "name": "VIP Pass",
               "price": 400000,
+              "seats": 100
+          }
+      ],
+      "start_date": "2026-03-20T00:00:00.000Z",
+      "end_date": "2026-03-22T00:00:00.000Z",
+      "organizer": {
+          "id": "2",
+          "name": "Bob Smith",
+          "image": "https://picsum.photos/1200/800"
+      },
+      "category": "Technology",
+      "main_image": "https://picsum.photos/1200/800"
+  },
+  {
+      "id": "45",
+      "name": "Global Entrepreneurship Summit",
+      "detail": "Join us at the Global Entrepreneurship Summit, where innovative minds come together to discuss trends, challenges, and opportunities in entrepreneurship. This event features inspiring keynote speeches, interactive panel discussions, and networking opportunities that connect aspiring entrepreneurs with industry leaders. Attendees will gain valuable insights into launching and scaling businesses in today's dynamic landscape. Whether you're an established entrepreneur or just starting out, this summit provides the tools and connections you need for success. Join us in Batam for an impactful experience.",
+      "location": "Batam",
+      "ticket_type": [
+          {
+              "id": 1,
+              "name": "General Admission",
+              "price": 0,
+              "seats": 500
+          }
+      ],
+      "start_date": "2026-04-15T00:00:00.000Z",
+      "end_date": "2026-04-17T00:00:00.000Z",
+      "organizer": {
+          "id": "1",
+          "name": "Emilys Johnson",
+          "image": "https://picsum.photos/1200/800"
+      },
+      "category": "Business",
+      "main_image": "https://picsum.photos/1200/800"
+  },
+  {
+      "id": "46",
+      "name": "Digital Transformation Forum",
+      "detail": "Explore the world of digital transformation at our annual forum. This event brings together experts, businesses, and innovators to discuss strategies and technologies that drive digital change. Attendees will have the opportunity to participate in keynote speeches, workshops, and networking events that explore real-world case studies and successful digital initiatives. Whether you're a business leader, IT professional, or tech enthusiast, this forum provides valuable insights into navigating the digital landscape. Join us in Jakarta for a forward-thinking experience.",
+      "location": "Jakarta",
+      "ticket_type": [
+          {
+              "id": 1,
+              "name": "General Admission",
+              "price": 0,
+              "seats": 200
+          }
+      ],
+      "start_date": "2026-05-10T00:00:00.000Z",
+      "end_date": "2026-05-12T00:00:00.000Z",
+      "organizer": {
+          "id": "2",
+          "name": "Bob Smith",
+          "image": "https://picsum.photos/1200/800"
+      },
+      "category": "Technology",
+      "main_image": "https://picsum.photos/1200/800"
+  },
+  {
+      "id": "47",
+      "name": "Music and Arts Festival",
+      "detail": "Celebrate the fusion of music and art at our vibrant festival. This event features live performances from talented musicians, interactive art installations, and engaging workshops that explore the intersection of creativity. Attendees will have the chance to enjoy diverse musical genres, participate in artistic activities, and connect with fellow creatives. Whether you're a music lover, artist, or simply looking for a fun day out, this festival offers an unforgettable experience. Join us in Bali for a weekend of artistic celebration.",
+      "location": "Bali",
+      "ticket_type": [
+          {
+              "id": 1,
+              "name": "General Admission",
+              "price": 100000,
               "seats": 100
           },
           {
-              "id": 3,
-              "name": "Backstage Pass",
-              "price": 600000,
+              "id": 2,
+              "name": "VIP Pass",
+              "price": 250000,
               "seats": 50
           }
       ],
-      "start_date": "2024-12-10T00:00:00.000Z",
-      "end_date": "2024-12-12T00:00:00.000Z",
+      "start_date": "2026-06-01T00:00:00.000Z",
+      "end_date": "2026-06-03T00:00:00.000Z",
       "organizer": {
           "id": "3",
           "name": "Carol White",
@@ -1273,986 +1776,484 @@
       "main_image": "https://picsum.photos/1200/800"
   },
   {
-      "id": "29",
-      "name": "Tech Startup Workshop",
-      "detail": "Learn how to launch and grow your tech startup at our intensive workshop. This event covers a range of topics essential for startup success, including product development, funding, marketing, and scaling. You'll hear from experienced entrepreneurs, investors, and industry experts who will share their insights and strategies. In addition to the presentations, there will be hands-on workshops, networking opportunities, and one-on-one mentoring sessions. Whether you're just starting out or looking to take your startup to the next level, this workshop offers practical knowledge and support. Join us in Batam for a transformative learning experience.",
-      "location": "Batam",
+      "id": "48",
+      "name": "Blockchain Developer Conference",
+      "detail": "Join us for the Blockchain Developer Conference, where industry leaders gather to discuss the future of blockchain technology and its applications. This event features expert speakers, hands-on workshops, and networking opportunities that connect developers with innovators in the blockchain space. Attendees will gain insights into emerging trends, best practices, and the latest developments in blockchain technology. Whether you're a seasoned developer or new to the field, this conference offers valuable knowledge and connections. Join us in Jakarta for an enlightening experience.",
+      "location": "Jakarta",
       "ticket_type": [
           {
               "id": 1,
               "name": "General Admission",
-              "price": 100000,
-              "seats": 100
+              "price": 0,
+              "seats": 300
           },
           {
               "id": 2,
-              "name": "VIP",
+              "name": "Developer Pass",
               "price": 200000,
-              "seats": 50
+              "seats": 100
           }
       ],
-      "start_date": "2025-01-15T00:00:00.000Z",
-      "end_date": "2025-01-17T00:00:00.000Z",
+      "start_date": "2026-07-10T00:00:00.000Z",
+      "end_date": "2026-07-12T00:00:00.000Z",
       "organizer": {
-          "id": "1",
-          "name": "Emilys Johnson",
+          "id": "2",
+          "name": "Bob Smith",
           "image": "https://picsum.photos/1200/800"
       },
       "category": "Technology",
       "main_image": "https://picsum.photos/1200/800"
   },
   {
-      "id": "30",
-      "name": "Digital Marketing Bootcamp",
-      "detail": "Master the skills needed to succeed in digital marketing at our comprehensive bootcamp. This event covers a wide range of topics, including SEO, social media marketing, content marketing, email marketing, and more. You'll learn from industry experts through a combination of presentations, hands-on workshops, and case studies. In addition to the formal sessions, there will be networking opportunities and one-on-one mentoring to help you apply what you've learned. Whether you're a marketing professional looking to update your skills or a business owner seeking to improve your online presence, this bootcamp offers valuable knowledge and practical strategies. Join us online for an immersive learning experience.",
-      "location": "Online",
+      "id": "49",
+      "name": "E-Sports Championship",
+      "detail": "Join the ultimate showdown at our E-Sports Championship. This event brings together top teams from around the world to compete in thrilling matches across various popular games. Attendees will have the opportunity to witness live competitions, participate in meet-and-greets with gamers, and enjoy exciting activities. Whether you're a hardcore gamer or a casual fan, this championship offers an electrifying atmosphere and a chance to cheer for your favorite teams. Join us in Jakarta for a spectacular gaming event.",
+      "location": "Jakarta",
       "ticket_type": [
           {
               "id": 1,
               "name": "General Admission",
               "price": 0,
+              "seats": 500
+          },
+          {
+              "id": 2,
+              "name": "VIP Experience",
+              "price": 150000,
               "seats": 100
           }
       ],
-      "start_date": "2025-02-10T00:00:00.000Z",
-      "end_date": "2025-02-12T00:00:00.000Z",
+      "start_date": "2026-08-01T00:00:00.000Z",
+      "end_date": "2026-08-03T00:00:00.000Z",
+      "organizer": {
+          "id": "3",
+          "name": "Carol White",
+          "image": "https://picsum.photos/1200/800"
+      },
+      "category": "Gaming",
+      "main_image": "https://picsum.photos/1200/800"
+  },
+  {
+      "id": "50",
+      "name": "Health and Wellness Expo",
+      "detail": "Explore the latest trends in health and wellness at our annual expo. This event features expert speakers, interactive workshops, and a wide range of exhibitors showcasing innovative health products and services. Attendees will learn about various aspects of health, from nutrition to mental well-being, and have the chance to participate in engaging activities. Whether you're a health enthusiast or simply looking to improve your well-being, this expo offers valuable insights and inspiration. Join us in Bali for a rejuvenating experience.",
+      "location": "Bali",
+      "ticket_type": [
+          {
+              "id": 1,
+              "name": "General Admission",
+              "price": 0,
+              "seats": 200
+          }
+      ],
+      "start_date": "2026-09-15T00:00:00.000Z",
+      "end_date": "2026-09-17T00:00:00.000Z",
+      "organizer": {
+          "id": "1",
+          "name": "Emilys Johnson",
+          "image": "https://picsum.photos/1200/800"
+      },
+      "category": "Health",
+      "main_image": "https://picsum.photos/1200/800"
+  },
+  {
+      "id": "51",
+      "name": "Artificial Intelligence Hackathon",
+      "detail": "Compete and innovate at our Artificial Intelligence Hackathon. This event invites developers, engineers, and tech enthusiasts to collaborate on projects that leverage AI technology. Participants will work in teams to solve challenges, create prototypes, and showcase their solutions. In addition to coding, there will be mentorship, networking opportunities, and workshops to enhance skills. Whether you're an experienced developer or new to AI, this hackathon offers a vibrant environment for creativity and collaboration. Join us in Jakarta for an exhilarating experience.",
+      "location": "Jakarta",
+      "ticket_type": [
+          {
+              "id": 1,
+              "name": "Team Entry",
+              "price": 0,
+              "seats": 10
+          }
+      ],
+      "start_date": "2026-10-01T00:00:00.000Z",
+      "end_date": "2026-10-03T00:00:00.000Z",
       "organizer": {
           "id": "2",
           "name": "Bob Smith",
+          "image": "https://picsum.photos/1200/800"
+      },
+      "category": "Technology",
+      "main_image": "https://picsum.photos/1200/800"
+  },
+  {
+      "id": "52",
+      "name": "Annual Marketing Conference",
+      "detail": "Join us at the Annual Marketing Conference, where marketing professionals gather to explore the latest trends, strategies, and tools in the industry. This event features keynote speakers, panel discussions, and workshops that cover various aspects of marketing, from digital strategies to brand management. Attendees will have the chance to network with industry leaders and gain valuable insights into enhancing their marketing efforts. Whether you're a seasoned marketer or new to the field, this conference offers essential knowledge and connections. Join us in Batam for an insightful experience.",
+      "location": "Batam",
+      "ticket_type": [
+          {
+              "id": 1,
+              "name": "General Admission",
+              "price": 100000,
+              "seats": 300
+          },
+          {
+              "id": 2,
+              "name": "VIP Access",
+              "price": 250000,
+              "seats": 100
+          }
+      ],
+      "start_date": "2026-11-15T00:00:00.000Z",
+      "end_date": "2026-11-17T00:00:00.000Z",
+      "organizer": {
+          "id": "3",
+          "name": "Carol White",
           "image": "https://picsum.photos/1200/800"
       },
       "category": "Marketing",
       "main_image": "https://picsum.photos/1200/800"
   },
   {
-      "id": "31",
-      "name": "Creative Writing Workshop",
-      "detail": "Unlock your creative potential at our immersive creative writing workshop. This event offers a range of sessions focused on different aspects of writing, including fiction, non-fiction, poetry, and screenwriting. You'll learn from accomplished writers who will share their techniques, tips, and insights. In addition to the formal sessions, there will be opportunities for peer review, one-on-one mentoring, and writing exercises. Whether you're an aspiring writer or looking to hone your skills, this workshop provides a supportive and inspiring environment. Join us in Bali for a weekend of creativity and literary exploration.",
-      "location": "Bali",
+      "id": "53",
+      "name": "Cybersecurity Awareness Day",
+      "detail": "Participate in Cybersecurity Awareness Day and learn about the importance of online security. This event features expert speakers, interactive workshops, and discussions on best practices for protecting personal and organizational data. Attendees will gain insights into the latest trends in cybersecurity and how to stay safe in an increasingly digital world. Whether you're a tech professional or just looking to improve your online safety, this event provides essential knowledge and resources. Join us online for a crucial learning experience.",
+      "location": "Online",
       "ticket_type": [
           {
               "id": 1,
-              "name": "General Admission",
-              "price": 50000,
-              "seats": 50
-          },
-          {
-              "id": 2,
-              "name": "VIP",
-              "price": 100000,
-              "seats": 20
-          }
-      ],
-      "start_date": "2025-03-05T00:00:00.000Z",
-      "end_date": "2025-03-07T00:00:00.000Z",
-      "organizer": {
-          "id": "3",
-          "name": "Carol White",
-          "image": "https://picsum.photos/1200/800"
-      },
-      "category": "Literature",
-      "main_image": "https://picsum.photos/1200/800"
-  },
-  {
-      "id": "32",
-      "name": "Health and Wellness Expo",
-      "detail": "Discover the latest trends and innovations in health and wellness at our annual expo. This event features a variety of exhibitors showcasing products and services related to fitness, nutrition, mental health, and more. You'll have the opportunity to attend workshops, participate in fitness classes, and receive health screenings. In addition to the exhibitor booths, there will be keynote speeches and panel discussions from experts in the health and wellness industry. Whether you're looking to improve your own health or work in the wellness field, this expo offers valuable information and resources. Join us in Jakarta for a comprehensive exploration of health and wellness.",
-      "location": "Jakarta",
-      "ticket_type": [
-          {
-              "id": 1,
-              "name": "General Admission",
+              "name": "Free Entry",
               "price": 0,
-              "seats": 200
+              "seats": 500
           }
       ],
-      "start_date": "2025-04-10T00:00:00.000Z",
-      "end_date": "2025-04-12T00:00:00.000Z",
+      "start_date": "2026-12-10T00:00:00.000Z",
+      "end_date": "2026-12-12T00:00:00.000Z",
       "organizer": {
           "id": "1",
           "name": "Emilys Johnson",
           "image": "https://picsum.photos/1200/800"
       },
-      "category": "Health & Wellness",
+      "category": "Cybersecurity",
       "main_image": "https://picsum.photos/1200/800"
-  },
-  {
-      "id": "33",
-      "name": "Sustainability Forum",
-      "detail": "Join us for a comprehensive discussion on sustainability at our annual forum. This event brings together experts, activists, and policymakers to explore the latest developments in sustainable practices and technologies. You'll have the opportunity to attend keynote speeches, panel discussions, and workshops covering a wide range of topics, including renewable energy, sustainable agriculture, and green building. In addition to the formal sessions, there will be networking opportunities and exhibits showcasing innovative solutions. Whether you're a sustainability professional, student, or concerned citizen, this forum offers valuable insights and inspiration. Join us in Batam for a day of learning and action.",
-      "location": "Batam",
-      "ticket_type": [
-          {
-              "id": 1,
-              "name": "General Admission",
-              "price": 0,
-              "seats": 150
-          }
-      ],
-      "start_date": "2025-05-15T00:00:00.000Z",
-      "end_date": "2025-05-16T00:00:00.000Z",
-      "organizer": {
-          "id": "3",
-          "name": "Carol White",
-          "image": "https://picsum.photos/1200/800"
-      },
-      "category": "Environment",
-      "main_image": "https://picsum.photos/1200/800"
-  },
-  {
-      "id": "34",
-      "name": "Tech Innovators Conference",
-      "detail": "Explore the future of technology at our annual tech innovators conference. This event brings together leading minds in the tech industry to discuss the latest advancements and trends. You'll have the opportunity to attend keynote speeches, panel discussions, and workshops on topics such as artificial intelligence, blockchain, and cybersecurity. In addition to the formal sessions, there will be networking opportunities and exhibits showcasing cutting-edge technologies. Whether you're a tech professional, entrepreneur, or enthusiast, this conference offers valuable insights and inspiration. Join us in Jakarta for a dynamic and engaging exploration of technology.",
-      "location": "Jakarta",
-      "ticket_type": [
-          {
-              "id": 1,
-              "name": "General Admission",
-              "price": 0,
-              "seats": 300
-          }
-      ],
-      "start_date": "2025-06-10T00:00:00.000Z",
-      "end_date": "2025-06-12T00:00:00.000Z",
-      "organizer": {
-          "id": "2",
-          "name": "Bob Smith",
-          "image": "https://picsum.photos/1200/800"
-      },
-      "category": "Technology",
-      "main_image": "https://picsum.photos/1200/800"
-  },
-  {
-      "id": "35",
-      "name": "Photography Workshop",
-      "detail": "Enhance your photography skills at our immersive workshop. This event offers a range of sessions covering different aspects of photography, including composition, lighting, and post-processing. You'll learn from experienced photographers who will share their techniques, tips, and insights. In addition to the formal sessions, there will be hands-on practice, peer review, and one-on-one mentoring. Whether you're a beginner or looking to take your skills to the next level, this workshop provides a supportive and inspiring environment. Join us in Bali for a weekend of creativity and learning.",
-      "location": "Bali",
-      "ticket_type": [
-          {
-              "id": 1,
-              "name": "General Admission",
-              "price": 50000,
-              "seats": 50
-          },
-          {
-              "id": 2,
-              "name": "VIP",
-              "price": 100000,
-              "seats": 20
-          }
-      ],
-      "start_date": "2025-07-05T00:00:00.000Z",
-      "end_date": "2025-07-07T00:00:00.000Z",
-      "organizer": {
-          "id": "3",
-          "name": "Carol White",
-          "image": "https://picsum.photos/1200/800"
-      },
-      "category": "Photography",
-      "main_image": "https://picsum.photos/1200/800"
-  },
-  {
-      "id": "36",
-      "name": "Fashion Show",
-      "detail": "Witness the latest trends and designs at our annual fashion show. This event features collections from renowned designers as well as up-and-coming talent. You'll have the opportunity to see the latest fashion trends, meet designers, and enjoy a night of glamour and style. In addition to the runway shows, there will be pop-up shops, networking opportunities, and after-parties. Whether you're a fashion enthusiast, industry professional, or simply looking for a night out, this event offers a stylish and entertaining experience. Join us in Jakarta for a celebration of fashion and creativity.",
-      "location": "Jakarta",
-      "ticket_type": [
-          {
-              "id": 1,
-              "name": "General Admission",
-              "price": 0,
-              "seats": 200
-          }
-      ],
-      "start_date": "2025-08-01T00:00:00.000Z",
-      "end_date": "2025-08-01T00:00:00.000Z",
-      "organizer": {
-          "id": "1",
-          "name": "Emilys Johnson",
-          "image": "https://picsum.photos/1200/800"
-      },
-      "category": "Fashion",
-      "main_image": "https://picsum.photos/1200/800"
-  },
-  {
-      "id": "37",
-      "name": "Startup Accelerator Program",
-      "detail": "Take your startup to the next level with our intensive accelerator program. This event offers a range of resources and support to help you grow your business, including mentoring, funding opportunities, and workshops. You'll have the opportunity to work with experienced entrepreneurs and investors who will provide guidance and feedback. In addition to the formal sessions, there will be networking opportunities and one-on-one mentoring. Whether you're just starting out or looking to scale your business, this program offers valuable knowledge and support. Join us in Batam for a transformative learning experience.",
-      "location": "Batam",
-      "ticket_type": [
-          {
-              "id": 1,
-              "name": "General Admission",
-              "price": 100000,
-              "seats": 50
-          },
-          {
-              "id": 2,
-              "name": "VIP",
-              "price": 200000,
-              "seats": 20
-          }
-      ],
-      "start_date": "2025-09-10T00:00:00.000Z",
-      "end_date": "2025-09-15T00:00:00.000Z",
-      "organizer": {
-          "id": "2",
-          "name": "Bob Smith",
-          "image": "https://picsum.photos/1200/800"
-      },
-      "category": "Business",
-      "main_image": "https://picsum.photos/1200/800"
-  },
-  {
-      "id": "38",
-      "name": "Film Making Workshop",
-      "detail": "Learn the art of filmmaking at our comprehensive workshop. This event covers a wide range of topics, including scriptwriting, directing, cinematography, and editing. You'll learn from experienced filmmakers who will share their techniques, tips, and insights. In addition to the formal sessions, there will be hands-on practice, peer review, and one-on-one mentoring. Whether you're an aspiring filmmaker or looking to hone your skills, this workshop provides a supportive and inspiring environment. Join us in Bali for a weekend of creativity and learning.",
-      "location": "Bali",
-      "ticket_type": [
-          {
-              "id": 1,
-              "name": "General Admission",
-              "price": 100000,
-              "seats": 50
-          },
-          {
-              "id": 2,
-              "name": "VIP",
-              "price": 200000,
-              "seats": 20
-          },
-          {
-              "id": 3,
-              "name": "Backstage Pass",
-              "price": 300000,
-              "seats": 10
-          }
-      ],
-      "start_date": "2025-10-05T00:00:00.000Z",
-      "end_date": "2025-10-07T00:00:00.000Z",
-      "organizer": {
-          "id": "3",
-          "name": "Carol White",
-          "image": "https://picsum.photos/1200/800"
-      },
-      "category": "Film",
-      "main_image": "https://picsum.photos/1200/800"
-  },
-  {
-      "id": "39",
-      "name": "Jakarta Blockchain Summit",
-      "detail": "Explore the future of blockchain technology at our annual summit. This event brings together leading experts and innovators to discuss the latest developments and trends in blockchain. You'll have the opportunity to attend keynote speeches, panel discussions, and workshops on topics such as cryptocurrency, smart contracts, and decentralized applications. In addition to the formal sessions, there will be networking opportunities and exhibits showcasing cutting-edge blockchain solutions. Whether you're a blockchain professional, investor, or enthusiast, this summit offers valuable insights and inspiration. Join us in Jakarta for a dynamic and engaging exploration of blockchain technology.",
-      "location": "Jakarta",
-      "ticket_type": [
-          {
-              "id": 1,
-              "name": "General Admission",
-              "price": 0,
-              "seats": 300
-          }
-      ],
-      "start_date": "2025-11-10T00:00:00.000Z",
-      "end_date": "2025-11-12T00:00:00.000Z",
-      "organizer": {
-          "id": "2",
-          "name": "Bob Smith",
-          "image": "https://picsum.photos/1200/800"
-      },
-      "category": "Technology",
-      "main_image": "https://picsum.photos/1200/800"
-  },
-  {
-    "id": "40",
-    "name": "Digital Art Workshop",
-    "detail": "Enhance your digital art skills at our immersive workshop. This event offers a range of sessions covering different aspects of digital art, including drawing, painting, and 3D modeling. You'll learn from experienced digital artists who will share their techniques, tips, and insights. In addition to the formal sessions, there will be hands-on practice, peer review, and one-on-one mentoring. Whether you're a beginner or looking to take your skills to the next level, this workshop provides a supportive and inspiring environment. Join us in Bali for a creative experience.",
-    "location": "Bali",
-    "ticket_type": [
+  }
+  ],
+    "categories": [
         {
-            "id": 1,
-            "name": "General Admission",
-            "price": 100000,
-            "seats": 50
+            "name": "Technology"
         },
         {
-            "id": 2,
-            "name": "VIP",
-            "price": 200000,
-            "seats": 20
-        }
-    ],
-    "start_date": "2025-11-01T00:00:00.000Z",
-    "end_date": "2025-11-03T00:00:00.000Z",
-    "organizer": {
-        "id": "3",
-        "name": "Carol White",
-        "image": "https://picsum.photos/1200/800"
-    },
-    "category": "Art",
-    "main_image": "https://picsum.photos/1200/800"
-},
-{
-    "id": "41",
-    "name": "AI and Machine Learning Summit",
-    "detail": "Dive into the future of technology at our AI and Machine Learning Summit. This event gathers leading experts and innovators in the field to discuss cutting-edge advancements, trends, and applications in AI and machine learning. Attendees will have the opportunity to engage in keynote speeches, panel discussions, and hands-on workshops that explore the latest tools and techniques. Whether you're an industry professional, researcher, or enthusiast, this summit offers invaluable insights and networking opportunities. Join us in Jakarta for a transformative experience.",
-    "location": "Jakarta",
-    "ticket_type": [
-        {
-            "id": 1,
-            "name": "General Admission",
-            "price": 0,
-            "seats": 300
+            "name": "Health & Wellness"
         },
         {
-            "id": 2,
-            "name": "Premium Access",
-            "price": 250000,
-            "seats": 100
-        }
-    ],
-    "start_date": "2025-12-01T00:00:00.000Z",
-    "end_date": "2025-12-03T00:00:00.000Z",
-    "organizer": {
-        "id": "2",
-        "name": "Bob Smith",
-        "image": "https://picsum.photos/1200/800"
-    },
-    "category": "Technology",
-    "main_image": "https://picsum.photos/1200/800"
-},
-{
-    "id": "42",
-    "name": "Culinary Arts Festival",
-    "detail": "Join us for a celebration of culinary creativity at our Culinary Arts Festival. This event showcases a variety of food and beverage trends, featuring renowned chefs, local vendors, and interactive cooking demonstrations. Attendees will have the chance to sample delicious dishes, attend workshops, and engage with industry experts. Whether you're a food lover or aspiring chef, this festival offers a unique opportunity to learn, taste, and connect. Join us in Bali for a flavorful experience.",
-    "location": "Bali",
-    "ticket_type": [
-        {
-            "id": 1,
-            "name": "General Admission",
-            "price": 0,
-            "seats": 400
+            "name": "Business"
         },
         {
-            "id": 2,
-            "name": "VIP Experience",
-            "price": 150000,
-            "seats": 50
-        }
-    ],
-    "start_date": "2026-01-10T00:00:00.000Z",
-    "end_date": "2026-01-12T00:00:00.000Z",
-    "organizer": {
-        "id": "1",
-        "name": "Emilys Johnson",
-        "image": "https://picsum.photos/1200/800"
-    },
-    "category": "Culinary",
-    "main_image": "https://picsum.photos/1200/800"
-},
-{
-    "id": "43",
-    "name": "Virtual Reality Expo",
-    "detail": "Step into the future of immersive technology at our Virtual Reality Expo. This event will showcase the latest advancements in virtual and augmented reality, featuring demonstrations from industry leaders and innovators. Attendees will have the chance to experience cutting-edge VR applications, attend workshops, and participate in panel discussions on the future of the technology. Whether you're a tech enthusiast or industry professional, this expo offers a unique opportunity to explore the potential of virtual reality. Join us online for an unforgettable experience.",
-    "location": "Online",
-    "ticket_type": [
-        {
-            "id": 1,
-            "name": "Free Access",
-            "price": 0,
-            "seats": 500
-        }
-    ],
-    "start_date": "2026-02-15T00:00:00.000Z",
-    "end_date": "2026-02-17T00:00:00.000Z",
-    "organizer": {
-        "id": "3",
-        "name": "Carol White",
-        "image": "https://picsum.photos/1200/800"
-    },
-    "category": "Technology",
-    "main_image": "https://picsum.photos/1200/800"
-},
-{
-    "id": "44",
-    "name": "International Coding Bootcamp",
-    "detail": "Elevate your coding skills at our International Coding Bootcamp. This event is designed for developers of all levels, offering a wide range of workshops and sessions that cover various programming languages, frameworks, and best practices. Attendees will benefit from hands-on coding sessions, mentorship opportunities, and networking with fellow developers. Whether you're looking to start a new career in tech or enhance your existing skills, this bootcamp provides invaluable resources and knowledge. Join us in Jakarta for an empowering coding experience.",
-    "location": "Jakarta",
-    "ticket_type": [
-        {
-            "id": 1,
-            "name": "General Admission",
-            "price": 200000,
-            "seats": 300
+            "name": "Entertainment"
         },
         {
-            "id": 2,
-            "name": "VIP Pass",
-            "price": 400000,
-            "seats": 100
-        }
-    ],
-    "start_date": "2026-03-20T00:00:00.000Z",
-    "end_date": "2026-03-22T00:00:00.000Z",
-    "organizer": {
-        "id": "2",
-        "name": "Bob Smith",
-        "image": "https://picsum.photos/1200/800"
-    },
-    "category": "Technology",
-    "main_image": "https://picsum.photos/1200/800"
-},
-{
-    "id": "45",
-    "name": "Global Entrepreneurship Summit",
-    "detail": "Join us at the Global Entrepreneurship Summit, where innovative minds come together to discuss trends, challenges, and opportunities in entrepreneurship. This event features inspiring keynote speeches, interactive panel discussions, and networking opportunities that connect aspiring entrepreneurs with industry leaders. Attendees will gain valuable insights into launching and scaling businesses in today's dynamic landscape. Whether you're an established entrepreneur or just starting out, this summit provides the tools and connections you need for success. Join us in Batam for an impactful experience.",
-    "location": "Batam",
-    "ticket_type": [
-        {
-            "id": 1,
-            "name": "General Admission",
-            "price": 0,
-            "seats": 500
-        }
-    ],
-    "start_date": "2026-04-15T00:00:00.000Z",
-    "end_date": "2026-04-17T00:00:00.000Z",
-    "organizer": {
-        "id": "1",
-        "name": "Emilys Johnson",
-        "image": "https://picsum.photos/1200/800"
-    },
-    "category": "Business",
-    "main_image": "https://picsum.photos/1200/800"
-},
-{
-    "id": "46",
-    "name": "Digital Transformation Forum",
-    "detail": "Explore the world of digital transformation at our annual forum. This event brings together experts, businesses, and innovators to discuss strategies and technologies that drive digital change. Attendees will have the opportunity to participate in keynote speeches, workshops, and networking events that explore real-world case studies and successful digital initiatives. Whether you're a business leader, IT professional, or tech enthusiast, this forum provides valuable insights into navigating the digital landscape. Join us in Jakarta for a forward-thinking experience.",
-    "location": "Jakarta",
-    "ticket_type": [
-        {
-            "id": 1,
-            "name": "General Admission",
-            "price": 0,
-            "seats": 200
-        }
-    ],
-    "start_date": "2026-05-10T00:00:00.000Z",
-    "end_date": "2026-05-12T00:00:00.000Z",
-    "organizer": {
-        "id": "2",
-        "name": "Bob Smith",
-        "image": "https://picsum.photos/1200/800"
-    },
-    "category": "Technology",
-    "main_image": "https://picsum.photos/1200/800"
-},
-{
-    "id": "47",
-    "name": "Music and Arts Festival",
-    "detail": "Celebrate the fusion of music and art at our vibrant festival. This event features live performances from talented musicians, interactive art installations, and engaging workshops that explore the intersection of creativity. Attendees will have the chance to enjoy diverse musical genres, participate in artistic activities, and connect with fellow creatives. Whether you're a music lover, artist, or simply looking for a fun day out, this festival offers an unforgettable experience. Join us in Bali for a weekend of artistic celebration.",
-    "location": "Bali",
-    "ticket_type": [
-        {
-            "id": 1,
-            "name": "General Admission",
-            "price": 100000,
-            "seats": 100
+            "name": "Education"
         },
         {
-            "id": 2,
-            "name": "VIP Pass",
-            "price": 250000,
-            "seats": 50
-        }
-    ],
-    "start_date": "2026-06-01T00:00:00.000Z",
-    "end_date": "2026-06-03T00:00:00.000Z",
-    "organizer": {
-        "id": "3",
-        "name": "Carol White",
-        "image": "https://picsum.photos/1200/800"
-    },
-    "category": "Music",
-    "main_image": "https://picsum.photos/1200/800"
-},
-{
-    "id": "48",
-    "name": "Blockchain Developer Conference",
-    "detail": "Join us for the Blockchain Developer Conference, where industry leaders gather to discuss the future of blockchain technology and its applications. This event features expert speakers, hands-on workshops, and networking opportunities that connect developers with innovators in the blockchain space. Attendees will gain insights into emerging trends, best practices, and the latest developments in blockchain technology. Whether you're a seasoned developer or new to the field, this conference offers valuable knowledge and connections. Join us in Jakarta for an enlightening experience.",
-    "location": "Jakarta",
-    "ticket_type": [
-        {
-            "id": 1,
-            "name": "General Admission",
-            "price": 0,
-            "seats": 300
+            "name": "Sports"
         },
         {
-            "id": 2,
-            "name": "Developer Pass",
-            "price": 200000,
-            "seats": 100
-        }
-    ],
-    "start_date": "2026-07-10T00:00:00.000Z",
-    "end_date": "2026-07-12T00:00:00.000Z",
-    "organizer": {
-        "id": "2",
-        "name": "Bob Smith",
-        "image": "https://picsum.photos/1200/800"
-    },
-    "category": "Technology",
-    "main_image": "https://picsum.photos/1200/800"
-},
-{
-    "id": "49",
-    "name": "E-Sports Championship",
-    "detail": "Join the ultimate showdown at our E-Sports Championship. This event brings together top teams from around the world to compete in thrilling matches across various popular games. Attendees will have the opportunity to witness live competitions, participate in meet-and-greets with gamers, and enjoy exciting activities. Whether you're a hardcore gamer or a casual fan, this championship offers an electrifying atmosphere and a chance to cheer for your favorite teams. Join us in Jakarta for a spectacular gaming event.",
-    "location": "Jakarta",
-    "ticket_type": [
-        {
-            "id": 1,
-            "name": "General Admission",
-            "price": 0,
-            "seats": 500
+            "name": "Travel"
         },
         {
-            "id": 2,
-            "name": "VIP Experience",
-            "price": 150000,
-            "seats": 100
-        }
-    ],
-    "start_date": "2026-08-01T00:00:00.000Z",
-    "end_date": "2026-08-03T00:00:00.000Z",
-    "organizer": {
-        "id": "3",
-        "name": "Carol White",
-        "image": "https://picsum.photos/1200/800"
-    },
-    "category": "Gaming",
-    "main_image": "https://picsum.photos/1200/800"
-},
-{
-    "id": "50",
-    "name": "Health and Wellness Expo",
-    "detail": "Explore the latest trends in health and wellness at our annual expo. This event features expert speakers, interactive workshops, and a wide range of exhibitors showcasing innovative health products and services. Attendees will learn about various aspects of health, from nutrition to mental well-being, and have the chance to participate in engaging activities. Whether you're a health enthusiast or simply looking to improve your well-being, this expo offers valuable insights and inspiration. Join us in Bali for a rejuvenating experience.",
-    "location": "Bali",
-    "ticket_type": [
-        {
-            "id": 1,
-            "name": "General Admission",
-            "price": 0,
-            "seats": 200
-        }
-    ],
-    "start_date": "2026-09-15T00:00:00.000Z",
-    "end_date": "2026-09-17T00:00:00.000Z",
-    "organizer": {
-        "id": "1",
-        "name": "Emilys Johnson",
-        "image": "https://picsum.photos/1200/800"
-    },
-    "category": "Health",
-    "main_image": "https://picsum.photos/1200/800"
-},
-{
-    "id": "51",
-    "name": "Artificial Intelligence Hackathon",
-    "detail": "Compete and innovate at our Artificial Intelligence Hackathon. This event invites developers, engineers, and tech enthusiasts to collaborate on projects that leverage AI technology. Participants will work in teams to solve challenges, create prototypes, and showcase their solutions. In addition to coding, there will be mentorship, networking opportunities, and workshops to enhance skills. Whether you're an experienced developer or new to AI, this hackathon offers a vibrant environment for creativity and collaboration. Join us in Jakarta for an exhilarating experience.",
-    "location": "Jakarta",
-    "ticket_type": [
-        {
-            "id": 1,
-            "name": "Team Entry",
-            "price": 0,
-            "seats": 10
-        }
-    ],
-    "start_date": "2026-10-01T00:00:00.000Z",
-    "end_date": "2026-10-03T00:00:00.000Z",
-    "organizer": {
-        "id": "2",
-        "name": "Bob Smith",
-        "image": "https://picsum.photos/1200/800"
-    },
-    "category": "Technology",
-    "main_image": "https://picsum.photos/1200/800"
-},
-{
-    "id": "52",
-    "name": "Annual Marketing Conference",
-    "detail": "Join us at the Annual Marketing Conference, where marketing professionals gather to explore the latest trends, strategies, and tools in the industry. This event features keynote speakers, panel discussions, and workshops that cover various aspects of marketing, from digital strategies to brand management. Attendees will have the chance to network with industry leaders and gain valuable insights into enhancing their marketing efforts. Whether you're a seasoned marketer or new to the field, this conference offers essential knowledge and connections. Join us in Batam for an insightful experience.",
-    "location": "Batam",
-    "ticket_type": [
-        {
-            "id": 1,
-            "name": "General Admission",
-            "price": 100000,
-            "seats": 300
+            "name": "Food & Drink"
         },
         {
-            "id": 2,
-            "name": "VIP Access",
-            "price": 250000,
-            "seats": 100
-        }
-    ],
-    "start_date": "2026-11-15T00:00:00.000Z",
-    "end_date": "2026-11-17T00:00:00.000Z",
-    "organizer": {
-        "id": "3",
-        "name": "Carol White",
-        "image": "https://picsum.photos/1200/800"
-    },
-    "category": "Marketing",
-    "main_image": "https://picsum.photos/1200/800"
-},
-{
-    "id": "53",
-    "name": "Cybersecurity Awareness Day",
-    "detail": "Participate in Cybersecurity Awareness Day and learn about the importance of online security. This event features expert speakers, interactive workshops, and discussions on best practices for protecting personal and organizational data. Attendees will gain insights into the latest trends in cybersecurity and how to stay safe in an increasingly digital world. Whether you're a tech professional or just looking to improve your online safety, this event provides essential knowledge and resources. Join us online for a crucial learning experience.",
-    "location": "Online",
-    "ticket_type": [
+            "name": "Fashion"
+        },
         {
-            "id": 1,
-            "name": "Free Entry",
-            "price": 0,
-            "seats": 500
+            "name": "Art & Culture"
+        },
+        {
+            "name": "Science"
+        },
+        {
+            "name": "Politics"
+        },
+        {
+            "name": "Environment"
+        },
+        {
+            "name": "Automotive"
+        },
+        {
+            "name": "Gaming"
         }
-    ],
-    "start_date": "2026-12-10T00:00:00.000Z",
-    "end_date": "2026-12-12T00:00:00.000Z",
-    "organizer": {
-        "id": "1",
-        "name": "Emilys Johnson",
-        "image": "https://picsum.photos/1200/800"
-    },
-    "category": "Cybersecurity",
-    "main_image": "https://picsum.photos/1200/800"
-}
-],
-  "categories": [
+    ], "ticket_purchases": [
       {
-          "name": "Technology"
+          "id": 1,
+          "user_id": 2,
+          "user_name": "Bob Smith",
+          "event_id": 1,
+          "event_name": "FPS Fundamental",
+          "event_type_id": 1,
+          "event_type_name": "Free tier",
+          "organizer_id": 4,
+          "created_at": "2024-05-15T10:00:00Z"
       },
       {
-          "name": "Health & Wellness"
+          "id": 2,
+          "user_id": 3,
+          "user_name": "Carol White",
+          "event_id": 2,
+          "event_name": "Virtual Reality Workshop: Immersive Experiences",
+          "event_type_id": 1,
+          "event_type_name": "Gold",
+          "organizer_id": 4,
+          "created_at": "2024-05-16T12:00:00Z"
       },
       {
-          "name": "Business"
+          "id": 3,
+          "user_id": 1,
+          "user_name": "David Brown",
+          "event_id": 3,
+          "event_name": "Tech Startup Summit: Entrepreneurship in Action",
+          "event_type_id": 2,
+          "event_type_name": "Silver",
+          "organizer_id": 4,
+          "created_at": "2024-05-17T14:00:00Z"
       },
       {
-          "name": "Entertainment"
+          "id": 4,
+          "user_id": 5,
+          "user_name": "Eve Davis",
+          "event_id": 1,
+          "event_name": "FPS Fundamental",
+          "event_type_id": 2,
+          "event_type_name": "Front Seat",
+          "organizer_id": 4,
+          "created_at": "2024-05-18T16:00:00Z"
       },
       {
-          "name": "Education"
+          "id": 5,
+          "user_id": 6,
+          "user_name": "Frank Miller",
+          "event_id": 2,
+          "event_name": "Virtual Reality Workshop: Immersive Experiences",
+          "event_type_id": 2,
+          "event_type_name": "VIP Pass",
+          "organizer_id": 4,
+          "created_at": "2024-05-19T18:00:00Z"
       },
       {
-          "name": "Sports"
+          "id": 6,
+          "user_id": 7,
+          "user_name": "Grace Lee",
+          "event_id": 3,
+          "event_name": "Tech Startup Summit: Entrepreneurship in Action",
+          "event_type_id": 1,
+          "event_type_name": "Free tier",
+          "organizer_id": 4,
+          "created_at": "2024-05-20T20:00:00Z"
       },
       {
-          "name": "Travel"
+          "id": 7,
+          "user_id": 8,
+          "user_name": "Henry Wilson",
+          "event_id": 1,
+          "event_name": "FPS Fundamental",
+          "event_type_id": 1,
+          "event_type_name": "General Admission",
+          "organizer_id": 4,
+          "created_at": "2024-05-21T09:00:00Z"
       },
       {
-          "name": "Food & Drink"
+          "id": 8,
+          "user_id": 9,
+          "user_name": "Ivy Martinez",
+          "event_id": 2,
+          "event_name": "Virtual Reality Workshop: Immersive Experiences",
+          "event_type_id": 3,
+          "event_type_name": "Silver",
+          "organizer_id": 4,
+          "created_at": "2024-05-22T11:00:00Z"
       },
       {
-          "name": "Fashion"
+          "id": 9,
+          "user_id": 10,
+          "user_name": "Jack Taylor",
+          "event_id": 3,
+          "event_name": "Tech Startup Summit: Entrepreneurship in Action",
+          "event_type_id": 1,
+          "event_type_name": "Free tier",
+          "organizer_id": 4,
+          "created_at": "2024-05-23T13:00:00Z"
       },
       {
-          "name": "Art & Culture"
+          "id": 10,
+          "user_id": 11,
+          "user_name": "Karen Harris",
+          "event_id": 1,
+          "event_name": "FPS Fundamental",
+          "event_type_id": 3,
+          "event_type_name": "VIP Pass",
+          "organizer_id": 4,
+          "created_at": "2024-05-24T15:00:00Z"
       },
       {
-          "name": "Science"
+          "id": 11,
+          "user_id": 12,
+          "user_name": "Leo Adams",
+          "event_id": 2,
+          "event_name": "Virtual Reality Workshop: Immersive Experiences",
+          "event_type_id": 2,
+          "event_type_name": "Gold",
+          "organizer_id": 4,
+          "created_at": "2024-05-25T17:00:00Z"
       },
       {
-          "name": "Politics"
+          "id": 12,
+          "user_id": 13,
+          "user_name": "Mia Walker",
+          "event_id": 3,
+          "event_name": "Tech Startup Summit: Entrepreneurship in Action",
+          "event_type_id": 2,
+          "event_type_name": "Silver",
+          "organizer_id": 4,
+          "created_at": "2024-05-26T19:00:00Z"
       },
       {
-          "name": "Environment"
+          "id": 13,
+          "user_id": 4,
+          "user_name": "Alice Johnson",
+          "event_id": 40,
+          "event_name": "AI Innovations in 2025",
+          "event_type_id": 2,
+          "event_type_name": "Gold",
+          "organizer_id": 2,
+          "created_at": "2024-05-27T09:00:00Z"
       },
       {
-          "name": "Automotive"
+          "id": 14,
+          "user_id": 4,
+          "user_name": "Alice Johnson",
+          "event_id": 41,
+          "event_name": "Future of Blockchain Technology",
+          "event_type_id": 3,
+          "event_type_name": "VIP Pass",
+          "organizer_id": 3,
+          "created_at": "2024-05-28T11:00:00Z"
       },
       {
-          "name": "Gaming"
+          "id": 15,
+          "user_id": 4,
+          "user_name": "Alice Johnson",
+          "event_id": 42,
+          "event_name": "Digital Marketing Strategies",
+          "event_type_id": 1,
+          "event_type_name": "Free tier",
+          "organizer_id": 2,
+          "created_at": "2024-05-29T13:00:00Z"
+      },
+      {
+          "id": 16,
+          "user_id": 4,
+          "user_name": "Alice Johnson",
+          "event_id": 43,
+          "event_name": "Cybersecurity Essentials",
+          "event_type_id": 1,
+          "event_type_name": "Free tier",
+          "organizer_id": 3,
+          "created_at": "2024-05-30T15:00:00Z"
+      },
+      {
+          "id": 17,
+          "user_id": 4,
+          "user_name": "Alice Johnson",
+          "event_id": 44,
+          "event_name": "Innovative AI Solutions",
+          "event_type_id": 2,
+          "event_type_name": "Gold",
+          "organizer_id": 2,
+          "created_at": "2024-06-01T10:00:00Z"
+      },
+      {
+          "id": 18,
+          "user_id": 4,
+          "user_name": "Alice Johnson",
+          "event_id": 45,
+          "event_name": "Advanced Robotics Workshop",
+          "event_type_id": 3,
+          "event_type_name": "Silver",
+          "organizer_id": 3,
+          "created_at": "2024-06-02T12:00:00Z"
+      },
+      {
+          "id": 19,
+          "user_id": 4,
+          "user_name": "Alice Johnson",
+          "event_id": 46,
+          "event_name": "Data Science Fundamentals",
+          "event_type_id": 1,
+          "event_type_name": "Free tier",
+          "organizer_id": 2,
+          "created_at": "2024-06-03T14:00:00Z"
+      },
+      {
+          "id": 20,
+          "user_id": 4,
+          "user_name": "Alice Johnson",
+          "event_id": 47,
+          "event_name": "Blockchain and Its Impact",
+          "event_type_id": 2,
+          "event_type_name": "VIP Pass",
+          "organizer_id": 3,
+          "created_at": "2024-06-04T16:00:00Z"
+      },
+      {
+          "id": 21,
+          "user_id": 4,
+          "user_name": "Alice Johnson",
+          "event_id": 48,
+          "event_name": "Digital Transformation Summit",
+          "event_type_id": 1,
+          "event_type_name": "General Admission",
+          "organizer_id": 2,
+          "created_at": "2024-06-05T18:00:00Z"
+      },
+      {
+          "id": 22,
+          "user_id": 4,
+          "user_name": "Alice Johnson",
+          "event_id": 49,
+          "event_name": "Web Development Bootcamp",
+          "event_type_id": 3,
+          "event_type_name": "Silver",
+          "organizer_id": 3,
+          "created_at": "2024-06-06T20:00:00Z"
+      },
+      {
+          "id": 23,
+          "user_id": 4,
+          "user_name": "Alice Johnson",
+          "event_id": 50,
+          "event_name": "Mobile App Development",
+          "event_type_id": 2,
+          "event_type_name": "Gold",
+          "organizer_id": 2,
+          "created_at": "2024-06-07T09:00:00Z"
+      },
+      {
+          "id": 24,
+          "user_id": 4,
+          "user_name": "Alice Johnson",
+          "event_id": 51,
+          "event_name": "Cloud Computing Essentials",
+          "event_type_id": 1,
+          "event_type_name": "Free tier",
+          "organizer_id": 3,
+          "created_at": "2024-06-08T11:00:00Z"
+      },
+      {
+          "id": 25,
+          "user_id": 4,
+          "user_name": "Alice Johnson",
+          "event_id": 52,
+          "event_name": "UX/UI Design Workshop",
+          "event_type_id": 3,
+          "event_type_name": "Silver",
+          "organizer_id": 2,
+          "created_at": "2024-06-09T13:00:00Z"
       }
-  ], "ticket_purchases": [
-    {
-        "id": 1,
-        "user_id": 2,
-        "user_name": "Bob Smith",
-        "event_id": 1,
-        "event_name": "FPS Fundamental",
-        "event_type_id": 1,
-        "event_type_name": "Free tier",
-        "organizer_id": 4,
-        "created_at": "2024-05-15T10:00:00Z"
-    },
-    {
-        "id": 2,
-        "user_id": 3,
-        "user_name": "Carol White",
-        "event_id": 2,
-        "event_name": "Virtual Reality Workshop: Immersive Experiences",
-        "event_type_id": 1,
-        "event_type_name": "Gold",
-        "organizer_id": 4,
-        "created_at": "2024-05-16T12:00:00Z"
-    },
-    {
-        "id": 3,
-        "user_id": 4,
-        "user_name": "David Brown",
-        "event_id": 3,
-        "event_name": "Tech Startup Summit: Entrepreneurship in Action",
-        "event_type_id": 2,
-        "event_type_name": "Silver",
-        "organizer_id": 4,
-        "created_at": "2024-05-17T14:00:00Z"
-    },
-    {
-        "id": 4,
-        "user_id": 5,
-        "user_name": "Eve Davis",
-        "event_id": 1,
-        "event_name": "FPS Fundamental",
-        "event_type_id": 2,
-        "event_type_name": "Front Seat",
-        "organizer_id": 4,
-        "created_at": "2024-05-18T16:00:00Z"
-    },
-    {
-        "id": 5,
-        "user_id": 6,
-        "user_name": "Frank Miller",
-        "event_id": 2,
-        "event_name": "Virtual Reality Workshop: Immersive Experiences",
-        "event_type_id": 2,
-        "event_type_name": "VIP Pass",
-        "organizer_id": 4,
-        "created_at": "2024-05-19T18:00:00Z"
-    },
-    {
-        "id": 6,
-        "user_id": 7,
-        "user_name": "Grace Lee",
-        "event_id": 3,
-        "event_name": "Tech Startup Summit: Entrepreneurship in Action",
-        "event_type_id": 1,
-        "event_type_name": "Free tier",
-        "organizer_id": 4,
-        "created_at": "2024-05-20T20:00:00Z"
-    },
-    {
-        "id": 7,
-        "user_id": 8,
-        "user_name": "Henry Wilson",
-        "event_id": 1,
-        "event_name": "FPS Fundamental",
-        "event_type_id": 1,
-        "event_type_name": "General Admission",
-        "organizer_id": 4,
-        "created_at": "2024-05-21T09:00:00Z"
-    },
-    {
-        "id": 8,
-        "user_id": 9,
-        "user_name": "Ivy Martinez",
-        "event_id": 2,
-        "event_name": "Virtual Reality Workshop: Immersive Experiences",
-        "event_type_id": 3,
-        "event_type_name": "Silver",
-        "organizer_id": 4,
-        "created_at": "2024-05-22T11:00:00Z"
-    },
-    {
-        "id": 9,
-        "user_id": 10,
-        "user_name": "Jack Taylor",
-        "event_id": 3,
-        "event_name": "Tech Startup Summit: Entrepreneurship in Action",
-        "event_type_id": 1,
-        "event_type_name": "Free tier",
-        "organizer_id": 4,
-        "created_at": "2024-05-23T13:00:00Z"
-    },
-    {
-        "id": 10,
-        "user_id": 11,
-        "user_name": "Karen Harris",
-        "event_id": 1,
-        "event_name": "FPS Fundamental",
-        "event_type_id": 3,
-        "event_type_name": "VIP Pass",
-        "organizer_id": 4,
-        "created_at": "2024-05-24T15:00:00Z"
-    },
-    {
-        "id": 11,
-        "user_id": 12,
-        "user_name": "Leo Adams",
-        "event_id": 2,
-        "event_name": "Virtual Reality Workshop: Immersive Experiences",
-        "event_type_id": 2,
-        "event_type_name": "Gold",
-        "organizer_id": 4,
-        "created_at": "2024-05-25T17:00:00Z"
-    },
-    {
-        "id": 12,
-        "user_id": 13,
-        "user_name": "Mia Walker",
-        "event_id": 3,
-        "event_name": "Tech Startup Summit: Entrepreneurship in Action",
-        "event_type_id": 2,
-        "event_type_name": "Silver",
-        "organizer_id": 4,
-        "created_at": "2024-05-26T19:00:00Z"
-    },
-    {
-        "id": 13,
-        "user_id": 4,
-        "user_name": "Alice Johnson",
-        "event_id": 40,
-        "event_name": "AI Innovations in 2025",
-        "event_type_id": 2,
-        "event_type_name": "Gold",
-        "organizer_id": 2,
-        "created_at": "2024-05-27T09:00:00Z"
-    },
-    {
-        "id": 14,
-        "user_id": 4,
-        "user_name": "Alice Johnson",
-        "event_id": 41,
-        "event_name": "Future of Blockchain Technology",
-        "event_type_id": 3,
-        "event_type_name": "VIP Pass",
-        "organizer_id": 3,
-        "created_at": "2024-05-28T11:00:00Z"
-    },
-    {
-        "id": 15,
-        "user_id": 4,
-        "user_name": "Alice Johnson",
-        "event_id": 42,
-        "event_name": "Digital Marketing Strategies",
-        "event_type_id": 1,
-        "event_type_name": "Free tier",
-        "organizer_id": 2,
-        "created_at": "2024-05-29T13:00:00Z"
-    },
-    {
-        "id": 16,
-        "user_id": 4,
-        "user_name": "Alice Johnson",
-        "event_id": 43,
-        "event_name": "Cybersecurity Essentials",
-        "event_type_id": 1,
-        "event_type_name": "Free tier",
-        "organizer_id": 3,
-        "created_at": "2024-05-30T15:00:00Z"
-    },
-    {
-        "id": 17,
-        "user_id": 4,
-        "user_name": "Alice Johnson",
-        "event_id": 44,
-        "event_name": "Innovative AI Solutions",
-        "event_type_id": 2,
-        "event_type_name": "Gold",
-        "organizer_id": 2,
-        "created_at": "2024-06-01T10:00:00Z"
-    },
-    {
-        "id": 18,
-        "user_id": 4,
-        "user_name": "Alice Johnson",
-        "event_id": 45,
-        "event_name": "Advanced Robotics Workshop",
-        "event_type_id": 3,
-        "event_type_name": "Silver",
-        "organizer_id": 3,
-        "created_at": "2024-06-02T12:00:00Z"
-    },
-    {
-        "id": 19,
-        "user_id": 4,
-        "user_name": "Alice Johnson",
-        "event_id": 46,
-        "event_name": "Data Science Fundamentals",
-        "event_type_id": 1,
-        "event_type_name": "Free tier",
-        "organizer_id": 2,
-        "created_at": "2024-06-03T14:00:00Z"
-    },
-    {
-        "id": 20,
-        "user_id": 4,
-        "user_name": "Alice Johnson",
-        "event_id": 47,
-        "event_name": "Blockchain and Its Impact",
-        "event_type_id": 2,
-        "event_type_name": "VIP Pass",
-        "organizer_id": 3,
-        "created_at": "2024-06-04T16:00:00Z"
-    },
-    {
-        "id": 21,
-        "user_id": 4,
-        "user_name": "Alice Johnson",
-        "event_id": 48,
-        "event_name": "Digital Transformation Summit",
-        "event_type_id": 1,
-        "event_type_name": "General Admission",
-        "organizer_id": 2,
-        "created_at": "2024-06-05T18:00:00Z"
-    },
-    {
-        "id": 22,
-        "user_id": 4,
-        "user_name": "Alice Johnson",
-        "event_id": 49,
-        "event_name": "Web Development Bootcamp",
-        "event_type_id": 3,
-        "event_type_name": "Silver",
-        "organizer_id": 3,
-        "created_at": "2024-06-06T20:00:00Z"
-    },
-    {
-        "id": 23,
-        "user_id": 4,
-        "user_name": "Alice Johnson",
-        "event_id": 50,
-        "event_name": "Mobile App Development",
-        "event_type_id": 2,
-        "event_type_name": "Gold",
-        "organizer_id": 2,
-        "created_at": "2024-06-07T09:00:00Z"
-    },
-    {
-        "id": 24,
-        "user_id": 4,
-        "user_name": "Alice Johnson",
-        "event_id": 51,
-        "event_name": "Cloud Computing Essentials",
-        "event_type_id": 1,
-        "event_type_name": "Free tier",
-        "organizer_id": 3,
-        "created_at": "2024-06-08T11:00:00Z"
-    },
-    {
-        "id": 25,
-        "user_id": 4,
-        "user_name": "Alice Johnson",
-        "event_id": 52,
-        "event_name": "UX/UI Design Workshop",
-        "event_type_id": 3,
-        "event_type_name": "Silver",
-        "organizer_id": 2,
-        "created_at": "2024-06-09T13:00:00Z"
-    }
-  ]
-}
+    ]
+  }
+  
