@@ -754,7 +754,7 @@
               "name": "Bob Smith",
               "image": "https://picsum.photos/1200/800"
           },
-          "category": "Health & Wellness",
+          "category": "Wellness",
           "main_image": "https://picsum.photos/1200/800"
       },
       {
@@ -962,7 +962,7 @@
               "name": "Bob Smith",
               "image": "https://picsum.photos/1200/800"
           },
-          "category": "Health & Fitness",
+          "category": "Fitness",
           "main_image": "https://picsum.photos/1200/800"
       },
       {
@@ -1164,7 +1164,7 @@
               "name": "Emilys Johnson",
               "image": "https://picsum.photos/1200/800"
           },
-          "category": "Health & Fitness",
+          "category": "Fitness",
           "main_image": "https://picsum.photos/1200/800"
       },
       {
@@ -1476,7 +1476,7 @@
             "name": "Emilys Johnson",
             "image": "https://picsum.photos/1200/800"
         },
-        "category": "Health & Wellness",
+        "category": "Wellness",
         "main_image": "https://picsum.photos/1200/800"
     },
     {
@@ -2040,7 +2040,7 @@
             "name": "Technology"
         },
         {
-            "name": "Health & Wellness"
+            "name": "Wellness"
         },
         {
             "name": "Business"
